@@ -13,7 +13,7 @@ input_file = "test_file"
 
 
 p_id_genes_dict = {}
-
+abstractsdict={}
 with open (input_file, "r") as input_file:
     lines       =   input_file.readlines()
     for line in lines:
@@ -30,9 +30,21 @@ with open (input_file, "r") as input_file:
                 p_id_genes_dict[p_id].append(gene)
             else:
                 p_id_genes_dict[p_id] = [gene]
-
+        elif "|a|" in i:
+            if "|a|\n" in i:
+                words=word_tokenize(str(i))
+                
+                pubmedid=words[0].split("|")[0]
+                abstractsdict[pubmedid]="None"
+            else:
+                
+                words=word_tokenize(str(i))
+                pubmedid=words[0].split("|")[0]
+                words[0]="".join(words[0].split("|")[2:])
+                #print words
+                abstractsdict[pubmedid]=words
 print p_id_genes_dict
-
+print abstractsdict
 
 
 
