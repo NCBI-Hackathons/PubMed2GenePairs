@@ -39,7 +39,7 @@ pid_genes_dict = {}
 with open (input_file, "r") as input_file2:
     lines       =   input_file2.readlines()
     for line in lines:
-        if "Gene" in line and ("|a|" or "|i|") not in line :
+        if "Gene" in line and ("|a|" or "|t|") not in line :
             line = line.strip('\n')
             line = line.replace("(Tax:", '\t')
             line = re.split(r'\t+', line)
