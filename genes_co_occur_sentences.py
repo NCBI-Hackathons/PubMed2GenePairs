@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 ### NCBI NIH Hackathon
-### quantify co-occurence of gene pairs in abstract sentences.
+### quantify co-occurence of gene pairs in abstract sentences for hypergeom calculations
 ### author: felixfrancier@gmail.com
 
 #import pandas as pd
@@ -35,6 +35,7 @@ with open (input_file, "r") as input_file1:
 
 #print abstract_dictionary
 
+
 ### Genes dictionary and list
 #pid_genes_dict = {}
 genes_list = []
@@ -59,20 +60,40 @@ genes_list = list(set(genes_list))
 #print genes_list
 
 
-
+### Get gene pairs
 gene_pairs = []
-
 for i in xrange(len(genes_list)-1):
     for j in xrange(len(genes_list)-(i+1)):
         #print genes_list[i], genes_list[i+j+1]
         gene_pairs.append([genes_list[i], genes_list[i+j+1]])
-
-print gene_pairs
-
+#print gene_pairs
 
 
+### individual gene count & gene pair count
+individual_gene_count = {}
+for gene in genes_list:
+    individual_gene_count[gene] = 0
+    
+gene_pair_count = {}
+for gene_pair in gene_pairs:
+    gene_pair_count[gene_pair[0] +"_" + gene_pair[1]] = 0
+    
+for p_id, abstract in abstract_dictionary.iteritems():
+    for gene in genes_list:
+        if gene in abstract:
+            individual_gene_count[gene] = individual_gene_count[gene]+1
+    for gene_pair in gene_pairs:
+        if (gene_pair[0] in abstract) and (gene_pair[1] in abstract):
+            gene_pair_count[gene_pair[0] +"_" + gene_pair[1]] = gene_pair_count[gene_pair[0] +"_" + gene_pair[1]] + 1
+
+#print gene_pair_count
+
+print individual_gene_count  
 
 
+for gene_pair, value in gene_pair_count.iteritems():
+    geneA, geneB = gene_pair.split('_')[0], gene_pair.split('_')[1]
+    print geneA, individual_gene_count[geneA], geneB, individual_gene_count[geneB]
 
 
 '''
