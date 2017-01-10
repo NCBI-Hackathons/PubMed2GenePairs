@@ -3,10 +3,10 @@ sample_genes1={"0002":["GENE1", "GENE2", "GENE3", "GENE4"],"0003":["GENE1", "GEN
 def get_common_gene_pairs(genelist):
     genedict={}
     for k,v in sample_genes1.items():
-        listofpairs=[]
-        for i in itertools.combinations(v,2):
-            listofpairs.append(i)
-            genedict[k]=listofpairs
+            listofpairs=[]
+            for i in itertools.combinations(v,2):
+                listofpairs.append(i)
+                genedict[k]=listofpairs
     return genedict
     
 from collections import namedtuple,defaultdict
