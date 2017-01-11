@@ -1,7 +1,6 @@
 #!/usr/bin/python
-
 ### NCBI Hackathon
-### quantify co-occurence of gene pairs and compute hypergeometric cdf based on pid
+### quantify co-occurence of gene pairs and compute hypergeometric cdf based on pid.
 ### gene pairs are calculated per pubmed_id. duplicate and reversed gene pairs are removed.
 ### author: Felix Francis (email: felixfrancier@gmail.com)
 
