@@ -49,7 +49,6 @@ dfAB = pd.merge(dfA, df_gene_names_B, on='GeneB', how='inner')
 ##
 #print dfAB
 
-
 ### print output2 module1 output with gene names converted to numbers
 dfAB.to_csv(out_put_file2, header=None, index=None, sep='\t', mode='a')
 
