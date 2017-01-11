@@ -1,0 +1,1000 @@
+GeneA	GeneA#	GeneB	GeneB#	GeneAB	GeneAB#	p-value
+Dickkopf-1	528	Dlk1	534	Dickkopf-1_Dlk1	1	1.0
+CRK	142	HIPK3	45	CRK_HIPK3	1	1.0
+ACK1	230	Cortactin	216	ACK1_Cortactin	1	1.0
+B-MYB	66	CIP1	852	B-MYB_CIP1	2	1.0
+Bud9p	10	Rax1p	4	Bud9p_Rax1p	3	0.966666666667
+CD44	15983	ZAP70	496	CD44_ZAP70	2	1.0
+connexin43	988	estrogen receptor (ER) beta	8	connexin43_estrogen receptor (ER) beta	0	1.0
+IRS1	1490	PARK2	859	IRS1_PARK2	1	1.0
+CDC25B	307	PDCD2	112	CDC25B_PDCD2	1	1.0
+Aquaporin 1	59	anaplastic lymphoma kinase	1042	Aquaporin 1_anaplastic lymphoma kinase	1	1.0
+apoB	3709	diacylglycerol acyltransferase 2	31	apoB_diacylglycerol acyltransferase 2	2	1.0
+CXCL9	1520	RUNX1	2804	CXCL9_RUNX1	1	1.0
+Angiotensin II	2206	Col3a1	143	Angiotensin II_Col3a1	1	1.0
+casp 3	2	cdk1	128	casp 3_cdk1	1	1.0
+MetAP2	126	adiponectin	24334	MetAP2_adiponectin	1	1.0
+IRS-1	2422	ubiquitin specific protease 7	1	IRS-1_ubiquitin specific protease 7	0	1.0
+polycystin-2	76	trf-1	1	polycystin-2_trf-1	0	1.0
+FACS	714	Sucla2(SAbgeo)	2	FACS_Sucla2(SAbgeo)	1	1.0
+FGF receptor (FGFR) 1	1	FGFR1	3445	FGF receptor (FGFR) 1_FGFR1	0	1.0
+Il7(YFP+)	1	receptor activator of NF-kB	128	Il7(YFP+)_receptor activator of NF-kB	0	1.0
+MUC1	5676	granzyme B	1753	MUC1_granzyme B	3	0.97057580569
+ANG1	81	PACT	546	ANG1_PACT	1	1.0
+CD86	3819	rIL-4	230	CD86_rIL-4	2	1.0
+TASK-1	358	dopamine D(2) receptor	146	TASK-1_dopamine D(2) receptor	1	1.0
+PKCa	2456	RSK	667	PKCa_RSK	1	1.0
+HSP27	2557	IkB	790	HSP27_IkB	1	1.0
+Cxcr4	297	Dbx1	138	Cxcr4_Dbx1	1	1.0
+CYP1A1	4622	HIF1	366	CYP1A1_HIF1	1	1.0
+RSK2	572	signal transducer and activator of transcription 3	1745	RSK2_signal transducer and activator of transcription 3	1	1.0
+CPT1a	72	peroxisome proliferator-activated receptor gamma	932	CPT1a_peroxisome proliferator-activated receptor gamma	1	1.0
+AKR1C2	168	SRD5A2	446	AKR1C2_SRD5A2	6	nan
+HXT5	6	ubiquitin	886	HXT5_ubiquitin	1	1.0
+BGP	743	Cathepsin K	297	BGP_Cathepsin K	1	1.0
+organic anion transporting polypeptide (Oatp) 1a1	1	pregnane X receptor	683	organic anion transporting polypeptide (Oatp) 1a1_pregnane X receptor	0	1.0
+IRF4	1389	RB1	1905	IRF4_RB1	3	nan
+E1 and E3	22	E3	27	E1 and E3_E3	1	1.0
+granzyme B	1753	mast cell tryptase	88	granzyme B_mast cell tryptase	1	1.0
+endothelin 1	367	tyrosinase-related protein 2	26	endothelin 1_tyrosinase-related protein 2	1	1.0
+IL-1B-511 1/2	1	IL-1a	3527	IL-1B-511 1/2_IL-1a	0	1.0
+miR200b	23	miR26a	19	miR200b_miR26a	1	1.0
+Brg1	661	DNase IIb	4	Brg1_DNase IIb	2	1.0
+VEGFRs-2 and -3	1	Vascular endothelial growth factor A	131	VEGFRs-2 and -3_Vascular endothelial growth factor A	0	1.0
+IGFBP-2	933	a2-macroglobulin	7	IGFBP-2_a2-macroglobulin	1	1.0
+forkhead box O4	5	transportin 1	13	forkhead box O4_transportin 1	1	1.0
+GRK2	1689	arrestin 1	86	GRK2_arrestin 1	1	1.0
+RAMP4	1	TRC40	67	RAMP4_TRC40	1	1.0
+INK4C	22	SNAI2	403	INK4C_SNAI2	1	1.0
+ERa	12165	Hormone Receptor	79	ERa_Hormone Receptor	1	1.0
+C-C chemokine receptor 7	22	IL-5	5969	C-C chemokine receptor 7_IL-5	1	1.0
+GH	16536	Growth-hormone	5	GH_Growth-hormone	1	1.0
+GHBP	139	IGFBPs -1, -2 and -3	1	GHBP_IGFBPs -1, -2 and -3	0	1.0
+CS-like	2	CSL	585	CS-like_CSL	1	1.0
+EDNRB	384	miR	6138	EDNRB_miR	1	1.0
+FUS (1 fALS and 4 sALS	1	SOD1	8251	FUS (1 fALS and 4 sALS_SOD1	0	1.0
+MCM2	397	RECQL4	303	MCM2_RECQL4	1	1.0
+CD81	1181	CHMP4C	43	CD81_CHMP4C	1	1.0
+DYT16	23	Protein kinase, interferon-inducible double stranded RNA dependent activator	1	DYT16_Protein kinase, interferon-inducible double stranded RNA dependent activator	0	1.0
+IFN-b	4657	caspases 9, 7, 3 and poly-(ADP ribose) polymerase	1	IFN-b_caspases 9, 7, 3 and poly-(ADP ribose) polymerase	0	1.0
+ERa	12165	Estrogen receptor (ER) b	3	ERa_Estrogen receptor (ER) b	1	1.0
+High-mobility group AT-hook 2	9	mir-154	5	High-mobility group AT-hook 2_mir-154	1	1.0
+Tie2	1869	activator protein-1	614	Tie2_activator protein-1	1	1.0
+LH beta	289	serum response factor	446	LH beta_serum response factor	1	1.0
+ASPM	260	CDK1	1720	ASPM_CDK1	2	1.0
+HOXA11	194	HOXA2	55	HOXA11_HOXA2	2	1.0
+CD43	815	IL-2	28806	CD43_IL-2	4	nan
+interleukin (IL)-6	2433	interleukin6	9	interleukin (IL)-6_interleukin6	1	1.0
+SF1	575	TNFAIP3	837	SF1_TNFAIP3	1	1.0
+PCFT	429	PepT1	449	PCFT_PepT1	1	1.0
+Receptor for advanced glycation end products	54	Sfrp1	111	Receptor for advanced glycation end products_Sfrp1	1	1.0
+FucT VII	1	fucosyltransferase VII	8	FucT VII_fucosyltransferase VII	0	1.0
+Atp9p	13	atp6	181	Atp9p_atp6	0	1.0
+Il12a	9	Xcl1	11	Il12a_Xcl1	1	1.0
+SUN-1	44	ZYG-12	2	SUN-1_ZYG-12	1	1.0
+NACA	89	PEBP1	128	NACA_PEBP1	1	1.0
+Chd1	143	pho80	14	Chd1_pho80	1	1.0
+Stim2	42	TRPC4	480	Stim2_TRPC4	1	1.0
+ER-60	29	PDIA3	266	ER-60_PDIA3	1	1.0
+ADH	1205	Adh-1	36	ADH_Adh-1	1	1.0
+Pparg2	4	Uhrf1	101	Pparg2_Uhrf1	1	1.0
+TNFa	18783	Tpo	104	TNFa_Tpo	2	1.0
+p97	1206	salt-inducible kinase 2	15	p97_salt-inducible kinase 2	1	1.0
+HLA-DQB1	1064	LTA	126	HLA-DQB1_LTA	1	1.0
+MTHFD1	274	PON1	5601	MTHFD1_PON1	2	1.0
+Il1r1	47	Pycard	21	Il1r1_Pycard	3	0.917977181622
+COX2	2146	PS1	3417	COX2_PS1	1	1.0
+RAGE	9250	SBP	7169	RAGE_SBP	1	1.0
+PKC a	85	sphingosine 1-phosphate (S1P) receptor 1	7	PKC a_sphingosine 1-phosphate (S1P) receptor 1	1	1.0
+Myod1	46	Ppara	272	Myod1_Ppara	1	1.0
+ADAM10	2193	Flt1	280	ADAM10_Flt1	1	1.0
+ARVCF	73	PKP4	9	ARVCF_PKP4	1	1.0
+NADSYN1	57	relB	7	NADSYN1_relB	1	1.0
+Bcl-x(L)	355	c-FLIP	1092	Bcl-x(L)_c-FLIP	2	1.0
+AKAP12	286	HDAC1	2621	AKAP12_HDAC1	1	1.0
+Irx6	12	Pitx2	545	Irx6_Pitx2	1	1.0
+EloB	29	Ptc1	123	EloB_Ptc1	1	1.0
+CXCL2	920	IL-5	5969	CXCL2_IL-5	5	nan
+Insulin	9140	interleukin-10	3302	Insulin_interleukin-10	2	1.0
+Kcna4	8	Kv1.4	233	Kcna4_Kv1.4	2	1.0
+phosphatidylinositol 3-kinase	1361	tumor necrosis factor-related apoptosis-inducing ligand	467	phosphatidylinositol 3-kinase_tumor necrosis factor-related apoptosis-inducing ligand	3	0.959770997899
+CCL13	81	IL1B	1293	CCL13_IL1B	1	1.0
+HHIP	205	PGF	1415	HHIP_PGF	1	1.0
+Myeloperoxidase	908	OPN	8753	Myeloperoxidase_OPN	1	1.0
+ER	10184	NRP1	930	ER_NRP1	2	1.0
+EIF4G1	148	VPS35	365	EIF4G1_VPS35	17	nan
+Gephyrin	72	VGLUT1	572	Gephyrin_VGLUT1	1	1.0
+Immunoglobulin mu-binding protein 2	1	Smubp-2	2	Immunoglobulin mu-binding protein 2_Smubp-2	1	1.0
+Gpr116	24	P2RY2	20	Gpr116_P2RY2	0	1.0
+Amyloid beta precursor protein	2	CXCL10	4639	Amyloid beta precursor protein_CXCL10	1	1.0
+Coro1A	35	Th1	16395	Coro1A_Th1	1	1.0
+hRAR-alpha	9	mRAR-beta	1	hRAR-alpha_mRAR-beta	0	1.0
+mTORC2	2910	transaldolase	16	mTORC2_transaldolase	1	1.0
+Arg1	644	nitric oxide synthase-2	30	Arg1_nitric oxide synthase-2	1	1.0
+TNF-R1	389	oxytocin receptor	489	TNF-R1_oxytocin receptor	1	1.0
+PR1	322	SIZ1	70	PR1_SIZ1	1	1.0
+PSF	849	VCP/p97	56	PSF_VCP/p97	1	1.0
+BCOR	341	ROBO3	70	BCOR_ROBO3	1	1.0
+ADH1B	862	MAOA	1375	ADH1B_MAOA	1	1.0
+CA125	4631	Nectin 4	9	CA125_Nectin 4	0	1.0
+EOMES	127	ID2	405	EOMES_ID2	3	nan
+AKT1	2126	PERK	2402	AKT1_PERK	2	1.0
+COX11	53	NDUFA5	15	COX11_NDUFA5	1	1.0
+CTH2	8	FET3	7	CTH2_FET3	1	1.0
+ELOVL family member 6	1	SREBF2	68	ELOVL family member 6_SREBF2	0	1.0
+ABCA2	90	ABCB6	258	ABCA2_ABCB6	1	1.0
+G-protein coupled ER	3	GPER	1864	G-protein coupled ER_GPER	2	1.0
+RIN3	42	ZCWPW1	25	RIN3_ZCWPW1	2	1.0
+BRCA1-associated protein 1	43	GNAQ	596	BRCA1-associated protein 1_GNAQ	1	1.0
+Plb1	6	YPK1	6	Plb1_YPK1	1	1.0
+17beta-hydroxysteroid dehydrogenase type 1 (17beta-HSD1	4	pS2	383	17beta-hydroxysteroid dehydrogenase type 1 (17beta-HSD1_pS2	1	1.0
+TMEM88	49	tmem88a	7	TMEM88_tmem88a	1	1.0
+DKK-4	4	DNMT-3a	8	DKK-4_DNMT-3a	1	1.0
+MRS2	32	Mrs2	24	MRS2_Mrs2	2	1.0
+GATA-3) and retinoid-related orphan nuclear receptor	1	Th1	16395	GATA-3) and retinoid-related orphan nuclear receptor_Th1	0	1.0
+Sox7	99	hey2	10	Sox7_hey2	1	1.0
+IL-8	23689	TCP 1	1	IL-8_TCP 1	0	1.0
+Vps36	8	sarco/endoplasmic reticulum Ca(2+)-ATPase	36	Vps36_sarco/endoplasmic reticulum Ca(2+)-ATPase	1	1.0
+APC5	16	Elp3	67	APC5_Elp3	1	1.0
+CAM-1	21	ROR2	401	CAM-1_ROR2	1	1.0
+RAG)1	4	T cell receptor	301	RAG)1_T cell receptor	0	1.0
+Urokinase plasminogen activator	31	plasminogen activator inhibitor type 2	9	Urokinase plasminogen activator_plasminogen activator inhibitor type 2	1	1.0
+OTUB2	17	Otubain2	1	OTUB2_Otubain2	0	1.0
+CD6	365	MUC5AC	2789	CD6_MUC5AC	2	1.0
+CENPE	35	UBE2D3	47	CENPE_UBE2D3	1	1.0
+ARR18	16	PROLINE DEHYDROGENASE1	1	ARR18_PROLINE DEHYDROGENASE1	0	1.0
+TGF-bR1	58	p21	16739	TGF-bR1_p21	1	1.0
+U-100	46	U-100R	5	U-100_U-100R	1	1.0
+PLD1	626	PP2A	5136	PLD1_PP2A	1	1.0
+IL-17	20062	MeCP2	2778	IL-17_MeCP2	1	1.0
+Becn-1	3	LC3B	1127	Becn-1_LC3B	1	1.0
+AngII	3881	matrix metalloproteinase 2	576	AngII_matrix metalloproteinase 2	2	1.0
+Ad4	36	HA1	621	Ad4_HA1	2	1.0
+SMAD2/4	2	TGFb	7612	SMAD2/4_TGFb	0	1.0
+CK2a	111	Rac1	9261	CK2a_Rac1	1	1.0
+Bcl  -2	524	mammalian target of rapamycin	5804	Bcl  -2_mammalian target of rapamycin	5	nan
+ghrelin	8244	ghrelin-O-acyl transferase	1	ghrelin_ghrelin-O-acyl transferase	0	1.0
+CD4	100721	IL12rb	1	CD4_IL12rb	0	1.0
+BGLAP	116	BMP2	3700	BGLAP_BMP2	9	nan
+TLXI	1	xylanase inhibitor	2	TLXI_xylanase inhibitor	1	1.0
+IL-1a	3527	Rab  -3D	2	IL-1a_Rab  -3D	1	1.0
+CYP2C19	6504	PAR-1	1474	CYP2C19_PAR-1	2	1.0
+CD14	9674	GalN	850	CD14_GalN	2	1.0
+CROT	29	miR	6138	CROT_miR	1	1.0
+a  -smooth muscle actin (a  -SMA	1	vascular endothelial growth factor	16778	a  -smooth muscle actin (a  -SMA_vascular endothelial growth factor	0	1.0
+Ctnnd1	3	Src	10741	Ctnnd1_Src	1	1.0
+FRYL	2	HSF4	154	FRYL_HSF4	0	1.0
+Ubiquitin-fold modifier 1	7	immunoglobulin heavy chain-binding protein	8	Ubiquitin-fold modifier 1_immunoglobulin heavy chain-binding protein	1	1.0
+ERK1/2	22605	TGF-beta(1)	204	ERK1/2_TGF-beta(1)	1	1.0
+Bcl2	2368	IL-4	22172	Bcl2_IL-4	3	nan
+Pick	718	p40	1474	Pick_p40	1	1.0
+Fasciclin 2	9	eve	89	Fasciclin 2_eve	1	1.0
+I kappa B kinase b	2	RAGE	9250	I kappa B kinase b_RAGE	1	1.0
+Gal-3	1658	IL-17- and -4	2	Gal-3_IL-17- and -4	1	1.0
+Flotillin 1	5	flotillin 1	19	Flotillin 1_flotillin 1	3	nan
+chrm4	1	mSin3A, histone deacetylases 1 and 2	1	chrm4_mSin3A, histone deacetylases 1 and 2	1	1.0
+Atg16L1	146	BiP	1683	Atg16L1_BiP	2	1.0
+COMT	6667	enkephalinase-catecholamine-methyl-transferase	1	COMT_enkephalinase-catecholamine-methyl-transferase	0	1.0
+FLT3	6469	cytochrome c	7778	FLT3_cytochrome c	1	1.0
+PGP9.5	406	a-SMA	4197	PGP9.5_a-SMA	1	1.0
+Chemokine (C-C motif) receptor 8	2	c-jun	1088	Chemokine (C-C motif) receptor 8_c-jun	0	1.0
+Apolipoprotein-AI	5	apolipoprotein-AI	22	Apolipoprotein-AI_apolipoprotein-AI	2	1.0
+IFN-y	17645	Interleukin (IL) 9	1	IFN-y_Interleukin (IL) 9	0	1.0
+CHOP	8666	Il-17f	5	CHOP_Il-17f	1	1.0
+IL-13	8550	SHP2	1192	IL-13_SHP2	1	1.0
+LXRb	410	SIRT1	13446	LXRb_SIRT1	1	1.0
+FEZ2	11	TRE2-BUB2-CDC16	2	FEZ2_TRE2-BUB2-CDC16	0	1.0
+Mical-1	16	Mical1	6	Mical-1_Mical1	1	1.0
+CD56	5454	IL-12/15	2	CD56_IL-12/15	0	1.0
+early growth response gene-1 (egr-1	1	egr-1	144	early growth response gene-1 (egr-1_egr-1	0	1.0
+RANKL	12529	tissue inhibitor of metalloproteinase-2	82	RANKL_tissue inhibitor of metalloproteinase-2	1	1.0
+ST3Gal-II	20	calnexin	478	ST3Gal-II_calnexin	1	1.0
+CTGF	6434	Endonuclease G	35	CTGF_Endonuclease G	1	1.0
+dehydroascorbate reductase	49	glutathione S-transferase	2241	dehydroascorbate reductase_glutathione S-transferase	3	nan
+FGF-18	35	TGF-b1	25265	FGF-18_TGF-b1	1	1.0
+Casp8	141	Raf1	205	Casp8_Raf1	1	1.0
+Gnas	106	Tmed9	3	Gnas_Tmed9	1	1.0
+IRAK-1	302	epithelial neutrophil activating peptide-78	4	IRAK-1_epithelial neutrophil activating peptide-78	1	1.0
+GAPDH	3990	cytokeratin19	29	GAPDH_cytokeratin19	1	1.0
+DYSF	145	GJB1	247	DYSF_GJB1	1	1.0
+DNase I	698	PEA2	4	DNase I_PEA2	1	1.0
+Claudin  -6	1	p38	25919	Claudin  -6_p38	0	1.0
+IL-2	28806	Pim2	64	IL-2_Pim2	1	1.0
+interleukin 1 receptor antagonist	79	tumour necrosis factor a	254	interleukin 1 receptor antagonist_tumour necrosis factor a	1	1.0
+STAT3	28183	myocardin	427	STAT3_myocardin	1	1.0
+Hsp70.1	108	anti-oxidant protein-like 1	1	Hsp70.1_anti-oxidant protein-like 1	0	1.0
+IL-29	370	p65 NF-kB heterodimer and IRF-1	1	IL-29_p65 NF-kB heterodimer and IRF-1	0	1.0
+TRPV4	3077	Transient receptor potential vanilloid-4	1	TRPV4_Transient receptor potential vanilloid-4	0	1.0
+TGase-2	4	Transglutaminase 2	193	TGase-2_Transglutaminase 2	1	1.0
+REGgamma	35	p53	91998	REGgamma_p53	2	1.0
+GH	16536	SLC12A1	65	GH_SLC12A1	1	1.0
+NADPH Oxidase-2	2	P34	164	NADPH Oxidase-2_P34	0	1.0
+DNA-PKcs	1677	caspase-3	23030	DNA-PKcs_caspase-3	9	nan
+KCNMA1	127	leucine-rich repeat containing 52	1	KCNMA1_leucine-rich repeat containing 52	0	1.0
+Ana3	1	RTTN	19	Ana3_RTTN	1	1.0
+Apo A	161	apoprotein A	2	Apo A_apoprotein A	1	1.0
+APOA5	828	PPARG	1231	APOA5_PPARG	3	nan
+fructose-bisphosphatase 1	1	glucocorticoid receptor	2919	fructose-bisphosphatase 1_glucocorticoid receptor	0	1.0
+CCL3	1598	NF-kB	8886	CCL3_NF-kB	2	1.0
+cytochrome P450 enzymes (CYP) 2C8	1	nuclear factor erythroid 2-related factor 2	501	cytochrome P450 enzymes (CYP) 2C8_nuclear factor erythroid 2-related factor 2	0	1.0
+Stem Cell Factor	35	c-fos	4837	Stem Cell Factor_c-fos	1	1.0
+RUNX1	2804	runt-related transcription factor 3	38	RUNX1_runt-related transcription factor 3	1	1.0
+ColQ	162	hnRNP H	83	ColQ_hnRNP H	1	1.0
+alpha 2-macroglobulin	1070	retinol-binding protein	172	alpha 2-macroglobulin_retinol-binding protein	2	1.0
+MT1 and clock	1	PER1	530	MT1 and clock_PER1	0	1.0
+GLI3	432	cyclin F	37	GLI3_cyclin F	1	1.0
+CD133	10805	STAT1	6194	CD133_STAT1	1	1.0
+SERPINA1	306	TXNL1	21	SERPINA1_TXNL1	1	1.0
+GJA10	5	mCx36	2	GJA10_mCx36	1	1.0
+GRP-10	14	gastrin releasing peptide	107	GRP-10_gastrin releasing peptide	2	1.0
+CD11c	3786	RANKL	12529	CD11c_RANKL	5	nan
+Gabrg3	2	RIMBP2	1	Gabrg3_RIMBP2	1	1.0
+COUP-TFII	585	PTCH1	824	COUP-TFII_PTCH1	1	1.0
+ITGB3	394	STMN1	541	ITGB3_STMN1	1	1.0
+ESRP2	38	NR1I3	147	ESRP2_NR1I3	1	1.0
+IFN-a2b	198	Wnt3a	1990	IFN-a2b_Wnt3a	1	1.0
+ZPR9	15	murine protein serine-threonine kinase 38	2	ZPR9_murine protein serine-threonine kinase 38	1	1.0
+HM13	4	TCFL5	13	HM13_TCFL5	1	1.0
+RANKL	12529	caveolin-1	2725	RANKL_caveolin-1	2	1.0
+CEP55	146	CEP57	30	CEP55_CEP57	1	1.0
+angiotensin II receptor type 1	89	suppressor of cytokine signaling-3	56	angiotensin II receptor type 1_suppressor of cytokine signaling-3	1	1.0
+OASL	97	RTP4	12	OASL_RTP4	0	1.0
+MPK6	362	wak2	1	MPK6_wak2	0	1.0
+HSPD1	79	TPM3	203	HSPD1_TPM3	1	1.0
+IL-13	8550	LCN-8	1	IL-13_LCN-8	0	1.0
+hK10	12	serine protease	1188	hK10_serine protease	1	1.0
+NEBL	40	SNTA1	66	NEBL_SNTA1	1	1.0
+Eif2s3y	17	Xist	909	Eif2s3y_Xist	3	nan
+HNF1A-antisense 1	2	cyclin D1	10302	HNF1A-antisense 1_cyclin D1	0	1.0
+prox1a	5	prox1b	14	prox1a_prox1b	0	1.0
+Hox-B4	3	VEGF	74829	Hox-B4_VEGF	0	1.0
+Galectin-9	243	interferon-y	487	Galectin-9_interferon-y	1	1.0
+OCT3/4	340	TP53	12522	OCT3/4_TP53	5	nan
+GTP cyclohydrolase 1	59	SLC7A7	69	GTP cyclohydrolase 1_SLC7A7	1	1.0
+Broad-Complex	3	HR96	22	Broad-Complex_HR96	1	1.0
+Bcl-X(L	5	cancer-associated protein	10	Bcl-X(L_cancer-associated protein	1	1.0
+ARRB2	76	ESR1	3247	ARRB2_ESR1	1	1.0
+TCR	5108	TNF receptor-associated factor 2	48	TCR_TNF receptor-associated factor 2	1	1.0
+BMP4	3467	Runt-related transcription factor 1	26	BMP4_Runt-related transcription factor 1	0	1.0
+AtNOA1	19	Emb14	4	AtNOA1_Emb14	1	1.0
+CDH19	13	EXT1	332	CDH19_EXT1	1	1.0
+GRIK3	31	SLC18A2	64	GRIK3_SLC18A2	1	1.0
+CCR2	4175	IL-9	1700	CCR2_IL-9	1	1.0
+HSD3B2	232	RARB	225	HSD3B2_RARB	2	1.0
+proopiomelanocortin	336	vGAT	45	proopiomelanocortin_vGAT	1	1.0
+BCRP	2998	Epidermal growth factor receptor	1496	BCRP_Epidermal growth factor receptor	2	1.0
+Akt/PKB	211	Insulin	9140	Akt/PKB_Insulin	5	nan
+CYP1A4	55	DHRSX	11	CYP1A4_DHRSX	1	1.0
+Platelet-derived growth factor receptor (PDGFR) alpha	1	TNF alpha	1695	Platelet-derived growth factor receptor (PDGFR) alpha_TNF alpha	0	1.0
+Programmed cell death ligand-1	3	c-Myc	6330	Programmed cell death ligand-1_c-Myc	0	1.0
+BRCA 1	117	neurofibromatosis I	2	BRCA 1_neurofibromatosis I	0	1.0
+Interleukin-10	670	Sri	4165	Interleukin-10_Sri	1	1.0
+SNAIL1	140	slug	242	SNAIL1_slug	1	1.0
+BCR-ABL	3731	RALA	91	BCR-ABL_RALA	1	1.0
+MRGPRA3	8	RAF	1820	MRGPRA3_RAF	0	1.0
+Rag2	588	Shp	158	Rag2_Shp	1	1.0
+JAK2/b	1	PP2A	5136	JAK2/b_PP2A	0	1.0
+SP-D	2005	beta-2	630	SP-D_beta-2	1	1.0
+HNF4A-CYP3A7	1	UGT1A	390	HNF4A-CYP3A7_UGT1A	0	1.0
+cdc1	4	mcd4	7	cdc1_mcd4	1	1.0
+caspase 3	4895	tumor necrosis factor-alpha	4562	caspase 3_tumor necrosis factor-alpha	10	1.6885987533e-08
+Endothelial lipase	37	VEGF-A	6921	Endothelial lipase_VEGF-A	1	1.0
+IgG1	2900	TSE2	3	IgG1_TSE2	0	1.0
+gamma-interferon	114	tumor necrosis factor	8475	gamma-interferon_tumor necrosis factor	5	nan
+ABCB1	6569	OAT4	107	ABCB1_OAT4	1	1.0
+P75	184	Trk	574	P75_Trk	3	nan
+rG-CSF	77	rIL-1 alpha	167	rG-CSF_rIL-1 alpha	1	1.0
+HOXA10	667	IL1	678	HOXA10_IL1	1	1.0
+SSEA1	120	c-Myc	6330	SSEA1_c-Myc	3	nan
+P62	199	caspase 3	4895	P62_caspase 3	1	1.0
+HDAC3	1590	IL10	2727	HDAC3_IL10	1	1.0
+AtNRAMP1	3	AtNRAMP1 and 6	1	AtNRAMP1_AtNRAMP1 and 6	0	1.0
+interleukin-6	13580	kallistatin	244	interleukin-6_kallistatin	4	0.999977382386
+IKBKE	143	PI3K	27411	IKBKE_PI3K	1	1.0
+cPGES	60	mPGES	35	cPGES_mPGES	1	1.0
+HGF	11448	pancreatic	129	HGF_pancreatic	1	1.0
+Cx43	8130	Drebrin	13	Cx43_Drebrin	1	1.0
+FIR	229	Hfp	29	FIR_Hfp	1	1.0
+NRG-1	346	hNRG-1	13	NRG-1_hNRG-1	2	1.0
+IgE	3168	LRRC32	49	IgE_LRRC32	1	1.0
+MicroRNA-155	91	socs1	20	MicroRNA-155_socs1	2	1.0
+BACE1	4195	Snapin	129	BACE1_Snapin	1	1.0
+IL-8	23689	sPLA2-IID	12	IL-8_sPLA2-IID	0	1.0
+EIF3F	4	MURF1	46	EIF3F_MURF1	1	1.0
+MBP	5816	SLA-2	71	MBP_SLA-2	1	1.0
+Factor XII	15	thrombin	19814	Factor XII_thrombin	3	nan
+CD200	1466	alpha-fetoprotein	4354	CD200_alpha-fetoprotein	1	1.0
+C10orf54	1	TNXB	102	C10orf54_TNXB	0	1.0
+TLR 4	111	interferon regulatory factor 3	243	TLR 4_interferon regulatory factor 3	1	1.0
+TGFb(1	6	aSMA	640	TGFb(1_aSMA	1	1.0
+CYP3A4	8629	NTCP	881	CYP3A4_NTCP	3	0.998938995911
+HDAC3	1590	heat shock protein 90	656	HDAC3_heat shock protein 90	1	1.0
+RSK4	127	p21	16739	RSK4_p21	1	1.0
+APJ	758	bradykinin B1 and B2 receptors	6	APJ_bradykinin B1 and B2 receptors	1	1.0
+Gar1	31	Pwp2	3	Gar1_Pwp2	1	1.0
+Bid	1686	cyclin D1	10302	Bid_cyclin D1	16	nan
+Abelson	38	dAbl	6	Abelson_dAbl	2	1.0
+Ab	104	Apolipoprotein E	1316	Ab_Apolipoprotein E	1	1.0
+lysosomal-associated membrane protein 2	23	tumor necrosis factor	8475	lysosomal-associated membrane protein 2_tumor necrosis factor	1	1.0
+Calponin-2	1	Peroxiredoxin-1	20	Calponin-2_Peroxiredoxin-1	0	1.0
+HIF  -1a	226	brain and muscle Arnt  -like  1	1	HIF  -1a_brain and muscle Arnt  -like  1	0	1.0
+CD4+/CD8	89	CD45	7055	CD4+/CD8_CD45	1	1.0
+IL-2Ra	298	Jak1	205	IL-2Ra_Jak1	1	1.0
+let  -7b	20	miR  -33b	2	let  -7b_miR  -33b	1	1.0
+MRP1	2123	multidrug-resistance-related protein 1	2	MRP1_multidrug-resistance-related protein 1	1	1.0
+CD62L	1306	HLA-G	3538	CD62L_HLA-G	1	1.0
+ATF6	1190	poly (ADP-ribose) polymerase	541	ATF6_poly (ADP-ribose) polymerase	1	1.0
+WWOX	1289	transcriptional co-activator with PDZ-binding motif	27	WWOX_transcriptional co-activator with PDZ-binding motif	2	1.0
+IER3	151	c-MYC	1882	IER3_c-MYC	1	1.0
+IL-10 A	9	VEGF C	11	IL-10 A_VEGF C	1	1.0
+Bax	20988	TNFRSF1B	164	Bax_TNFRSF1B	1	1.0
+CtIP	502	helicase	1307	CtIP_helicase	2	1.0
+CD69	2214	interleukin (IL)-23 receptor	7	CD69_interleukin (IL)-23 receptor	1	1.0
+MDC1	537	Rad21	114	MDC1_Rad21	1	1.0
+ATR	3059	Ad12	30	ATR_Ad12	1	1.0
+Gli2	725	Myf5	615	Gli2_Myf5	2	1.0
+BCCIP	96	p21,CIP1)-interacting protein	1	BCCIP_p21,CIP1)-interacting protein	0	1.0
+COL2A1	817	FADD	1194	COL2A1_FADD	1	1.0
+GPCR	2727	p57	977	GPCR_p57	1	1.0
+MNK1	126	eIF4E	2893	MNK1_eIF4E	19	nan
+miR-203	1568	miR-483	148	miR-203_miR-483	1	1.0
+ALPL	296	CUBN	99	ALPL_CUBN	1	1.0
+CD 44	21	LYVE1	65	CD 44_LYVE1	1	1.0
+SP-D	2005	VDR	9874	SP-D_VDR	1	1.0
+PRDM2	74	TSHZ2	19	PRDM2_TSHZ2	1	1.0
+gpL115	4	leukosialin	72	gpL115_leukosialin	1	1.0
+CYP1B1	2184	FOSL1	156	CYP1B1_FOSL1	1	1.0
+CD163	3108	PDGF-B	877	CD163_PDGF-B	2	1.0
+PDEF	186	S100A7	461	PDEF_S100A7	1	1.0
+LC3-B	15	RhoC	762	LC3-B_RhoC	1	1.0
+ERK5	1405	NFAT	318	ERK5_NFAT	1	1.0
+Heat shock protein 27	79	Tumor necrosis factor	962	Heat shock protein 27_Tumor necrosis factor	1	1.0
+ATP2B2	24	KLF2	973	ATP2B2_KLF2	1	1.0
+PINK1	2987	SNCG	401	PINK1_SNCG	1	1.0
+Env	4595	GM-CSF	11085	Env_GM-CSF	8	nan
+Thrombomodulin	239	factor V Leiden	903	Thrombomodulin_factor V Leiden	1	1.0
+Adenosine A(1) receptor	9	endothelin-1	5062	Adenosine A(1) receptor_endothelin-1	1	1.0
+AP-1	4280	MKK7	369	AP-1_MKK7	5	0.994427779296
+Bax	20988	TGF-beta 1	1440	Bax_TGF-beta 1	1	1.0
+CYP2E1	4128	GSTP1-1	130	CYP2E1_GSTP1-1	1	1.0
+HCN	1045	RDX	1419	HCN_RDX	1	1.0
+PPZ1	5	cdc7	20	PPZ1_cdc7	0	1.0
+ITI-HC3	2	inter-a-trypsin inhibitor heavy chain H3	1	ITI-HC3_inter-a-trypsin inhibitor heavy chain H3	1	1.0
+5-lipoxygenase	1673	TxS	1	5-lipoxygenase_TxS	0	1.0
+Erk1/2	2489	syndecan-3	74	Erk1/2_syndecan-3	1	1.0
+YAP	4438	mTORC2	2910	YAP_mTORC2	3	0.718185815663
+TP53	12522	hPMS2	65	TP53_hPMS2	2	1.0
+TNFa	18783	interleukin1b	9	TNFa_interleukin1b	3	0.99999999992
+COX-1	3159	COX-3	23	COX-1_COX-3	6	0.99999334793
+SIRT-1	209	insulin	78952	SIRT-1_insulin	1	1.0
+SOCS	737	rIL-1b	12	SOCS_rIL-1b	1	1.0
+Id1	1314	Shh	5094	Id1_Shh	1	1.0
+Apoa4	20	PPARbeta	126	Apoa4_PPARbeta	1	1.0
+RPL35A	16	rpl27	2	RPL35A_rpl27	1	1.0
+RBBP8	42	SCKL6	1	RBBP8_SCKL6	0	1.0
+Aurora A	1058	Mos	122	Aurora A_Mos	1	1.0
+IKZF3	98	TNF signaling and B	1	IKZF3_TNF signaling and B	0	1.0
+EGR1	1148	heterogeneous nuclear ribonucleoprotein K	71	EGR1_heterogeneous nuclear ribonucleoprotein K	1	1.0
+activin	819	dFOXO	82	activin_dFOXO	1	1.0
+CDK1	1720	LTB4R2	10	CDK1_LTB4R2	1	1.0
+Bach1	390	Nuclear factor erythroid 2-like 2	3	Bach1_Nuclear factor erythroid 2-like 2	0	1.0
+Aurora B	1386	CIT-K	20	Aurora B_CIT-K	1	1.0
+ITGA9	83	integrin alpha RLC	1	ITGA9_integrin alpha RLC	0	1.0
+ZIP9	59	hZip9	1	ZIP9_hZip9	0	1.0
+ZAP-70	1047	bcl2	289	ZAP-70_bcl2	1	1.0
+AhR	6620	UDP-glucuronosyltransferase (UGT) 1A1	18	AhR_UDP-glucuronosyltransferase (UGT) 1A1	1	1.0
+Kv(b1-3	1	Kv9.3	11	Kv(b1-3_Kv9.3	0	1.0
+CNGB3	160	ELOVL4	212	CNGB3_ELOVL4	1	1.0
+PIF1	200	PIF3	134	PIF1_PIF3	7	0.0405407343679
+CCL2	7166	IRBP	789	CCL2_IRBP	2	1.0
+gata4	42	igf2b	18	gata4_igf2b	1	1.0
+CFL	32	actin-depolymerizing factor/cofilin (ADF/CFL)	1	CFL_actin-depolymerizing factor/cofilin (ADF/CFL)	0	1.0
+IL-6	85727	receptor-interacting protein (RIP) 1 and 3	2	IL-6_receptor-interacting protein (RIP) 1 and 3	1	1.0
+CPT1	332	FABP7	297	CPT1_FABP7	1	1.0
+CYC1	226	SSY5	9	CYC1_SSY5	1	1.0
+SR-B1	404	scavenger receptor class B type 1	31	SR-B1_scavenger receptor class B type 1	12	0.943923344547
+Npt2a	102	c-fos	4837	Npt2a_c-fos	1	1.0
+CRMP-2	290	myosin regulatory light chain 2	13	CRMP-2_myosin regulatory light chain 2	1	1.0
+THAP11	84	c-myc	6076	THAP11_c-myc	1	1.0
+JAM	40	Just-a-Minute	1	JAM_Just-a-Minute	0	1.0
+IFN-b	4657	MUC18	209	IFN-b_MUC18	1	1.0
+Sclerostin	555	low-density lipoprotein receptor-related protein 6	51	Sclerostin_low-density lipoprotein receptor-related protein 6	1	1.0
+Pregnancy-specific beta 1-glycoprotein	5	pregnancy-specific beta 1-glycoprotein	25	Pregnancy-specific beta 1-glycoprotein_pregnancy-specific beta 1-glycoprotein	2	1.0
+PAR1	2054	TFF2	491	PAR1_TFF2	2	1.0
+angiotensinogen	1448	matrix metalloproteinase 7	103	angiotensinogen_matrix metalloproteinase 7	1	1.0
+CHK2	477	Terc	123	CHK2_Terc	1	1.0
+MMP-2/9i	2	MMP-9	26323	MMP-2/9i_MMP-9	1	1.0
+alpha 1 (I), alpha 2 (I) and alpha 1	1	alpha 1 (I), alpha 2 (I) and alpha 1 (III) collagen	1	alpha 1 (I), alpha 2 (I) and alpha 1_alpha 1 (I), alpha 2 (I) and alpha 1 (III) collagen	1	1.0
+FGF2	3713	SOCS3	3338	FGF2_SOCS3	2	1.0
+FAIM2	98	interleukin 18 receptor 1	3	FAIM2_interleukin 18 receptor 1	1	1.0
+ASTN1	23	CLIP1	11	ASTN1_CLIP1	1	1.0
+CDK1	1720	TMEM9	10	CDK1_TMEM9	1	1.0
+Atp2p	1	Trx1p	1	Atp2p_Trx1p	1	1.0
+IL11RA	27	SULF1	187	IL11RA_SULF1	1	1.0
+EP4	2057	GSK-3b	6335	EP4_GSK-3b	3	nan
+TNF	30309	glycodelin A	19	TNF_glycodelin A	1	1.0
+Shp	158	Shp2	945	Shp_Shp2	1	1.0
+Cyp11a1	244	c-Jun amino-terminal kinase 1	4	Cyp11a1_c-Jun amino-terminal kinase 1	1	1.0
+APP/PS1	539	PS1(A246E	3	APP/PS1_PS1(A246E	1	1.0
+HLA-G	3538	interferon (IFN) y	4	HLA-G_interferon (IFN) y	0	1.0
+Ctnnb1	268	Msx2	523	Ctnnb1_Msx2	1	1.0
+KOR	1161	dynorphin A (1-8	1	KOR_dynorphin A (1-8	0	1.0
+IQUB	2	JAM2	30	IQUB_JAM2	1	1.0
+Dur3	2	Sam3	4	Dur3_Sam3	1	1.0
+PTH	22366	p13	400	PTH_p13	1	1.0
+SLC10A2	66	Vcam1	49	SLC10A2_Vcam1	1	1.0
+IL2	2822	heme-oxygenase 1	42	IL2_heme-oxygenase 1	1	1.0
+C12ORF52	1	recombination signal sequence-binding protein J	1	C12ORF52_recombination signal sequence-binding protein J	1	1.0
+hBD-3	391	hBD2	309	hBD-3_hBD2	2	1.0
+PKK	37	TP63	450	PKK_TP63	1	1.0
+K(Ca)1.1	35	K(Ca)2.2	2	K(Ca)1.1_K(Ca)2.2	0	1.0
+Heat shock protein (HSP)60	1	Toll  -like receptor (TLR)-4	1	Heat shock protein (HSP)60_Toll  -like receptor (TLR)-4	1	1.0
+CBP	2699	glut3	41	CBP_glut3	1	1.0
+PMS2	980	TGF-bR1	58	PMS2_TGF-bR1	1	1.0
+KDM5C	185	mammalian target of rapamycin	5804	KDM5C_mammalian target of rapamycin	2	1.0
+Thf	2	Toll-like receptor 4	2584	Thf_Toll-like receptor 4	0	1.0
+Abca1	189	Slc38a1	25	Abca1_Slc38a1	1	1.0
+Casp12	17	mammalian target of rapamycin	5804	Casp12_mammalian target of rapamycin	1	1.0
+IL-10RA	58	TNFa	18783	IL-10RA_TNFa	1	1.0
+BBS7	32	MKS1	67	BBS7_MKS1	1	1.0
+TLR2/4	328	c-Fos	5544	TLR2/4_c-Fos	1	1.0
+ADIPOQ	1073	APOE	6192	ADIPOQ_APOE	1	1.0
+H2AFX	69	HLTF	174	H2AFX_HLTF	3	nan
+CD45	7055	Cd20	15	CD45_Cd20	1	1.0
+G6PC2	149	ZMAT4	9	G6PC2_ZMAT4	0	1.0
+Ccl20	60	Mfge8	87	Ccl20_Mfge8	1	1.0
+ALR-1	7	MEC-3	9	ALR-1_MEC-3	1	1.0
+CLD	8	acyl-CoA synthetase long-chain family member 5	5	CLD_acyl-CoA synthetase long-chain family member 5	1	1.0
+RAR	760	retinoid X receptor	282	RAR_retinoid X receptor	15	0.0427139265196
+FGF-4	55	FZD-9	8	FGF-4_FZD-9	2	1.0
+IL-1ra	1076	interferon gamma, IL-13, tumor necrosis factor beta	1	IL-1ra_interferon gamma, IL-13, tumor necrosis factor beta	0	1.0
+24OHase	18	vitamin D receptor	3153	24OHase_vitamin D receptor	1	1.0
+GPx-1	353	p38 MAPK	2261	GPx-1_p38 MAPK	1	1.0
+Growth Hormone	433	TGFBIp	328	Growth Hormone_TGFBIp	1	1.0
+DmUsp	1	ecdysone receptor	45	DmUsp_ecdysone receptor	0	1.0
+MGMT	6011	Musashi-1	250	MGMT_Musashi-1	2	1.0
+DPP II	38	dipeptidyl peptidase	6	DPP II_dipeptidyl peptidase	1	1.0
+Cox-2	1337	cPLA(2)	331	Cox-2_cPLA(2)	1	1.0
+Oncostatin M	189	eIF2a	2731	Oncostatin M_eIF2a	1	1.0
+corticotropin-releasing factor	1163	pgk-1	20	corticotropin-releasing factor_pgk-1	1	1.0
+MCP-1	14199	ZO-1 and occludin	87	MCP-1_ZO-1 and occludin	2	1.0
+CDK12	119	Cyclin-dependent kinase 9	16	CDK12_Cyclin-dependent kinase 9	1	1.0
+O-GlcNAc	1363	ST6GAL1	114	O-GlcNAc_ST6GAL1	1	1.0
+MHC class I antigen	157	insulin-degrading enzyme	252	MHC class I antigen_insulin-degrading enzyme	1	1.0
+alanine aminotransferase	918	interleukin-1 b	54	alanine aminotransferase_interleukin-1 b	1	1.0
+DBA/2	77	cholera toxin b-subunit	2	DBA/2_cholera toxin b-subunit	1	1.0
+PI3	272	pCD	8	PI3_pCD	1	1.0
+GluN2B	1879	N-methyl D-aspartate receptor subtype 2B	3	GluN2B_N-methyl D-aspartate receptor subtype 2B	1	1.0
+lactoferrin	1540	sPLA2	1015	lactoferrin_sPLA2	1	1.0
+Estrogen receptor-a	69	estrogen receptor a	1173	Estrogen receptor-a_estrogen receptor a	2	1.0
+Furin	244	interleukin-1b	4986	Furin_interleukin-1b	1	1.0
+MMP-1, 2 and 3	3	MMP-2 and 3	1	MMP-1, 2 and 3_MMP-2 and 3	1	1.0
+Jun kinase	52	Oxidation resistance 1	4	Jun kinase_Oxidation resistance 1	1	1.0
+Lgl	117	TSG	300	Lgl_TSG	1	1.0
+Cip1	1245	ZO-1	2637	Cip1_ZO-1	1	1.0
+IL-1b	41384	IkB kinase b	88	IL-1b_IkB kinase b	3	0.999999990684
+Slit2	791	mInsc	56	Slit2_mInsc	1	1.0
+JNK	18403	jnk2	39	JNK_jnk2	6	0.999999824825
+nNOS	5662	neurokinin 1	59	nNOS_neurokinin 1	1	1.0
+Caspase-3, 8 and 9	2	FasL	4490	Caspase-3, 8 and 9_FasL	1	1.0
+Bcl2l1	38	Hspa1a	36	Bcl2l1_Hspa1a	1	1.0
+EL4	344	annexin-V	682	EL4_annexin-V	1	1.0
+Glyoxalase II	6	glyoxalase II	59	Glyoxalase II_glyoxalase II	1	1.0
+N-Ras	315	receptor tyrosine kinase	689	N-Ras_receptor tyrosine kinase	1	1.0
+SIRT-1	209	peroxisome proliferator-activated receptor y	348	SIRT-1_peroxisome proliferator-activated receptor y	1	1.0
+Gsta3	9	Tfrc	44	Gsta3_Tfrc	1	1.0
+CTCL	1525	Special AT-rich sequence-binding protein-1	11	CTCL_Special AT-rich sequence-binding protein-1	1	1.0
+COX2	2146	tumor-necrosis factor	42	COX2_tumor-necrosis factor	1	1.0
+UDP glucuronosyltransferase 1A1	4	UGT1A1	3365	UDP glucuronosyltransferase 1A1_UGT1A1	1	1.0
+HMGA2	2065	IMP1	134	HMGA2_IMP1	2	1.0
+ATPase	4968	DNA topoisomerase I	52	ATPase_DNA topoisomerase I	1	1.0
+claudin-1, -2, -4, and -7	1	claudin-2	580	claudin-1, -2, -4, and -7_claudin-2	0	1.0
+PHD2 and 3	2	PHD3	568	PHD2 and 3_PHD3	1	1.0
+RPL31	27	RPS3A	10	RPL31_RPS3A	1	1.0
+Egr-1	2098	OPN	8753	Egr-1_OPN	1	1.0
+GH receptors	3	growth hormone receptor	385	GH receptors_growth hormone receptor	1	1.0
+GABA-BR1	4	GABA-BR2	1	GABA-BR1_GABA-BR2	0	1.0
+FKTN	54	MYLK	149	FKTN_MYLK	1	1.0
+MECP2	1629	PCSK9	5091	MECP2_PCSK9	1	1.0
+At1g75690	2	At4g35760	3	At1g75690_At4g35760	1	1.0
+IL-17	20062	IL17C	16	IL-17_IL17C	1	1.0
+Cyp26a1	79	TGF-b1	25265	Cyp26a1_TGF-b1	1	1.0
+Erythropoietin	1964	PEPCK	1409	Erythropoietin_PEPCK	2	1.0
+INS-1	1259	LKB1	3453	INS-1_LKB1	1	1.0
+WDR62	188	c-Jun N-terminal kinase	1851	WDR62_c-Jun N-terminal kinase	3	nan
+CALM	330	calmodulin 2	2	CALM_calmodulin 2	1	1.0
+A1AT	834	ApoA1	808	A1AT_ApoA1	1	1.0
+p24a	1	p24b	2	p24a_p24b	1	1.0
+cytochrome c	7778	mBDNF	114	cytochrome c_mBDNF	1	1.0
+Abl	1064	SCAR/WAVE	16	Abl_SCAR/WAVE	1	1.0
+EIF2S2	7	MAPT	1326	EIF2S2_MAPT	0	1.0
+CASS >= 1	1	CASS >= 4	1	CASS >= 1_CASS >= 4	1	1.0
+Atg5	1223	autophagy related gene 5	5	Atg5_autophagy related gene 5	4	0.99999986864
+Phosphoglycerate kinase-1	4	miR-145	2772	Phosphoglycerate kinase-1_miR-145	0	1.0
+C/EBP	1332	TIMP-2	3134	C/EBP_TIMP-2	1	1.0
+General linear model	8	p  <  1	6	General linear model_p  <  1	1	1.0
+CAV3	82	neural nitric oxide synthase	16	CAV3_neural nitric oxide synthase	1	1.0
+COL18A1	81	E(y)2	7	COL18A1_E(y)2	1	1.0
+CD276	64	FN1	571	CD276_FN1	1	1.0
+Fads1	54	Fasn	160	Fads1_Fasn	1	1.0
+Atg5	1223	Caspase 9	108	Atg5_Caspase 9	1	1.0
+IFNb	1605	PAF receptor	116	IFNb_PAF receptor	1	1.0
+MDC1	537	vimentin	12287	MDC1_vimentin	1	1.0
+KGF	987	Oct-3/4	156	KGF_Oct-3/4	1	1.0
+Nanos2	67	dmrt1	74	Nanos2_dmrt1	1	1.0
+FANCL	106	Rfwd2	7	FANCL_Rfwd2	1	1.0
+miR-4448	5	miR-93	659	miR-4448_miR-93	0	1.0
+C1r	346	CD166	729	C1r_CD166	1	1.0
+FBXO44	14	RGS2	779	FBXO44_RGS2	1	1.0
+ISKpn6-like transposase	1	KPC-2	626	ISKpn6-like transposase_KPC-2	0	1.0
+LHX-4	1	PROP1	267	LHX-4_PROP1	0	1.0
+Cytochrome P450	598	Nrf2	23240	Cytochrome P450_Nrf2	1	1.0
+BCRP	2998	G protein-coupled receptor 55	28	BCRP_G protein-coupled receptor 55	1	1.0
+CD62L and myeloperoxidase	1	myeloperoxidase	7714	CD62L and myeloperoxidase_myeloperoxidase	0	1.0
+Synectin	16	myosin-VI	17	Synectin_myosin-VI	1	1.0
+HDM2	469	SOX6	232	HDM2_SOX6	1	1.0
+Rage	99	interleukin-1b	4986	Rage_interleukin-1b	1	1.0
+Cxcl11	13	growth hormone	11636	Cxcl11_growth hormone	1	1.0
+LSDP5	24	adipophilin	252	LSDP5_adipophilin	1	1.0
+Ankrd 13	7	EGFR	77183	Ankrd 13_EGFR	1	1.0
+IL-6	85727	mTORC1/signal transducer and activator of transcription 3	1	IL-6_mTORC1/signal transducer and activator of transcription 3	0	1.0
+CD205	107	RhoA-specific guanine nucleotide exchange factor	2	CD205_RhoA-specific guanine nucleotide exchange factor	1	1.0
+IL-2	28806	Tripartite motif-containing protein 30	1	IL-2_Tripartite motif-containing protein 30	0	1.0
+MCM2	397	RAD51	2624	MCM2_RAD51	1	1.0
+TLR2	11596	miR-4520b	1	TLR2_miR-4520b	0	1.0
+Cyt. c	3	Cytochrome c	410	Cyt. c_Cytochrome c	1	1.0
+MTA3 and estrogen receptor alpha	1	beta (ER-alpha	1	MTA3 and estrogen receptor alpha_beta (ER-alpha	1	1.0
+EPO receptor	71	aquaporin-4	1309	EPO receptor_aquaporin-4	1	1.0
+NcoR	18	RXR	1406	NcoR_RXR	1	1.0
+TNF-<alpha	8	miR-34a	4042	TNF-<alpha_miR-34a	1	1.0
+KU80	47	p21	16739	KU80_p21	1	1.0
+CAIX	1363	epidermal growth factor receptor 2	2836	CAIX_epidermal growth factor receptor 2	1	1.0
+EID3	7	hNSE3	2	EID3_hNSE3	1	1.0
+Eomes	382	GM-CSF	11085	Eomes_GM-CSF	1	1.0
+Otx2	570	Pax2	527	Otx2_Pax2	4	0.0302799265436
+ANP	2710	PGC-1a	5868	ANP_PGC-1a	1	1.0
+ER-a	1085	PRb	23	ER-a_PRb	1	1.0
+MMP2	3790	SPA-1	11	MMP2_SPA-1	1	1.0
+pyruvate kinase M2 and vascular endothelial growth factor-C	1	vascular endothelial growth factor-C	192	pyruvate kinase M2 and vascular endothelial growth factor-C_vascular endothelial growth factor-C	0	1.0
+CRP	35335	RTP	111	CRP_RTP	1	1.0
+FasL	4490	tumor necrosis factor ligand superfamily member 6	1	FasL_tumor necrosis factor ligand superfamily member 6	0	1.0
+Thymic stromal lymphopoietin	149	tumor necrosis factor alpha	4097	Thymic stromal lymphopoietin_tumor necrosis factor alpha	2	1.0
+Signaling lymphocyte activation molecule (Slamf)1	1	Slamf1	67	Signaling lymphocyte activation molecule (Slamf)1_Slamf1	0	1.0
+Angpt2	79	Tie2	1869	Angpt2_Tie2	8	nan
+CENTB1	5	DUBA	21	CENTB1_DUBA	1	1.0
+apolipoprotein A-I	1571	zinc finger protein 202	3	apolipoprotein A-I_zinc finger protein 202	1	1.0
+PDHA1	154	SLC19A3	153	PDHA1_SLC19A3	1	1.0
+ERK1/2	22605	MAPK1/2	14	ERK1/2_MAPK1/2	2	1.0
+CTNND1	64	MDH)1	1	CTNND1_MDH)1	0	1.0
+GPR56	353	SOX8	61	GPR56_SOX8	1	1.0
+CRP	35335	CRP and IFN-y	1	CRP_CRP and IFN-y	0	1.0
+RANTES	3587	interleukin-6	13580	RANTES_interleukin-6	44	nan
+LGMD1D	36	LGMD2O	4	LGMD1D_LGMD2O	2	1.0
+kallikrein 1	15	matrix metallopeptidase 7	9	kallikrein 1_matrix metallopeptidase 7	1	1.0
+DOK7	115	Sp1	5699	DOK7_Sp1	1	1.0
+ANK	291	ClipR-59	50	ANK_ClipR-59	1	1.0
+URG4	141	tumor necrosis factor-a	6982	URG4_tumor necrosis factor-a	1	1.0
+interleukin-2	5606	neu	1093	interleukin-2_neu	4	0.974735692226
+Interleukin-27	119	lymphocyte activation gene 3	22	Interleukin-27_lymphocyte activation gene 3	1	1.0
+BTK	1337	LFA-1	2373	BTK_LFA-1	1	1.0
+IkB kinase a	37	Smad4	2420	IkB kinase a_Smad4	0	1.0
+Fatty Acid Binding Protein 4	7	promoter--adipocyte Protein 2	1	Fatty Acid Binding Protein 4_promoter--adipocyte Protein 2	1	1.0
+HB-EGF	1861	miR-96	644	HB-EGF_miR-96	1	1.0
+PPARgamma	1838	RARgamma	26	PPARgamma_RARgamma	1	1.0
+Brahma-related gene 1	37	TNF-alpha	14374	Brahma-related gene 1_TNF-alpha	1	1.0
+CTLA4	2317	ED-B	164	CTLA4_ED-B	1	1.0
+ACVRL1	277	KCNK3	122	ACVRL1_KCNK3	5	0.611430020805
+PU.1	1518	Tcf7	68	PU.1_Tcf7	1	1.0
+Casp2	80	superoxide 2	1	Casp2_superoxide 2	0	1.0
+Foxo1	749	TRB3	434	Foxo1_TRB3	3	0.806019821202
+PGC-1a	5868	protein arginine methyltransferase 1	49	PGC-1a_protein arginine methyltransferase 1	1	1.0
+SMN1	1107	VEGF	74829	SMN1_VEGF	1	1.0
+Mincle	307	TNFR1	2515	Mincle_TNFR1	1	1.0
+APOC3	455	APOE  2	21	APOC3_APOE  2	1	1.0
+STATs 1 and 3	10	interferon regulatory factor 2	9	STATs 1 and 3_interferon regulatory factor 2	1	1.0
+TSP-1	1931	angiotensin II type 1 receptor	824	TSP-1_angiotensin II type 1 receptor	1	1.0
+Xenopus nodal related 1	1	retinol dehydrogenase 10	10	Xenopus nodal related 1_retinol dehydrogenase 10	0	1.0
+miR-139	201	miR-152	412	miR-139_miR-152	1	1.0
+RhoA	10528	ephrinB3	91	RhoA_ephrinB3	2	1.0
+Alf	45	RFX2	39	Alf_RFX2	1	1.0
+IL-28Ra	19	TLR2	11596	IL-28Ra_TLR2	1	1.0
+MDM2	8121	TWIST1	1141	MDM2_TWIST1	1	1.0
+GIPR	346	HCRTR1	31	GIPR_HCRTR1	1	1.0
+p21	16739	p70 S6, 4E-BP1	1	p21_p70 S6, 4E-BP1	0	1.0
+gamma-glutamyl transpeptidase	892	miR-155	5462	gamma-glutamyl transpeptidase_miR-155	1	1.0
+GLT-1	1446	Rab7	898	GLT-1_Rab7	1	1.0
+IGF1R-PI3K	11	PI3K	27411	IGF1R-PI3K_PI3K	2	1.0
+hypoxia inducible factor-1	58	osteopontin	3749	hypoxia inducible factor-1_osteopontin	2	1.0
+CD18	1478	DEC205	148	CD18_DEC205	1	1.0
+activity regulated cytoskeletal-associated protein	5	peroxisome proliferator activated receptor gamma	93	activity regulated cytoskeletal-associated protein_peroxisome proliferator activated receptor gamma	1	1.0
+THP-1	5514	cyclin B1	1864	THP-1_cyclin B1	1	1.0
+DARPP-32	935	HDAC4	1390	DARPP-32_HDAC4	1	1.0
+MLL4	174	Pax-Interacting Protein 1	1	MLL4_Pax-Interacting Protein 1	0	1.0
+intracellular adhesion molecule 1	23	vascular endothelial (VE)-cadherin	99	intracellular adhesion molecule 1_vascular endothelial (VE)-cadherin	1	1.0
+PPP2R2C	43	monocyte chemoattractant protein-1	2323	PPP2R2C_monocyte chemoattractant protein-1	1	1.0
+LDL-c	809	Srebp-1c	78	LDL-c_Srebp-1c	1	1.0
+activated Cdc42-associated kinase 1	5	p53	91998	activated Cdc42-associated kinase 1_p53	1	1.0
+glial cell line-derived neurotrophic factor	604	neural cell adhesion molecule L1	21	glial cell line-derived neurotrophic factor_neural cell adhesion molecule L1	1	1.0
+b-catenin	22664	miR-122	2684	b-catenin_miR-122	2	1.0
+RSPO3	75	Wif1	123	RSPO3_Wif1	1	1.0
+Prdm1	148	Rev1	372	Prdm1_Rev1	1	1.0
+SDHA	576	TRA1	35	SDHA_TRA1	1	1.0
+Cyclooxygenase (COX)-1	9	TNF-a	77800	Cyclooxygenase (COX)-1_TNF-a	0	1.0
+CPT1	332	GPAT1	58	CPT1_GPAT1	1	1.0
+alpha fetoprotein	192	pregnancy associated plasma protein-A	34	alpha fetoprotein_pregnancy associated plasma protein-A	1	1.0
+CXCL10	4639	endothelial nitric oxide synthase	2574	CXCL10_endothelial nitric oxide synthase	1	1.0
+carboxypeptidase A1	12	matrix metalloproteinase-2	1341	carboxypeptidase A1_matrix metalloproteinase-2	1	1.0
+Akr1c18	10	Gpc3	11	Akr1c18_Gpc3	1	1.0
+MyD88	6932	mLITAF	7	MyD88_mLITAF	1	1.0
+Par-3	111	claudin-3, -5 and -7	1	Par-3_claudin-3, -5 and -7	0	1.0
+Tnfaip2	6	Vcam1	49	Tnfaip2_Vcam1	0	1.0
+Prrx2	13	chemerin	2234	Prrx2_chemerin	1	1.0
+KCNH1	74	PTP-1C	2	KCNH1_PTP-1C	0	1.0
+Glutathione S-Transferase P1	6	twist-related protein	1	Glutathione S-Transferase P1_twist-related protein	0	1.0
+Protein phosphatase 1	24	Toll-like receptor 7	297	Protein phosphatase 1_Toll-like receptor 7	1	1.0
+protein kinase C delta	59	tissue transglutaminase	557	protein kinase C delta_tissue transglutaminase	1	1.0
+HMRE11A	1	TIN2	205	HMRE11A_TIN2	0	1.0
+p85b	101	p85beta	15	p85b_p85beta	1	1.0
+PDE8B	131	TP53	12522	PDE8B_TP53	1	1.0
+AKT1	2126	Ubiquitin carboxyl terminal hydrolase 1	3	AKT1_Ubiquitin carboxyl terminal hydrolase 1	0	1.0
+BRCA-1	120	hERG	3768	BRCA-1_hERG	1	1.0
+Snail1/2	8	TWIST	471	Snail1/2_TWIST	1	1.0
+IFNG	841	IL12p40	28	IFNG_IL12p40	1	1.0
+CYLD	1203	deubiquitinating enzyme CYLD	5	CYLD_deubiquitinating enzyme CYLD	2	1.0
+GH	16536	tenascin-C	864	GH_tenascin-C	1	1.0
+Rip3	52	p65	10076	Rip3_p65	1	1.0
+CYP11A1	697	cholesterol side-chain cleavage enzyme, P450scc	2	CYP11A1_cholesterol side-chain cleavage enzyme, P450scc	1	1.0
+5a-reductase type 1, and matrix metalloproteinases (1, 3, and 9	1	interleukin-1 alpha	324	5a-reductase type 1, and matrix metalloproteinases (1, 3, and 9_interleukin-1 alpha	0	1.0
+Hdc	58	mTOR	40038	Hdc_mTOR	2	1.0
+CRMP-2	290	p75 neurotrophin receptor	216	CRMP-2_p75 neurotrophin receptor	1	1.0
+Connexin 43	364	Protease Activated Receptor-1	5	Connexin 43_Protease Activated Receptor-1	1	1.0
+GLUT-1	1351	HK II	60	GLUT-1_HK II	1	1.0
+claudin-2	580	hCLDN16	11	claudin-2_hCLDN16	2	1.0
+Perilipin	51	adipose triglyceride lipase	379	Perilipin_adipose triglyceride lipase	2	1.0
+CCL3	1598	TNFR	708	CCL3_TNFR	1	1.0
+IRF5	1158	XRCC1	3820	IRF5_XRCC1	1	1.0
+intercellular adhesion molecule 1	567	major group rhinovirus receptor	1	intercellular adhesion molecule 1_major group rhinovirus receptor	0	1.0
+PP2Ca	27	PPM1B	69	PP2Ca_PPM1B	1	1.0
+MGMT	6011	MYB	1208	MGMT_MYB	1	1.0
+IL-37	824	IL-5	5969	IL-37_IL-5	3	nan
+PDGFrb	3	TGF-b	26450	PDGFrb_TGF-b	1	1.0
+IGHV	888	LAG3	163	IGHV_LAG3	1	1.0
+FOLR1	250	RFC	80	FOLR1_RFC	1	1.0
+Wilms tumor protein 1-interacting protein	1	Wtip	32	Wilms tumor protein 1-interacting protein_Wtip	0	1.0
+PP4	226	cellular FLICE-inhibiting protein	1	PP4_cellular FLICE-inhibiting protein	0	1.0
+Fos	3582	Mafb	95	Fos_Mafb	1	1.0
+ADAM10	2193	GPVI	801	ADAM10_GPVI	3	0.95138752606
+PPARa	6339	glucagon-like peptide-1	2194	PPARa_glucagon-like peptide-1	3	0.95857532489
+RECQ4	42	Sld2	71	RECQ4_Sld2	1	1.0
+C/EBPb	2563	cyclin-dependent kinase 4	219	C/EBPb_cyclin-dependent kinase 4	1	1.0
+Socs3	243	vascular endothelial growth factor A	753	Socs3_vascular endothelial growth factor A	1	1.0
+BDCA3	114	immunoglobulin-like transcript 3	5	BDCA3_immunoglobulin-like transcript 3	1	1.0
+ICAM1	731	TNFRSF1B	164	ICAM1_TNFRSF1B	1	1.0
+VEGFR-3	1296	galectin-8	115	VEGFR-3_galectin-8	1	1.0
+C-type natriuretic peptide	251	Neutral endopeptidase	25	C-type natriuretic peptide_Neutral endopeptidase	2	1.0
+HOXA9	740	microRNA-21	766	HOXA9_microRNA-21	1	1.0
+CD34	23899	PPAR-a	1187	CD34_PPAR-a	1	1.0
+indoleamine  2,3-dioxygenase-1	1	tumor necrosis factor-a	6982	indoleamine  2,3-dioxygenase-1_tumor necrosis factor-a	0	1.0
+IL-10	41564	NK1 receptor	345	IL-10_NK1 receptor	1	1.0
+Skn7p	21	Trx2p	16	Skn7p_Trx2p	1	1.0
+SEPT8	12	SEPT9	404	SEPT8_SEPT9	1	1.0
+P60	254	transferrin	11703	P60_transferrin	1	1.0
+t-PA	4144	von Willebrand factor	2932	t-PA_von Willebrand factor	31	6.26747955587e-14
+LOX	2489	SLC7A5	105	LOX_SLC7A5	1	1.0
+MMP-9	26323	calreticulin	1552	MMP-9_calreticulin	4	0.999217772514
+GX sPLA(2)	31	LXR	1440	GX sPLA(2)_LXR	2	1.0
+PRP	3495	epidermal growth factor	3227	PRP_epidermal growth factor	2	1.0
+DNMT3B	1147	SHH	2507	DNMT3B_SHH	1	1.0
+SUMO-1	547	xanthine oxidoreductase	248	SUMO-1_xanthine oxidoreductase	1	1.0
+Insulin-like growth factor binding protein-3	39	transforming growth factor-b	1373	Insulin-like growth factor binding protein-3_transforming growth factor-b	1	1.0
+AHCY	59	Fumarylacetoacetate hydrolase	4	AHCY_Fumarylacetoacetate hydrolase	0	1.0
+Dlx5	421	sodium-glucose co-transporter 2	65	Dlx5_sodium-glucose co-transporter 2	1	1.0
+cytochrome P-450, isozyme 5	1	cytochrome b5	361	cytochrome P-450, isozyme 5_cytochrome b5	0	1.0
+microRNA-205	32	prostate-specific antigen	4765	microRNA-205_prostate-specific antigen	1	1.0
+SP-B	887	activator protein 1	342	SP-B_activator protein 1	1	1.0
+P glycoprotein	15	PGP	464	P glycoprotein_PGP	1	1.0
+ERBB4	489	KLF6	735	ERBB4_KLF6	1	1.0
+nuclear hormone receptor	2	vitamin D receptor, and retinoid receptors	1	nuclear hormone receptor_vitamin D receptor, and retinoid receptors	1	1.0
+b1-adrenoceptor	80	b1-adrenoceptor antagonists, and 2	1	b1-adrenoceptor_b1-adrenoceptor antagonists, and 2	0	1.0
+cholecystokinin octapeptide	4	vasoactive intestinal polypeptide	512	cholecystokinin octapeptide_vasoactive intestinal polypeptide	1	1.0
+Fibin	8	Nfkbia	22	Fibin_Nfkbia	1	1.0
+Aurora-A kinase	96	PP6C	27	Aurora-A kinase_PP6C	1	1.0
+5-HT1A	3069	GABRB2	69	5-HT1A_GABRB2	1	1.0
+CD1a	1707	terminal deoxymucleotide transferase	1	CD1a_terminal deoxymucleotide transferase	0	1.0
+Cyclin D1	2191	Ta-T1	22	Cyclin D1_Ta-T1	1	1.0
+IIa	98	PGC-1alpha	535	IIa_PGC-1alpha	1	1.0
+ENA-78	157	RelA	2023	ENA-78_RelA	1	1.0
+gp130	1721	tumor necrosis factor receptor 2	73	gp130_tumor necrosis factor receptor 2	1	1.0
+DSS1	115	TP1	254	DSS1_TP1	1	1.0
+AHR	3068	FOXM1	2078	AHR_FOXM1	1	1.0
+basic fibroblast growth factor	1751	insulin-like growth factor (IGF)-1	171	basic fibroblast growth factor_insulin-like growth factor (IGF)-1	1	1.0
+IL-5	5969	Itk	374	IL-5_Itk	3	0.999755861117
+CHD5	382	DNA methyltransferase	269	CHD5_DNA methyltransferase	1	1.0
+B7-H1 and B7-H4	48	B7-H4 and B7-H1	4	B7-H1 and B7-H4_B7-H4 and B7-H1	1	1.0
+IL-1	10457	LOX-1	2192	IL-1_LOX-1	1	1.0
+RAR-beta	95	RXR-alpha	22	RAR-beta_RXR-alpha	3	0.988874038219
+O-GlcNAc	1363	PTMs	270	O-GlcNAc_PTMs	2	1.0
+PLI	123	Prodynorphin-like immunoreactivity	1	PLI_Prodynorphin-like immunoreactivity	0	1.0
+MMP2	3790	matrix metalloproteinase (MMP)-2	582	MMP2_matrix metalloproteinase (MMP)-2	11	0.768117181367
+PI3K	27411	SAP+Wortmannin	3	PI3K_SAP+Wortmannin	1	1.0
+Isc1p	22	lag1	22	Isc1p_lag1	1	1.0
+NF90	295	PGC-1	297	NF90_PGC-1	1	1.0
+Cl2	604	bpy-2	5	Cl2_bpy-2	1	1.0
+N-Ras	315	RTK	740	N-Ras_RTK	1	1.0
+APE1	2226	Hus1	92	APE1_Hus1	2	1.0
+Ssc-miR-191	1	miR-93	659	Ssc-miR-191_miR-93	0	1.0
+CDKN1A	1065	CDKN2B	494	CDKN1A_CDKN2B	20	0.00056129446351
+Tumor suppressor candidate 5	2	insulin	78952	Tumor suppressor candidate 5_insulin	1	1.0
+VEGFR2	5361	cMet	142	VEGFR2_cMet	1	1.0
+SEL1L	173	interleukin-6	13580	SEL1L_interleukin-6	1	1.0
+CD15	1075	Glut1	515	CD15_Glut1	1	1.0
+ABCA2	90	Notch1	6029	ABCA2_Notch1	1	1.0
+Mus81	325	Rad18	266	Mus81_Rad18	1	1.0
+miR-135a	45	miR-22	1027	miR-135a_miR-22	1	1.0
+Brain-derived neurotrophic factor	1228	Zn-T1	1	Brain-derived neurotrophic factor_Zn-T1	0	1.0
+Nanog	3606	eIF2a	2731	Nanog_eIF2a	1	1.0
+phosphoinositide-3'-kinase	2	sod-3	67	phosphoinositide-3'-kinase_sod-3	1	1.0
+SPARC	3092	bcl2	289	SPARC_bcl2	1	1.0
+MYCC	45	p21	16739	MYCC_p21	1	1.0
+Ifn-b	8	insulin receptor substrate-1	320	Ifn-b_insulin receptor substrate-1	1	1.0
+PPARa	6339	TNFRSF1B	164	PPARa_TNFRSF1B	1	1.0
+Transforming growth factor b1	135	smad2	107	Transforming growth factor b1_smad2	1	1.0
+P2Y(13)	70	hypoxanthine phosphoribosyl transferase	26	P2Y(13)_hypoxanthine phosphoribosyl transferase	1	1.0
+cytokeratin 7	480	heat shock factor protein 1	6	cytokeratin 7_heat shock factor protein 1	1	1.0
+CCND1	2397	GILZ	702	CCND1_GILZ	1	1.0
+PAC1-R	47	PACAP	3896	PAC1-R_PACAP	12	nan
+IRF-3	705	TIR domain-containing adaptor-inducing IFN-b	4	IRF-3_TIR domain-containing adaptor-inducing IFN-b	1	1.0
+IL-15Ra	445	Il15ra	7	IL-15Ra_Il15ra	2	1.0
+epidermal growth factor receptor	12992	urokinase plasminogen receptor	2	epidermal growth factor receptor_urokinase plasminogen receptor	1	1.0
+Hes1	1472	Par1b	32	Hes1_Par1b	1	1.0
+COX-2	27843	cytochrome P450 CYP1A1	7	COX-2_cytochrome P450 CYP1A1	1	1.0
+Era	1336	alpha-fetoprotein	4354	Era_alpha-fetoprotein	1	1.0
+CSE1L	262	hCAS	10	CSE1L_hCAS	1	1.0
+Smad2	2495	alpha-fetoprotein	4354	Smad2_alpha-fetoprotein	1	1.0
+IL4	1441	Interleukin(IL)1b	1	IL4_Interleukin(IL)1b	0	1.0
+MD1	90	MXD1	50	MD1_MXD1	1	1.0
+MKP-1	1403	claudin-1, -7, or -8	1	MKP-1_claudin-1, -7, or -8	0	1.0
+BCL-XL	430	SRC	1160	BCL-XL_SRC	2	1.0
+POTEF	6	PRDM2	74	POTEF_PRDM2	1	1.0
+Grb7	239	TTYH1	8	Grb7_TTYH1	1	1.0
+AXIN1	136	TP53	12522	AXIN1_TP53	16	nan
+CXCL10	4639	SWAP-70	130	CXCL10_SWAP-70	1	1.0
+Gpr109a	19	RelB	1051	Gpr109a_RelB	1	1.0
+DOK1, 2, and 3	1	DOK3	58	DOK1, 2, and 3_DOK3	0	1.0
+CD8a	1169	MyD88	6932	CD8a_MyD88	10	nan
+cyclophilin A	257	prion protein	2891	cyclophilin A_prion protein	1	1.0
+ERK1/2	22605	miR-15A	4	ERK1/2_miR-15A	1	1.0
+CD34	23899	mast cell tryptase	88	CD34_mast cell tryptase	4	0.999999807564
+IkBA	3	NFkB2	79	IkBA_NFkB2	1	1.0
+CaMK	53	Protein Kinase C	57	CaMK_Protein Kinase C	1	1.0
+GLP-2	1279	secretin	825	GLP-2_secretin	1	1.0
+Galn	7	HMGB1	14867	Galn_HMGB1	1	1.0
+Oct4	4497	bFgf	1	Oct4_bFgf	0	1.0
+Annexin V	3338	NKP46	7	Annexin V_NKP46	1	1.0
+CD34	23899	osteopontin	3749	CD34_osteopontin	18	0.447061611713
+IL-10	41564	TBX21	215	IL-10_TBX21	2	1.0
+Sema)3A	1	Sema3A	1002	Sema)3A_Sema3A	0	1.0
+PKC	3008	SF-1	930	PKC_SF-1	1	1.0
+p62	4947	p75	2595	p62_p75	2	1.0
+OTUB1	207	USP3	41	OTUB1_USP3	1	1.0
+AV1	9	AV2	12	AV1_AV2	3	nan
+DKK1	1767	ROMO1	18	DKK1_ROMO1	1	1.0
+1,25-dihydroxyvitamin D3 24-hydroxylase	1	vitamin D receptor	3153	1,25-dihydroxyvitamin D3 24-hydroxylase_vitamin D receptor	0	1.0
+CD33	1618	absent in melanoma 2	77	CD33_absent in melanoma 2	1	1.0
+IGF-2	815	extracellular signal-regulated kinase	2395	IGF-2_extracellular signal-regulated kinase	1	1.0
+IGFBP5	335	IL-10	41564	IGFBP5_IL-10	1	1.0
+IFN-a	6942	MHC class I chain-related antigen A	2	IFN-a_MHC class I chain-related antigen A	1	1.0
+Erb B2	2	neuregulin-1	262	Erb B2_neuregulin-1	1	1.0
+B-RAF	527	C-RAF:B-RAF	1	B-RAF_C-RAF:B-RAF	0	1.0
+GSTM1	5126	NRAMP1	181	GSTM1_NRAMP1	1	1.0
+p40(phox) and Rac	2	phox	370	p40(phox) and Rac_phox	1	1.0
+Glod4	4	Sod1	520	Glod4_Sod1	0	1.0
+FZY	2	RBOH1	22	FZY_RBOH1	1	1.0
+RelB	1051	lymphotoxin beta receptor	25	RelB_lymphotoxin beta receptor	2	1.0
+MMP-1	4459	matrix metalloproteinase-1 and tissue inhibitor of metalloproteinase-1	1	MMP-1_matrix metalloproteinase-1 and tissue inhibitor of metalloproteinase-1	0	1.0
+PHPT1	51	PSMB8	125	PHPT1_PSMB8	1	1.0
+CDKN2B	494	p27KIP1	111	CDKN2B_p27KIP1	1	1.0
+LC3B	1127	prion protein	2891	LC3B_prion protein	2	1.0
+TGF  -b	112	basic fibroblast growth factor (bFGF) and transforming growth factor (TGF)-b	1	TGF  -b_basic fibroblast growth factor (bFGF) and transforming growth factor (TGF)-b	0	1.0
+IQSEC2	70	PURA	37	IQSEC2_PURA	1	1.0
+Corticosteroid-binding globulin	39	sex hormone-binding globulin	757	Corticosteroid-binding globulin_sex hormone-binding globulin	2	1.0
+IFN-a	6942	KIR2DL3	258	IFN-a_KIR2DL3	1	1.0
+PHOX	22	myeloperoxidase	7714	PHOX_myeloperoxidase	1	1.0
+TAK1	2585	interleukin-1	1402	TAK1_interleukin-1	1	1.0
+Fet4	1	atg1	20	Fet4_atg1	0	1.0
+IHPK2	5	VHL	4778	IHPK2_VHL	1	1.0
+dfrA1	96	dfrA14	14	dfrA1_dfrA14	3	0.997452407615
+ERK-1/2	349	GFAP	9912	ERK-1/2_GFAP	1	1.0
+enkephalinase	225	met-enkephalin	273	enkephalinase_met-enkephalin	2	1.0
+Bad	1911	Caspase-3 and -9	18	Bad_Caspase-3 and -9	1	1.0
+EGF receptor	1669	IC2	139	EGF receptor_IC2	1	1.0
+E2	143	E2(Ubc9)	2	E2_E2(Ubc9)	1	1.0
+Lacritin	30	NFL	596	Lacritin_NFL	1	1.0
+Cyp19a1	136	steroidogenic factor-1	41	Cyp19a1_steroidogenic factor-1	1	1.0
+Microsomal prostaglandin E synthase-1	40	inducible nitric oxide synthase	3177	Microsomal prostaglandin E synthase-1_inducible nitric oxide synthase	1	1.0
+AMACR	836	TRPM8	2075	AMACR_TRPM8	2	1.0
+interleukin (IL)-2	374	small ubiquitin-like modifier 4	9	interleukin (IL)-2_small ubiquitin-like modifier 4	1	1.0
+Adv-IKK2	1	interleukin (Il)-2	1	Adv-IKK2_interleukin (Il)-2	1	1.0
+B7H1	70	TGF-b1	25265	B7H1_TGF-b1	1	1.0
+ABL	1037	p185(BCR/ABL)- and p210(BCR/ABL	1	ABL_p185(BCR/ABL)- and p210(BCR/ABL	0	1.0
+MYH7	533	cTNT	98	MYH7_cTNT	1	1.0
+Camk2d	19	Crim1	83	Camk2d_Crim1	1	1.0
+Col10a1	188	MIA	172	Col10a1_MIA	1	1.0
+CXCR7	2350	PLCG2	57	CXCR7_PLCG2	1	1.0
+Rap	337	miR-215	277	Rap_miR-215	1	1.0
+IP10	227	interferon-gamma-inducible protein 10	6	IP10_interferon-gamma-inducible protein 10	1	1.0
+MAPK1	447	MMP-9	26323	MAPK1_MMP-9	2	1.0
+Arf6	823	Rab22	28	Arf6_Rab22	1	1.0
+SDF1	663	SDF1-GPVI	1	SDF1_SDF1-GPVI	0	1.0
+CA9	626	Carbonic Anhydrase IX	34	CA9_Carbonic Anhydrase IX	1	1.0
+NADPH oxidase 2	215	glutamic acid decarboxylase 67	33	NADPH oxidase 2_glutamic acid decarboxylase 67	1	1.0
+APC	923	budding uninhibited by benzimidazole 1	1	APC_budding uninhibited by benzimidazole 1	0	1.0
+HSP47	420	SP-A	2046	HSP47_SP-A	2	1.0
+GS-E	8	Ral	258	GS-E_Ral	1	1.0
+ERK	24908	sphingosine kinase type 1	2	ERK_sphingosine kinase type 1	1	1.0
+CD5	3107	CD64	1263	CD5_CD64	6	0.530829728826
+NT-3	1013	Olig2	865	NT-3_Olig2	1	1.0
+CD30L	109	tumor necrosis factor a	1991	CD30L_tumor necrosis factor a	1	1.0
+TNF-a	77800	gamma interferon (IFNy)	4	TNF-a_gamma interferon (IFNy)	1	1.0
+protease-activated receptor (PAR) 2	3	tumor necrosis factor	8475	protease-activated receptor (PAR) 2_tumor necrosis factor	1	1.0
+Ang II	8268	proline-rich tyrosine kinase 2	72	Ang II_proline-rich tyrosine kinase 2	1	1.0
+SFRP2	464	secreted protein acidic and rich in cysteine	129	SFRP2_secreted protein acidic and rich in cysteine	1	1.0
+ERK	24908	suppressor of cytokine signaling 6	6	ERK_suppressor of cytokine signaling 6	1	1.0
+RAD51	2624	nucleostemin	182	RAD51_nucleostemin	3	0.999671430189
+SIRT-1	209	Sirt-1	116	SIRT-1_Sirt-1	2	1.0
+AFF4	89	POU2F1	56	AFF4_POU2F1	1	1.0
+Akt	45774	miR-370	310	Akt_miR-370	1	1.0
+CCK	8605	PSP	1196	CCK_PSP	1	1.0
+Mtr4	77	Rrp6	198	Mtr4_Rrp6	3	nan
+K9 and K27	2	TET1	684	K9 and K27_TET1	1	1.0
+PLA2	2342	pigment epithelium-derived factor	393	PLA2_pigment epithelium-derived factor	1	1.0
+Bcl-2	30460	FAM3B	44	Bcl-2_FAM3B	1	1.0
+KIN-32	1	SCPL-1	2	KIN-32_SCPL-1	1	1.0
+C/EBP-a	151	vascular cell adhesion molecules-1	3	C/EBP-a_vascular cell adhesion molecules-1	1	1.0
+TNF  -a	372	cyclooxygenase-2	6260	TNF  -a_cyclooxygenase-2	2	1.0
+Bad	1911	TNFRSF21	20	Bad_TNFRSF21	1	1.0
+Bsep	213	interleukin-6	13580	Bsep_interleukin-6	1	1.0
+CD5 molecule-like	1	TNF	30309	CD5 molecule-like_TNF	0	1.0
+Fgfr4	47	Lrh-1	43	Fgfr4_Lrh-1	1	1.0
+CD18	1478	L-selectin	979	CD18_L-selectin	11	0.00146529295819
+ERBB2	2520	MIEN1	79	ERBB2_MIEN1	1	1.0
+Il33	41	Th2	6275	Il33_Th2	1	1.0
+Ran	703	RanGAP	43	Ran_RanGAP	3	0.99978596187
+CaV1.2	485	Potassium channel-interacting protein 2	1	CaV1.2_Potassium channel-interacting protein 2	0	1.0
+IL15	413	tumour necrosis factor (TNF) receptor II (sTNFRII) and complement factor H	1	IL15_tumour necrosis factor (TNF) receptor II (sTNFRII) and complement factor H	0	1.0
+EIF4G1	148	HtrA2	561	EIF4G1_HtrA2	1	1.0
+CD63	1216	Ste20	66	CD63_Ste20	1	1.0
+GLUT-2	142	KGF	987	GLUT-2_KGF	1	1.0
+PTH	22366	p21	16739	PTH_p21	3	0.580816690304
+bone morphogenetic protein 1	30	relaxin family peptide receptor 1	16	bone morphogenetic protein 1_relaxin family peptide receptor 1	1	1.0
+TSC2	1961	pS6	222	TSC2_pS6	1	1.0
+F4/80	942	monocyte chemoattractant protein-1, transforming growth factor b1	1	F4/80_monocyte chemoattractant protein-1, transforming growth factor b1	0	1.0
+DLL-1	27	KLK-4	5	DLL-1_KLK-4	0	1.0
+5T4	144	CEA	14892	5T4_CEA	1	1.0
+chromatin assembly factor-1	10	high	75	chromatin assembly factor-1_high	1	1.0
+CaMKII	4066	TLR9	6390	CaMKII_TLR9	2	1.0
+Fbp1	40	cck1	3	Fbp1_cck1	1	1.0
+IL-4	22172	Plg-/-	1	IL-4_Plg-/-	0	1.0
+HJURP	183	PRKCQ	44	HJURP_PRKCQ	1	1.0
+BAG-2	12	TRAIL	14734	BAG-2_TRAIL	1	1.0
+fatty acid binding protein 4	181	serum amyloid A3	22	fatty acid binding protein 4_serum amyloid A3	1	1.0
+TBX5	431	beta-Catenin	105	TBX5_beta-Catenin	1	1.0
+DNMT	995	endothelin-1	5062	DNMT_endothelin-1	1	1.0
+PARP-1	4439	endonuclease G	110	PARP-1_endonuclease G	2	1.0
+TC10	87	Trem2	49	TC10_Trem2	1	1.0
+CD11b	7993	IL17	613	CD11b_IL17	1	1.0
+Ets-1	909	TNF-a	77800	Ets-1_TNF-a	1	1.0
+Hsp90	7978	heat-shock factor 1	23	Hsp90_heat-shock factor 1	2	1.0
+BED-3	2	lin-39	32	BED-3_lin-39	1	1.0
+FOXA2	537	miR-146a	3414	FOXA2_miR-146a	1	1.0
+HPRT1	354	KLK5	260	HPRT1_KLK5	1	1.0
+Abca1	189	Sgpl1	34	Abca1_Sgpl1	1	1.0
+Braf	246	transforming growth factor-b	1373	Braf_transforming growth factor-b	1	1.0
+Epo	2679	IL 3	169	Epo_IL 3	1	1.0
+GPx3	225	Glutathione peroxidase 3	20	GPx3_Glutathione peroxidase 3	8	0.974634979221
+Bax	20988	Growth arrest and DNA damage-inducible gene 153	1	Bax_Growth arrest and DNA damage-inducible gene 153	0	1.0
+SerpinH1	4	stress-induced phosphoprotein 1	25	SerpinH1_stress-induced phosphoprotein 1	1	1.0
+MMP-2	15387	PDGFB	435	MMP-2_PDGFB	1	1.0
+RPL13	31	RPL32	58	RPL13_RPL32	1	1.0
+IL1RAP	103	TRAF6	2658	IL1RAP_TRAF6	1	1.0
+LAMP3	170	SOD2	2581	LAMP3_SOD2	0	1.0
+CD8a	1169	stem cell factor	744	CD8a_stem cell factor	2	1.0
+ZINC FINGER PROTEIN 6	1	zfp6	1	ZINC FINGER PROTEIN 6_zfp6	1	1.0
+dectin-1	486	toll-like receptor-4	184	dectin-1_toll-like receptor-4	1	1.0
+Areg	99	Lhr	106	Areg_Lhr	1	1.0
+TBK1	1508	cytochrome C	829	TBK1_cytochrome C	1	1.0
+PAX3	922	Shh	5094	PAX3_Shh	1	1.0
+E2 and P4	118	gonadotropin-releasing hormone	2495	E2 and P4_gonadotropin-releasing hormone	2	1.0
+Myl9	12	SRF	2056	Myl9_SRF	1	1.0
+CaBP-9k	67	TRPV6	654	CaBP-9k_TRPV6	4	nan
+TGF-beta	4595	vascular endothelial growth factor A and basic fibroblast growth factor	1	TGF-beta_vascular endothelial growth factor A and basic fibroblast growth factor	0	1.0
+IGFR	133	estrogen receptor	5009	IGFR_estrogen receptor	2	1.0
+Endophilin	5	eIF4E	2893	Endophilin_eIF4E	1	1.0
+I kappa B kinase b	2	TXNIP	1385	I kappa B kinase b_TXNIP	1	1.0
+GFAP	9912	NDUFS4	72	GFAP_NDUFS4	1	1.0
+ERK	24908	caspases 3, 8 and 9	26	ERK_caspases 3, 8 and 9	0	1.0
+Rnls	2	ZAC1	76	Rnls_ZAC1	1	1.0
+CYP3A	2947	dipeptidyl peptidase-IV	224	CYP3A_dipeptidyl peptidase-IV	1	1.0
+BCL2L14	7	TACR1	98	BCL2L14_TACR1	1	1.0
+salivary alpha- amylase	1	salivary alpha-amylase	222	salivary alpha- amylase_salivary alpha-amylase	0	1.0
+indoleamine 2,3-dioxygenase	442	transforming growth factor b1	723	indoleamine 2,3-dioxygenase_transforming growth factor b1	1	1.0
+SAA	4266	Serum amyloid A protein	15	SAA_Serum amyloid A protein	11	0.999994291195
+BCL-2	3251	CD97	386	BCL-2_CD97	1	1.0
+MTOR	768	PPM1D	409	MTOR_PPM1D	1	1.0
+hsa-mir-126	1	hsa-mir-17	4	hsa-mir-126_hsa-mir-17	0	1.0
+GSK-3b	6335	PDK-1	149	GSK-3b_PDK-1	1	1.0
+Androgen receptor	751	Tgfb2	102	Androgen receptor_Tgfb2	1	1.0
+IP3R2	108	SERCA1,2,3	1	IP3R2_SERCA1,2,3	1	1.0
+glutathione S-transferases Mu 1	1	mitogen-activated protein kinase kinase 4	33	glutathione S-transferases Mu 1_mitogen-activated protein kinase kinase 4	0	1.0
+HIGD1B	5	p53	91998	HIGD1B_p53	1	1.0
+FYN	212	PTCH2	41	FYN_PTCH2	1	1.0
+Cdc2	571	Plk1	2121	Cdc2_Plk1	8	nan
+IL-8	23689	p-eukaryotic initiation factor 2	1	IL-8_p-eukaryotic initiation factor 2	0	1.0
+Hos2p	1	RPD3	34	Hos2p_RPD3	0	1.0
+MYO1C	34	RUNX2	2512	MYO1C_RUNX2	1	1.0
+Cyclin B1	393	p53	91998	Cyclin B1_p53	42	nan
+CRP	35335	interleukin-1B	17	CRP_interleukin-1B	1	1.0
+HLA-F	195	sHLA-F, chromogranin, and B7H3	1	HLA-F_sHLA-F, chromogranin, and B7H3	0	1.0
+Akt	45774	p27kip1	267	Akt_p27kip1	11	0.999968721371
+P54nrb	9	PSF	849	P54nrb_PSF	2	1.0
+CD90	2398	KIR6.2	17	CD90_KIR6.2	1	1.0
+PPARa	6339	alkaline phosphatase	2645	PPARa_alkaline phosphatase	1	1.0
+HB2	60	Trpv1	145	HB2_Trpv1	1	1.0
+GH	16536	p70	551	GH_p70	1	1.0
+Col8a1	20	Timp1	126	Col8a1_Timp1	1	1.0
+MCL1	724	Pin1	2455	MCL1_Pin1	1	1.0
+HPGD	174	hydroxyprostaglandin dehydrogenase-15	1	HPGD_hydroxyprostaglandin dehydrogenase-15	0	1.0
+CAIX	1363	MCT2	262	CAIX_MCT2	3	0.992963056598
+ATR	3059	PCNA1	19	ATR_PCNA1	1	1.0
+PRNP	1025	ZIP1	85	PRNP_ZIP1	1	1.0
+Clock	602	TNF-a	77800	Clock_TNF-a	3	nan
+AQP4	5760	Cx32	657	AQP4_Cx32	5	0.987624389439
+CYTH-1	9	IGFR	133	CYTH-1_IGFR	1	1.0
+ADAM10	2193	CD151	1007	ADAM10_CD151	1	1.0
+AHCYL1	31	miR-1782	2	AHCYL1_miR-1782	0	1.0
+TFP	128	TNF-a	77800	TFP_TNF-a	1	1.0
+ACCb	32	leptin	21979	ACCb_leptin	1	1.0
+Rac1	9261	isocitrate dehydrogenase 1	225	Rac1_isocitrate dehydrogenase 1	1	1.0
+TP53	12522	miR-18	41	TP53_miR-18	1	1.0
+CD45	7055	Prolylcarboxypeptidase	12	CD45_Prolylcarboxypeptidase	1	1.0
+CD4	100721	IL17RC	32	CD4_IL17RC	1	1.0
+GPR41	182	VIPR1	40	GPR41_VIPR1	1	1.0
+Gis1p	6	Opi1p	31	Gis1p_Opi1p	1	1.0
+PRL-R	126	Pg-R	1	PRL-R_Pg-R	0	1.0
+c-KIT	1139	estrogen receptor	5009	c-KIT_estrogen receptor	2	1.0
+MAP3K14	50	TWEAK	2021	MAP3K14_TWEAK	1	1.0
+histone methyltransferase	40	matrix metalloproteinases 2/9	5	histone methyltransferase_matrix metalloproteinases 2/9	1	1.0
+AT2 R	35	PKCb	555	AT2 R_PKCb	1	1.0
+Akt	45774	SP-1	230	Akt_SP-1	3	0.999999874696
+sterol regulatory element-binding  protein-2	1	sterol regulatory element-binding protein-2	30	sterol regulatory element-binding  protein-2_sterol regulatory element-binding protein-2	0	1.0
+C6orf130	21	glycogen synthase kinase 3b	617	C6orf130_glycogen synthase kinase 3b	1	1.0
+DJ-1	3189	E2F6	91	DJ-1_E2F6	1	1.0
+integrin-binding sialoprotein	13	special AT-rich binding protein 2	7	integrin-binding sialoprotein_special AT-rich binding protein 2	1	1.0
+CCR9	856	CX3CL1	1614	CCR9_CX3CL1	2	1.0
+TNF-a	77800	interleukin-1	1402	TNF-a_interleukin-1	57	0.916385037566
+apolipoprotein AV	5	liver X receptor a	50	apolipoprotein AV_liver X receptor a	1	1.0
+Fibroblast growth factor 2	120	glial fibrillary acidic protein	1905	Fibroblast growth factor 2_glial fibrillary acidic protein	1	1.0
+Apoe	994	Tnfrsf21	3	Apoe_Tnfrsf21	1	1.0
+EHMT2	153	MPO	10717	EHMT2_MPO	1	1.0
+SERPINE1	347	cyclin D3	490	SERPINE1_cyclin D3	1	1.0
+CRF-R1	167	CRFR1	374	CRF-R1_CRFR1	1	1.0
+beta}2-microglobulin	1	integrin beta6	2	beta}2-microglobulin_integrin beta6	1	1.0
+IGF-I receptor	541	PTH	22366	IGF-I receptor_PTH	2	1.0
+CLOCK	1132	WNK1	590	CLOCK_WNK1	1	1.0
+ArgRS	28	Calpain 2	22	ArgRS_Calpain 2	1	1.0
+OLF1	2	TTC3	31	OLF1_TTC3	1	1.0
+HIF-1a	20918	VEGF-D	1111	HIF-1a_VEGF-D	3	0.999850558731
+DAZAP1	42	SWI1	24	DAZAP1_SWI1	0	1.0
+ULK3	20	eQTL	64	ULK3_eQTL	1	1.0
+OGG1	1535	x-ray repair cross complementing group 1	2	OGG1_x-ray repair cross complementing group 1	0	1.0
+Cyclin D2	130	secreted frizzled-related protein 1	56	Cyclin D2_secreted frizzled-related protein 1	1	1.0
+FoxP3	4364	interleukin 2	2653	FoxP3_interleukin 2	3	0.775423204118
+MNB	12	thrombin	19814	MNB_thrombin	1	1.0
+Rheb	816	cyclin-dependent kinase 4	219	Rheb_cyclin-dependent kinase 4	1	1.0
+TGF-b	26450	transforming growth factor beta 3	39	TGF-b_transforming growth factor beta 3	2	1.0
+XYL2	53	hxt1	4	XYL2_hxt1	0	1.0
+MicroRNA-93	15	b-catenin	22664	MicroRNA-93_b-catenin	1	1.0
+TNF+IFN	4	TNFa	18783	TNF+IFN_TNFa	1	1.0
+ROCK2	1014	S1P2, S1P3	1	ROCK2_S1P2, S1P3	0	1.0
+SF2	452	specificity protein 1	236	SF2_specificity protein 1	1	1.0
+NHE-3	44	Na(+)/H(+) exchanger (NHE)-1	4	NHE-3_Na(+)/H(+) exchanger (NHE)-1	3	0.999697976442
