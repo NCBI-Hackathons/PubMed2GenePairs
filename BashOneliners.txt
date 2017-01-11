@@ -1,0 +1,9 @@
+## Extract PMIDs between 24000000 and 24999999 from the Pubtator Data
+## There's probably a better way to do this other than typing [0-9] six times... but this works!
+
+grep -E "^24[0-9][0-9][0-9][0-9][0-9][0-9]*" ~/data/bioconcepts2pubtator_offsets > output_file.txt
+
+## From the output_file, extract only lines that have the Gene name in them (this excludes the abstract and title lines)
+## for the tab character, enter the literal tab character; ctrl+v followed by <tab>
+
+grep -E "Gene   [0-9]*" output_file > another_output_file
