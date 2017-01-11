@@ -1,4 +1,9 @@
-filn="/Users/gbang/Documents/24m.sample.unique"
+
+import itertools
+import sys
+from collections import defaultdict
+gene_list=sys.argv[1]
+#filn="/Users/gbang/Documents/24m.sample.unique"
 with open(gene_list1, 'r+') as f:
     #chunk=[]
     chunkdict=defaultdict(list)
