@@ -1,0 +1,460 @@
+GeneID-1	GeneSym-1	GeneName-1	TaxID-1	GeneID-2	GeneSym-2	GeneName-2	TaxID-2	PubMedIDs	Experiment
+10013	HDAC6	-	9606	3309	HSPA5	-	9606	20371724,23703321	Affinity Capture-MS; Affinity Capture-Western
+10014	HDAC5	-	9606	3309	HSPA5	-	9606	21081666	Affinity Capture-MS
+100506742	CASP12	-	9606	3309	HSPA5	-	9606	11943137	Affinity Capture-Western
+10075	HUWE1	-	9606	3309	HSPA5	-	9606	25147182	Affinity Capture-MS
+10130	PDIA6	-	9606	3309	HSPA5	-	9606	22939629,24189400	Affinity Capture-MS; Co-fractionation
+10131	TRAP1	-	9606	3309	HSPA5	-	9606	24113185	Co-fractionation
+10197	PSME3	-	9606	3309	HSPA5	-	9606	16169070	Two-hybrid
+10197	PSME3	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Proteasome activator complex subunit 3	9606	16169070	-
+10236	HNRNPR	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+10273	STUB1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+10294	DNAJA2	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+10342	TFG	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+10382	TUBB4A	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+10397	NDRG1	-	9606	3309	HSPA5	-	9606	17220478	Affinity Capture-MS
+10397	NDRG1	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Protein NDRG1	9606	17220478	-
+10409	BASP1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+10426	TUBGCP3	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+10456	HAX1	-	9606	3309	HSPA5	-	9606	20171186	Affinity Capture-MS
+10482	NXF1	-	9606	3309	HSPA5	-	9606	22658674	Affinity Capture-RNA
+10525	HYOU1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+105375355	UPK3B	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+10542	LAMTOR5	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+10598	AHSA1	-	9606	3309	HSPA5	-	9606	26693507	Affinity Capture-MS
+10768	AHCYL1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+10801	SEPT9	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+10808	HSPH1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+10844	TUBGCP2	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+10856	RUVBL2	-	9606	3309	HSPA5	-	9606	17643375,26344197	Affinity Capture-MS; Co-fractionation
+10906	TRAFD1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+10915	TCERG1	-	9606	3309	HSPA5	-	9606	15456888	Affinity Capture-MS
+10915	TCERG1	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Transcription elongation regulator 1	9606	15456888	-
+10916	MAGED2	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+10923	SUB1	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+10956	OS9	-	9606	3309	HSPA5	-	9606	18264092,18502753,23097496	Affinity Capture-MS; Affinity Capture-Western
+10961	ERP29	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Endoplasmic reticulum resident protein 29	9606	9492298	-
+10963	STIP1	-	9606	3309	HSPA5	-	9606	26344197,26496610	Affinity Capture-MS; Co-fractionation
+10980	COPS6	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+10987	COPS5	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+11073	TOPBP1	-	9606	3309	HSPA5	-	9606	24239288	Affinity Capture-MS
+11080	DNAJB4	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+11100	HNRNPUL1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+11137	PWP1	-	9606	3309	HSPA5	-	9606	20028516	Affinity Capture-MS
+11140	CDC37	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+11160	ERLIN2	-	9606	3309	HSPA5	-	9606	21343306,26186194	Affinity Capture-MS
+11190	CEP250	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+11231	SEC63	-	9606	3309	HSPA5	-	9606	26085089	Reconstituted Complex
+112937	GLB1L3	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+11338	U2AF2	-	9606	3309	HSPA5	-	9606	26641092	Affinity Capture-MS
+124512	METTL23	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS
+125150	ZSWIM7	-	9606	3309	HSPA5	-	9606	21965664	Affinity Capture-MS
+129804	FBLN7	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+131118	DNAJC19	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+144983	HNRNPA1L2	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+146705	TEPSIN	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+148109	FAM187B	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+1489800	F	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	fusion protein	11234	11765911	The measles virus protein F interacts with the host chaperone GRP 78.
+151011	SEPT10	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+151194	METTL21A	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS; Biochemical Activity
+155030	gag	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Pr55(Gag)	11676	11932435	Hsp70 co-sediments with HIV-1 capsid protein in sucrose density gradients, providing evidence that it is specifically incorporated into HIV-1 virions through an interaction with HIV-1 Gag proteins
+155030	gag	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Pr55(Gag)	11676	11932435,21738476	Hsp70 is incorporated into HIV-1 virions through an interaction with HIV-1 Gag
+155030	gag	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Pr55(Gag)	11676	23125841	Tandem affinity purification and mass spectrometry analysis identify heat shock 70kDa protein 5 (HSPA5; 78kDa glucose-regulated protein), HIV-1 Gag, Gag/Pol, gp120, and Nef incorporated into staufen1 RNP complexes isolated from HIV-1-expressing cells
+155030	gag	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	matrix	11676	10964507	Hsp70 facilitates nuclear import of HIV-1 preintegration complexes by stimulating the binding of HIV-1 Matrix to karyopherin alpha
+155348	gag-pol	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Gag-Pol	11676	23125841	Tandem affinity purification and mass spectrometry analysis identify heat shock 70kDa protein 5 (HSPA5; 78kDa glucose-regulated protein), HIV-1 Gag, Gag/Pol, gp120, and Nef incorporated into staufen1 RNP complexes isolated from HIV-1-expressing cells
+155807	vpr	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Vpr	11676	10964507,19275587	HIV-1 Vpr competes with Hsp70 for binding to karyopherin alpha
+155807	vpr	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Vpr	11676	21763498	HIV-1 Vpr is required for the inhibitory effect of Hsp70 on viral gene expression and replication
+155807	vpr	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Vpr	11676	22438978	HIV-1 Vpr significantly increases expression level of GRP78 in the endoplasmic reticulum
+155807	vpr	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Vpr	11676	23874603	A stable-isotope labeling by amino acids in cell culture coupled with mass spectrometry-based proteomics identifies upregulation of heat shock 70kDa protein 5 (HSPA5, GRP78) expression by HIV-1 Vpr in Vpr transduced macrophages
+155871	tat	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Tat	11676	10617616	Hsp70 and Hsp90 and Cdc37 regulate the stabilization and folding of CDK9 as well as the assembly of an active CDK9/cyclin T1 complex responsible for P-TEFb-mediated HIV-1 Tat transactivation
+155871	tat	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Tat	11676	20457808	Exposure of human umbilical vein endothelial cells to HIV-1 Tat causes broad activation of the unfolded-protein response in ER with phosphorylation of PERK, eIF2alpha, and JNK and induction of Grp78/BiP
+155971	env	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Envelope surface glycoprotein gp120	11676	12832005	Over expression of hsp70 with a herpes viral amplicon vector protects cultured hippocampal rat neurons from gp120 neurotoxicity
+155971	env	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Envelope surface glycoprotein gp120	11676	23125841	Tandem affinity purification and mass spectrometry analysis identify heat shock 70kDa protein 5 (HSPA5; 78kDa glucose-regulated protein), HIV-1 Gag, Gag/Pol, gp120, and Nef incorporated into staufen1 RNP complexes isolated from HIV-1-expressing cells
+155971	env	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Envelope surface glycoprotein gp120	11676	7906708	The exposure of permissive CD4+ cells to HIV-1 gp120 increases the synthesis and nuclear translocation of 70kDa heat shock protein
+155971	env	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Envelope surface glycoprotein gp160, precursor	11676	1900540,10514465	Newly synthesized HIV-1 gp160 interacts with GRP78-BiP in pulse-chase experiments; the interaction sites of gp160 with BiP include residues 115-132, 484-490, 602-616, 676-690, and 776-807
+156110	nef	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Nef	11676	21763498	Heat shock proteins Hsp40 and Hsp70 interact with HIV-1 Nef and form a complex in cells
+156110	nef	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	Nef	11676	23125841	Tandem affinity purification and mass spectrometry analysis identify heat shock 70kDa protein 5 (HSPA5; 78kDa glucose-regulated protein), HIV-1 Gag, Gag/Pol, gp120, and Nef incorporated into staufen1 RNP complexes isolated from HIV-1-expressing cells
+16706	Ksr1	-	9606	3309	HSPA5	-	10090	26549023	Affinity Capture-MS
+171169	SPACA4	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+171568	POLR3H	-	9606	3309	HSPA5	-	9606	17643375	Affinity Capture-MS
+18472	Pafah1b1	-	9606	3309	HSPA5	-	10090	26496610	Affinity Capture-MS
+19166	Psma2	-	9606	3309	HSPA5	-	10090	17139257	Affinity Capture-MS
+192670	AGO4	-	9606	3309	HSPA5	-	9606	19167051	Affinity Capture-MS
+196483	EEF2KMT	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS
+196541	METTL21C	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS
+21667	Tdgf1	-	9606	3309	HSPA5	-	10090	17991893	Affinity Capture-Western
+220988	HNRNPA3	-	9606	3309	HSPA5	-	9606	22939629,24189400	Affinity Capture-MS; Co-fractionation
+221092	HNRNPUL2	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+221120	ALKBH3	-	9606	3309	HSPA5	-	9606	25944111	Affinity Capture-MS
+22824	HSPA4L	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+22826	DNAJC8	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+22848	AAK1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+22938	SNW1	-	9606	3309	HSPA5	-	9606	12840015,20467437	Affinity Capture-MS
+23022	PALLD	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+23111	SPG20	-	9606	3309	HSPA5	-	9606	19765186	Affinity Capture-MS; Affinity Capture-Western
+23157	SEPT6	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+23197	FAF2	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+23234	DNAJC9	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+23363	OBSL1	-	9606	3309	HSPA5	-	9606	24711643	Affinity Capture-MS
+23410	SIRT3	-	9606	3309	HSPA5	-	9606	19343720	Affinity Capture-MS
+23411	SIRT1	-	9606	3309	HSPA5	-	9606	19343720	Affinity Capture-MS
+23435	TARDBP	-	9606	3309	HSPA5	-	9606	20020773	Affinity Capture-MS
+23524	SRRM2	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+23636	NUP62	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+23640	HSPBP1	-	9606	3309	HSPA5	-	9606	19659607	Reconstituted Complex
+23644	EDC4	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+23650	TRIM29	-	9606	3309	HSPA5	-	9606	26381412	Affinity Capture-MS
+23677	SH3BP4	-	9606	3309	HSPA5	-	9606	18654987	Two-hybrid
+254013	ETFBKMT	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS
+25895	METTL21B	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS
+25996	REXO2	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+26123	TCTN3	-	9606	3309	HSPA5	-	9606	26638075	Proximity Label-MS
+26260	FBXO25	-	9606	3309	HSPA5	-	9606	20473970	Affinity Capture-MS
+26270	FBXO6	-	9606	3309	HSPA5	-	9606	22268729	Affinity Capture-MS
+26415	Mapk13	-	9606	3309	HSPA5	-	10090	19135240	Affinity Capture-MS
+26517	TIMM13	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+27000	DNAJC2	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+27069	GHITM	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+27229	TUBGCP4	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+27248	ERLEC1	-	9606	3309	HSPA5	-	9606	18264092,21118962	Affinity Capture-MS; Affinity Capture-Western
+284217	LAMA1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+28960	DCPS	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+29104	N6AMT1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+29122	PRSS50	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+29763	PACSIN3	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+29766	TMOD3	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+29927	SEC61A1	-	9606	3309	HSPA5	-	9606	22796945,26085089	Affinity Capture-Western; Protein-peptide
+3077563	UL122	-	9606	3309	HSPA5	-	10359	22810585	Affinity Capture-MS
+30968	STOML2	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	1801	DPH1	-	9606	11013075	Two-hybrid
+3309	HSPA5	-	9606	840	CASP7	-	9606	11943137	Affinity Capture-Western
+3309	HSPA5	-	9606	2	A2M	-	9606	12194978	Reconstituted Complex
+3309	HSPA5	-	9606	1956	EGFR	-	9606	12471035,23956138,24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	2081	ERN1	-	9606	12637535,21118962	Affinity Capture-Western; Reconstituted Complex
+3309	HSPA5	-	9606	326	AIRE	-	9606	15150263,23443559	Affinity Capture-MS
+3309	HSPA5	-	9606	207	AKT1	-	9606	16027165	Affinity Capture-MS
+3309	HSPA5	-	9606	999	CDH1	-	9606	16212417	Affinity Capture-MS
+3309	HSPA5	-	9606	3014	H2AFX	-	9606	16522924	Affinity Capture-MS
+3309	HSPA5	-	9606	408	ARRB1	-	9606	17620599	Affinity Capture-MS
+3309	HSPA5	-	9606	409	ARRB2	-	9606	17620599	Affinity Capture-MS
+3309	HSPA5	-	9606	1025	CDK9	-	9606	17643375,23455922	Affinity Capture-MS
+3309	HSPA5	-	9606	673	BRAF	-	9606	17979178	Affinity Capture-MS
+3309	HSPA5	-	9606	338	APOB	-	9606	19164805	Affinity Capture-Western
+3309	HSPA5	-	9606	1398	CRK	-	9606	19380743	Affinity Capture-MS
+3309	HSPA5	-	9606	2060	EPS15	-	9606	19380743	Affinity Capture-MS
+3309	HSPA5	-	9606	2885	GRB2	-	9606	19380743,20936779	Affinity Capture-MS; Two-hybrid
+3309	HSPA5	-	9606	867	CBL	-	9606	19380743,21203488	Affinity Capture-MS
+3309	HSPA5	-	9606	2335	FN1	-	9606	19738201	Affinity Capture-MS
+3309	HSPA5	-	9606	988	CDC5L	-	9606	20467437	Affinity Capture-MS
+3309	HSPA5	-	9606	324	APC	-	9606	20936779	Two-hybrid
+3309	HSPA5	-	9606	1017	CDK2	-	9606	21319273,23455922	Affinity Capture-MS
+3309	HSPA5	-	9606	267	AMFR	-	9606	21343306,25301734,26119938	Affinity Capture-MS; Affinity Capture-Western
+3309	HSPA5	-	9606	1786	DNMT1	-	9606	21745816	Affinity Capture-MS
+3309	HSPA5	-	9606	1374	CPT1A	-	9606	21988832	Two-hybrid
+3309	HSPA5	-	9606	1191	CLU	-	9606	22689054,23457489	Affinity Capture-MS; Affinity Capture-Western
+3309	HSPA5	-	9606	1207	CLNS1A	-	9606	22863883	Co-fractionation
+3309	HSPA5	-	9606	3305	HSPA1L	-	9606	22863883,22939629	Co-fractionation
+3309	HSPA5	-	9606	3303	HSPA1A	-	9606	22863883,22939629,26496610	Affinity Capture-MS; Co-fractionation
+3309	HSPA5	-	9606	1973	EIF4A1	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	2547	XRCC6	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	2923	PDIA3	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	3185	HNRNPF	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	3191	HNRNPL	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	3308	HSPA4	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	498	ATP5A1	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	871	SERPINH1	-	9606	22939629	Co-fractionation
+3309	HSPA5	-	9606	2882	GPX7	-	9606	23123197	Affinity Capture-MS; Affinity Capture-Western
+3309	HSPA5	-	9606	752	FMNL1	-	9606	23182705	Affinity Capture-MS
+3309	HSPA5	-	9606	432	ASGR1	-	9606	23233672	Affinity Capture-Western
+3309	HSPA5	-	9606	1026	CDKN1A	-	9606	23443559	Affinity Capture-MS
+3309	HSPA5	-	9606	991	CDC20	-	9606	23443559	Affinity Capture-MS
+3309	HSPA5	-	9606	154	ADRB2	-	9606	23798571	Affinity Capture-MS
+3309	HSPA5	-	9606	3106	HLA-B	-	9606	24155957	Affinity Capture-Western
+3309	HSPA5	-	9606	2065	ERBB3	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	2103	ESRRB	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	2130	EWSR1	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	2670	GFAP	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	3181	HNRNPA2B1	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	3182	HNRNPAB	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	3184	HNRNPD	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	3187	HNRNPH1	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	3188	HNRNPH2	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	3189	HNRNPH3	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	60	ACTB	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	71	ACTG1	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	813	CALU	-	9606	24189400	Affinity Capture-MS
+3309	HSPA5	-	9606	2521	FUS	-	9606	24189400,25192599	Affinity Capture-MS
+3309	HSPA5	-	9606	3178	HNRNPA1	-	9606	24189400,25324306	Affinity Capture-MS
+3309	HSPA5	-	9606	3192	HNRNPU	-	9606	24189400,26344197	Affinity Capture-MS; Co-fractionation
+3309	HSPA5	-	9606	2033	EP300	-	9606	25301734	Affinity Capture-Western
+3309	HSPA5	-	9606	1407	CRY1	-	9606	25756610	Affinity Capture-MS
+3309	HSPA5	-	9606	354	KLK3	-	9606	26186194	Affinity Capture-MS
+3309	HSPA5	-	9606	54	ACP5	-	9606	26186194	Affinity Capture-MS
+3309	HSPA5	-	9606	1660	DHX9	-	9606	26344197	Co-fractionation
+3309	HSPA5	-	9606	2810	SFN	-	9606	26344197	Co-fractionation
+3309	HSPA5	-	9606	3301	DNAJA1	-	9606	26344197	Co-fractionation
+3309	HSPA5	-	9606	1373	CPS1	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	1434	CSE1L	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	1495	CTNNA1	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	1856	DVL2	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	1981	EIF4G1	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	1982	EIF4G2	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	2194	FASN	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	3070	HELLS	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	790	CAD	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	989	SEPT7	-	9606	26496610	Affinity Capture-MS
+3309	HSPA5	-	9606	639	PRDM1	-	9606	26823144	Affinity Capture-MS
+3309	HSPA5	-	9606	3107	HLA-C	-	9606	7957306	Affinity Capture-Western
+3309	HSPA5	RecName: Full=Glutamate receptor 1	9606	2890	GRIA1	RecName: Full=78 kDa glucose-regulated protein	9606	10461883	-
+3309	HSPA5	OVCA1	9606	1801	DPH1	RecName: Full=78 kDa glucose-regulated protein	9606	11013075	-
+3309	HSPA5	RecName: Full=Caspase-7	9606	840	CASP7	RecName: Full=78 kDa glucose-regulated protein	9606	11943137	-
+3309	HSPA5	RecName: Full=Alpha-2-macroglobulin	9606	2	A2M	RecName: Full=78 kDa glucose-regulated protein	9606	12194978	-
+3309	HSPA5	RecName: Full=Apolipoprotein B-100	9606	338	APOB	RecName: Full=78 kDa glucose-regulated protein	9606	12397072	-
+3309	HSPA5	RecName: Full=Serine/threonine-protein kinase/endoribonuclease IRE1	9606	2081	ERN1	RecName: Full=78 kDa glucose-regulated protein	9606	12637535	-
+3309	HSPA5	RecName: Full=HLA class I histocompatibility antigen, Cw-17 alpha chain	9606	3107	HLA-C	RecName: Full=78 kDa glucose-regulated protein	9606	7957306	-
+3309	HSPA5	RecName: Full=Coagulation factor VIII	9606	2157	F8	RecName: Full=78 kDa glucose-regulated protein	9606	9305856	-
+3310	HSPA6	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3312	HSPA8	-	9606	3309	HSPA5	-	9606	22939629,26344197,26496610	Affinity Capture-MS; Co-fractionation
+3315	HSPB1	-	9606	3309	HSPA5	-	9606	25277244	Two-hybrid
+3320	HSP90AA1	-	9606	3309	HSPA5	-	9606	19875381	Affinity Capture-MS
+3326	HSP90AB1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3329	HSPD1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3337	DNAJB1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+3359	HTR3A	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=5-hydroxytryptamine receptor 3A	9606	12359150	-
+3398	ID2	-	9606	3309	HSPA5	-	9606	21988832,26735018	Affinity Capture-MS; Two-hybrid
+3423	IDS	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+348174	CLEC18A	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+3507	IGHM	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Ig mu chain C region	9606	3122216	-
+3594	IL12RB1	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+3608	ILF2	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3609	ILF3	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3623	INHA	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+3636	INPPL1	-	9606	3309	HSPA5	-	9606	19380743	Affinity Capture-MS
+3671	ISLR	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+3752	KCND3	-	9606	3309	HSPA5	-	9606	17725712	Affinity Capture-Western
+3783746	EBNA-LP	-	9606	3309	HSPA5	-	10376	18457437	Affinity Capture-MS
+3837	KPNB1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3856	KRT8	-	9606	3309	HSPA5	-	9606	9409741	Reconstituted Complex
+3856	KRT8	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Keratin, type II cytoskeletal 8	9606	9409741	-
+3861	KRT14	-	9606	3309	HSPA5	-	9606	21988832	Two-hybrid
+387082	SUMO4	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Small ubiquitin-related modifier 4	9606	16236267	-
+3875	KRT18	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Keratin, type I cytoskeletal 18	9606	9409741	-
+3921	RPSA	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3925	STMN1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+3925	STMN1	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Stathmin	9606	7724523,10197448	-
+3938	LCT	-	9606	3309	HSPA5	-	9606	11751874	Affinity Capture-Western
+3938	LCT	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Lactase-phlorizin hydrolase	9606	11751874	-
+3949	LDLR	-	9606	3309	HSPA5	-	9606	10906332,16257961	Affinity Capture-MS; Affinity Capture-Western
+3949	LDLR	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Low-density lipoprotein receptor	9606	10906332	-
+3956	LGALS1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+3959	LGALS3BP	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+4026	LPP	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+4134	MAP4	-	9606	3309	HSPA5	-	9606	26344197,26496610	Affinity Capture-MS; Co-fractionation
+4171	MCM2	-	9606	3309	HSPA5	-	9606	25963833	Affinity Capture-MS
+4189	DNAJB9	-	9606	3309	HSPA5	-	9606	18400946	Affinity Capture-Western
+431705	ASTL	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+4343	MOV10	-	9606	3309	HSPA5	-	9606	22658674	Affinity Capture-RNA
+4478	MSN	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+4543	MTNR1A	-	9606	3309	HSPA5	-	9606	17215244	Affinity Capture-MS
+4543	MTNR1A	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Melatonin receptor type 1A	9606	17215244	-
+4544	MTNR1B	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Melatonin receptor type 1B	9606	17215244	-
+4627	MYH9	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+4628	MYH10	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+4690	NCK1	-	9606	3309	HSPA5	-	9606	15908432	Affinity Capture-Western
+4735	SEPT2	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+4738	NEDD8	-	9606	3309	HSPA5	-	9606	18247557,21145461,24654937	Affinity Capture-MS
+4843	NOS2	-	9606	3309	HSPA5	-	9606	23438482	Affinity Capture-MS
+4869	NPM1	-	9606	3309	HSPA5	-	9606	23402259	Affinity Capture-MS
+4904	YBX1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+4914	NTRK1	-	9606	3309	HSPA5	-	9606	25921289	Affinity Capture-MS
+4924	NUCB1	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+5034	P4HB	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+5062	PAK2	-	9606	3309	HSPA5	-	9606	15908432	Affinity Capture-Western
+5071	PARK2	-	9606	3309	HSPA5	-	9606	24244333	Affinity Capture-MS
+5074	PAWR	-	9606	3309	HSPA5	-	9606	19632185	Affinity Capture-MS; Affinity Capture-Western
+51035	UBXN1	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+51141	INSIG2	-	9606	3309	HSPA5	-	9606	19815544	Affinity Capture-MS
+51150	SDF4	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+51320	MEX3C	-	9606	3309	HSPA5	-	9606	26471122	Affinity Capture-MS
+51377	UCHL5	-	9606	3309	HSPA5	-	9606	21800051	Affinity Capture-MS; Affinity Capture-Western; Co-localization; Reconstituted Complex
+5139	PDE3A	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+51552	RAB14	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+51726	DNAJB11	-	9606	3309	HSPA5	-	9606	21217698,24189400,26085089,26186194,26344197	Affinity Capture-MS; Co-fractionation; Reconstituted Complex
+5265	SERPINA1	-	9606	3309	HSPA5	-	9606	24899641	Affinity Capture-Western
+5289	PIK3C3	-	9606	3309	HSPA5	-	9606	23569248	Affinity Capture-MS
+54165	DCUN1D1	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+54361	WNT4	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+54431	DNAJC10	-	9606	3309	HSPA5	-	9606	12411443,18400946,24189400	Affinity Capture-MS; Affinity Capture-Western; Reconstituted Complex
+54431	DNAJC10	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	ERDJ5	9606	12411443	-
+5445	PON2	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+54487	DGCR8	-	9606	3309	HSPA5	-	9606	17765891	Affinity Capture-MS
+54556	ING3	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+5479	PPIB	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+54972	TMEM132A	-	9606	3309	HSPA5	-	9606	12514190	Reconstituted Complex
+54972	TMEM132A	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	GBP protein	9606	12514190	-
+5501	PPP1CC	-	9606	3309	HSPA5	-	9606	17683050	Affinity Capture-MS
+55142	HAUS2	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+55177	RMDN3	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+55192	DNAJC17	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+55324	ABCF3	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+55466	DNAJA4	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+55600	ITLN1	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+55602	CDKN2AIP	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+55611	OTUB1	-	9606	3309	HSPA5	-	9606	26752685	Affinity Capture-MS
+55626	AMBRA1	-	9606	3309	HSPA5	-	9606	25499913	Affinity Capture-MS
+55644	OSGEP	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+55722	CEP72	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+55832	CAND1	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+5589	PRKCSH	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+5591	PRKDC	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+5598	MAPK7	-	9606	3309	HSPA5	-	9606	23428871	Affinity Capture-MS
+5611	DNAJC3	-	9606	3309	HSPA5	-	9606	26085089	Reconstituted Complex
+5621	PRNP	-	9606	3309	HSPA5	-	9606	10970892	Reconstituted Complex
+5621	PRNP	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Major prion protein	9606	15146195	-
+5621	PRNP	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	major prion protein preproprotein	9606	10970892	PrPc interacts with HSPA5 (BiP).
+56257	MEPCE	-	9606	3309	HSPA5	-	9606	17643375	Affinity Capture-MS
+56469	Pias1	-	9606	3309	HSPA5	-	10090	15280358	Two-hybrid
+5683	PSMA2	-	9606	3309	HSPA5	-	9606	19193609	Affinity Capture-MS
+5684	PSMA3	-	9606	3309	HSPA5	-	9606	22079093	Affinity Capture-MS
+56893	UBQLN4	-	9606	3309	HSPA5	-	9606	11162551,26496610	Affinity Capture-MS; Two-hybrid
+56896	DPYSL5	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Dihydropyrimidinase-related protein 5	9606	16169070	-
+5705	PSMC5	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+57062	DDX24	-	9606	3309	HSPA5	-	9606	16169070	Two-hybrid
+57062	DDX24	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=ATP-dependent RNA helicase DDX24	9606	16169070	-
+5707	PSMD1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+57154	SMURF1	-	9606	3309	HSPA5	-	9606	23184937	Affinity Capture-MS
+5725	PTBP1	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+5727	PTCH1	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+57379	AICDA	-	9606	3309	HSPA5	-	9606	23277564	Affinity Capture-Western
+57510	XPO5	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+57718	PPP4R4	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+5894	RAF1	-	9606	3309	HSPA5	-	9606	18064632	Affinity Capture-Western; Reconstituted Complex
+5910	RAP1GDS1	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+5954	RCN1	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+5955	RCN2	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+5970	RELA	-	9606	3309	HSPA5	-	9606	25331947	Affinity Capture-MS
+60506	NYX	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+6117	RPA1	-	9606	3309	HSPA5	-	9606	24332808	Affinity Capture-MS
+6118	RPA2	-	9606	3309	HSPA5	-	9606	24332808	Affinity Capture-MS
+6119	RPA3	-	9606	3309	HSPA5	-	9606	24332808	Affinity Capture-MS
+6132	RPL8	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6176	RPLP1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6184	RPN1	-	9606	3309	HSPA5	-	9606	10588643	Affinity Capture-Western; Reconstituted Complex
+6188	RPS3	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6199	RPS6KB2	-	9606	3309	HSPA5	-	9606	25324306	Affinity Capture-MS
+6217	RPS16	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6230	RPS25	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+63982	ANO3	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+64215	DNAJC1	-	9606	3309	HSPA5	-	9606	26085089	Reconstituted Complex
+64215	DNAJC1	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=DnaJ homolog subfamily C member 1	9606	10777498	-
+64222	TOR3A	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+64374	SIL1	-	9606	3309	HSPA5	-	9606	12356756,25877869	Affinity Capture-Western; Two-hybrid
+64374	SIL1	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Nucleotide exchange factor SIL1	9606	12356756	-
+6440	SFTPC	-	9606	3309	HSPA5	-	9606	18400946	Affinity Capture-Western
+6464	SHC1	-	9606	3309	HSPA5	-	9606	19380743	Affinity Capture-MS
+6472	SHMT2	-	9606	3309	HSPA5	-	9606	22658674	Affinity Capture-RNA
+64784	CRTC3	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+6497	SKI	-	9606	3309	HSPA5	-	9606	25670202	Affinity Capture-MS
+6625	SNRNP70	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6632	SNRPD1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6709	SPTAN1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6711	SPTBN1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6721	SREBF2	-	9606	3309	HSPA5	-	9606	20936779	Two-hybrid
+6742	SSBP1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6745	SSR1	-	9606	3309	HSPA5	-	9606	17380188	Affinity Capture-Western
+6780	STAU1	-	9606	3309	HSPA5	-	9606	23125841	Affinity Capture-MS
+6790	AURKA	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+6836	SURF4	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+6871	TADA2A	-	9606	3309	HSPA5	-	9606	20508642	Affinity Capture-MS
+7038	TG	-	9606	3309	HSPA5	-	9606	10049727,11294872	Reconstituted Complex
+7038	TG	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Thyroglobulin	9606	10049727,11294872	-
+7157	TP53	-	9606	3309	HSPA5	-	9606	17184779,23443559	Affinity Capture-MS; Affinity Capture-Western
+7184	HSP90B1	-	9606	3309	HSPA5	-	9606	22939629,26344197,26496610	Affinity Capture-MS; Co-fractionation
+7253	TSHR	-	9606	3309	HSPA5	-	9606	12383251	Affinity Capture-Western
+7253	TSHR	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Thyrotropin receptor	9606	12383251	-
+7253	TSHR	78 kDa glucose-regulated protein precursor	9606	3309	HSPA5	thyroid stimulating hormone receptor	9606	12383251	TSHR interacts with BiP. This interaction was modeled on a demonstrated interaction between human TSHR and hamster BiP.
+7266	DNAJC7	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+7277	TUBA4A	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+7283	TUBG1	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+7295	TXN	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+7296	TXNRD1	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+7316	UBC	-	9606	3309	HSPA5	-	9606	23314748	Reconstituted Complex
+7337	UBE3A	-	9606	3309	HSPA5	-	9606	26506232	Reconstituted Complex
+7414	VCL	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+7415	VCP	-	9606	3309	HSPA5	-	9606	23383273	Affinity Capture-MS
+7428	VHL	-	9606	3309	HSPA5	-	9606	22234250	Reconstituted Complex
+7450	VWF	-	9606	3309	HSPA5	-	9606	10887119	Affinity Capture-Western
+7450	VWF	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=von Willebrand factor	9606	10887119	-
+7484	WNT9B	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+7528	YY1	-	9606	3309	HSPA5	-	9606	17721549	Co-localization
+7529	YWHAB	-	9606	3309	HSPA5	-	9606	15324660,22939629	Affinity Capture-MS; Co-fractionation
+7529	YWHAB	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=14-3-3 protein beta/alpha	9606	15324660	-
+7597	ZBTB25	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+7879	RAB7A	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+78989	COLEC11	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+79026	AHNAK	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+79091	METTL22	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS
+7917	BAG6	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+79600	TCTN1	-	9606	3309	HSPA5	-	9606	26638075	Proximity Label-MS
+79616	CCNJL	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+79823	CAMKMT	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS
+79867	TCTN2	-	9606	3309	HSPA5	-	9606	26638075	Proximity Label-MS
+79959	CEP76	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+80021	TMEM62	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Transmembrane protein 62	9606	16169070	-
+80086	TUBA4B	-	9606	3309	HSPA5	-	9606	22863883	Co-fractionation
+80321	CEP70	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+8065	CUL5	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+81847	RNF146	-	9606	3309	HSPA5	-	9606	21825151	Affinity Capture-MS
+8266	UBL4A	-	9606	3309	HSPA5	-	9606	23246001,26496610	Affinity Capture-MS
+83468	GLT8D2	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+8353	HIST1H3E	-	9606	3309	HSPA5	-	9606	26527279	Affinity Capture-MS
+83987	CCDC8	-	9606	3309	HSPA5	-	9606	24711643	Affinity Capture-MS
+8407	TAGLN2	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+84168	ANTXR1	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+84447	SYVN1	-	9606	3309	HSPA5	-	9606	21903092	Affinity Capture-Western
+8445	DYRK2	-	9606	3309	HSPA5	-	9606	19287380	Affinity Capture-MS
+8450	CUL4B	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+8451	CUL4A	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+8452	CUL3	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+8453	CUL2	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+8454	CUL1	-	9606	3309	HSPA5	-	9606	21145461	Affinity Capture-MS
+84557	MAP1LC3A	-	9606	3309	HSPA5	-	9606	22963397	Affinity Capture-MS
+84866	TMEM25	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+84959	UBASH3B	-	9606	3309	HSPA5	-	9606	19380743	Affinity Capture-MS
+84993	UBL7	-	9606	3309	HSPA5	-	9606	26344197	Co-fractionation
+8626	TP63	-	9606	3309	HSPA5	-	9606	20085233	Affinity Capture-MS
+8648	NCOA1	-	9606	3309	HSPA5	-	9606	16051665	Affinity Capture-MS
+8726	EED	-	9606	3309	HSPA5	-	9606	24457600	Affinity Capture-MS
+8766	RAB11A	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+8826	IQGAP1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+8878	SQSTM1	-	9606	3309	HSPA5	-	9606	26075355	Protein-peptide; Reconstituted Complex
+89778	SERPINB11	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+89780	WNT3A	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+90417	KNSTRN	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+90488	TMEM263	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+9092	SART1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+91147	TMEM67	-	9606	3309	HSPA5	-	9606	19815549	Affinity Capture-Western
+9159	PCSK7	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Proprotein convertase subtilisin/kexin type 7	9606	10964928	-
+9212	AURKB	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+92342	METTL18	-	9606	3309	HSPA5	-	9606	23349634	Affinity Capture-MS
+92483	LDHAL6B	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+9349	RPL23	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
+9451	EIF2AK3	-	9606	3309	HSPA5	-	9606	11907036,20371724	Affinity Capture-Western
+9451	EIF2AK3	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Eukaryotic translation initiation factor 2-alpha kinase 3	9606	11907036	-
+9476	NAPSA	-	9606	3309	HSPA5	-	9606	26186194	Affinity Capture-MS
+951475	HCVgp1	-	9606	3309	HSPA5	-	11103	22810585	Affinity Capture-MS
+9532	BAG2	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+9564	BCAR1	-	9606	3309	HSPA5	-	9606	16169070	Two-hybrid
+9564	BCAR1	RecName: Full=78 kDa glucose-regulated protein	9606	3309	HSPA5	RecName: Full=Breast cancer anti-estrogen resistance protein 1	9606	16169070	-
+9612	NCOR2	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+96459	FNIP1	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+9657	IQCB1	-	9606	3309	HSPA5	-	9606	21565611	Affinity Capture-MS
+9702	CEP57	-	9606	3309	HSPA5	-	9606	23443559	Affinity Capture-MS
+9793	CKAP5	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+9798	IST1	-	9606	3309	HSPA5	-	9606	22939629	Co-fractionation
+9810	RNF40	-	9606	3309	HSPA5	-	9606	26496610	Affinity Capture-MS
+9820	CUL7	-	9606	3309	HSPA5	-	9606	24711643	Affinity Capture-MS
+9873	FCHSD2	-	9606	3309	HSPA5	-	9606	18654987	Two-hybrid
+9924	PAN2	-	9606	3309	HSPA5	-	9606	23398456	Affinity Capture-MS
+9987	HNRNPDL	-	9606	3309	HSPA5	-	9606	24189400	Affinity Capture-MS
