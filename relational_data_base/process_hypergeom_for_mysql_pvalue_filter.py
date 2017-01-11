@@ -11,12 +11,16 @@ import re
 import numpy as np
 
 
-input_file = "sample_output_web_interface.txt"
-#input_file = "../final_output_10m_011116.txt"
+#input_file = "sample_output_web_interface.txt"
+input_file = "../final_output_10m_011116.txt"
 
-out_put_file1 = "gene_numbering_011116_p005.txt"
-out_put_file2 = "whole_output_with_numbering_011116_p005.txt"
+out_put_file1 = "gene_numbering_011116_p05.txt"
+out_put_file2 = "whole_output_with_numbering_011116_p05.txt"
 df = pd.read_csv(input_file, sep='\t')
+
+### filter based on p_value threshold
+df =  df[df['p_value'] <= 0.05]
+
 
 
 #print df
