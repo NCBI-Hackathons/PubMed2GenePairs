@@ -18,4 +18,4 @@ Our algorithm, which we refer to as GenRank (Fig. 1), provides a list of ranked 
 
 #![alt tag](https://github.com/NCBI-Hackathons/PubMed2GenePairs/blob/master/figures/P_y.png =50x)
 
-#![alt tag](https://github.com/NCBI-Hackathons/PubMed2GenePairs/blob/master/figures/p_value.png)
+#![alt tag](https://github.com/NCBI-Hackathons/PubMed2GenePairs/blob/master/figures/p_value.png = 50X)
