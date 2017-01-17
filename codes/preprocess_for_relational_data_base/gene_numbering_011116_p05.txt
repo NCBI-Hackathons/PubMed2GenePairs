@@ -1,0 +1,3026 @@
+DUOXA2	1
+Nampt	2
+S-1	3
+cIAP1	4
+B2M	5
+retinoid X receptor	6
+glutathione peroxidase 4	7
+u-PA	8
+PDCD10	9
+AGT	10
+Shank3	11
+Shank2	12
+Shank1	13
+CEACAM1	14
+endoglin	15
+CTL1	16
+DNA-PKcs	17
+Pentraxin 3	18
+PIK3CA	19
+Pkd1	20
+CBL1	21
+Gpx4	22
+Hes1	23
+Kv7.2	24
+Slug	25
+Bcl2	26
+IFN-lambda2	27
+C13	28
+GR	29
+MUC2	30
+MYPT1	31
+CEACAM6	32
+CRB1	33
+XPF	34
+CD3 gamma	35
+MUC4	36
+A-FABP	37
+Akt2	38
+Akt3	39
+MEG3	40
+Bcl-xl	41
+OPA1	42
+C-7	43
+C-5	44
+zif268	45
+C-3	46
+C-2	47
+GH	48
+Kv1.5	49
+delta-aminolevulinic acid dehydratase	50
+Vps18	51
+IFN-gamma	52
+glutathione peroxidase 3	53
+Hos2	54
+Bcl-xL	55
+JNK	56
+glucagon-like peptide 1	57
+MAO	58
+Nkx2.1	59
+Merlin	60
+TREK2	61
+Nkx2.5	62
+MCP1	63
+D2-like (D2, D3	64
+dfrA17	65
+PGY 4	66
+GITR	67
+AMPK	68
+TYK2	69
+BET	70
+Rab27A	71
+Rab27B	72
+Psy3	73
+DGAT1	74
+TTK	75
+NK1 receptor	76
+xanthine oxidoreductase	77
+adrenocorticotropic hormone	78
+IgH	79
+H19	80
+GRP	81
+Acetylcholinesterase	82
+GRN	83
+ZEB2	84
+NF-YC9	85
+ROCK-2	86
+SOD-1	87
+SOD-2	88
+ROCK-1	89
+PKCa	90
+Lipasin	91
+angiotensin converting enzyme	92
+Co(II)	93
+NOS	94
+GHRH	95
+SMAD4	96
+SMAD7	97
+SMAD1	98
+SMAD2	99
+SMAD3	100
+POLG2	101
+carb	102
+Interleukin-2	103
+FOXM1	104
+GPx4	105
+p47	106
+Interferon-gamma	107
+p44	108
+p40	109
+folliculin	110
+Cullin	111
+ARF3	112
+c-FLIP	113
+ARF4	114
+CtIP	115
+Tudor	116
+L3T4	117
+Her2	118
+miR-126	119
+granulocyte colony-stimulating factor	120
+carcinoembryonic antigen	121
+SH2B3	122
+Nanog	123
+b-TrCP	124
+MerC	125
+EDA	126
+MAP 1B	127
+MAP 1A	128
+Pdx1	129
+ICAM-1	130
+Fgf23	131
+IRF8	132
+FH II	133
+miR-34a	134
+C/EBPa	135
+HMGB1	136
+C/EBPb	137
+rpS6	138
+Duffy antigen receptor for chemokines	139
+STE14	140
+Mex67	141
+CPL4	142
+nucleoside diphosphate kinase	143
+proliferating cell nuclear antigen	144
+PC1/3	145
+G-CSF	146
+SP1	147
+GFAP	148
+MUC1	149
+eIF-5A	150
+CNTF	151
+CD45	152
+CD44	153
+CD47	154
+glutamic acid decarboxylase	155
+CD40	156
+CA10	157
+TIM3	158
+FXI	159
+TGF-beta	160
+XPD	161
+MCT1	162
+TNFalpha	163
+Alk	164
+CLE45	165
+CFI	166
+aP2	167
+PNP	168
+c-Src	169
+Twist1	170
+granulocyte-macrophage colony stimulating factor	171
+vln3	172
+FXa	173
+HP1	174
+WDR77	175
+CD74	176
+HAMP	177
+interleukin-33	178
+sbno2a	179
+NQO1	180
+Midkine	181
+Set2	182
+Set3	183
+purine nucleoside phosphorylase	184
+GSK-3beta	185
+CD71	186
+angiopoietin-2	187
+SAA	188
+VMAT2	189
+GPER	190
+Evi-2	191
+LIS1	192
+Interleukin-1b	193
+VEGFR-2	194
+SLC47A1	195
+uroporphyrinogen III synthase	196
+min/1	197
+Myf5	198
+Bni1	199
+ACC2	200
+endothelium-derived relaxing factor	201
+IP-10	202
+ATG5	203
+MRP	204
+langerin	205
+Rb1	206
+PR3	207
+hormone receptor	208
+FCMTE2	209
+FCMTE1	210
+Pat1	211
+DBH	212
+transforming growth factor beta	213
+cip1	214
+APP	215
+SF-1	216
+Interleukin-17	217
+urotensin II	218
+AtSUN1	219
+galanin receptor 2	220
+DBP	221
+galanin receptor 1	222
+cJun	223
+FOXP3	224
+FOXP1	225
+SCA15	226
+Kip1	227
+phosphatidylethanolamine N-methyltransferase	228
+Dmp1	229
+N-WASP	230
+BCL-2	231
+semaphorin3A	232
+MYCN	233
+CYP2D6	234
+thrombin	235
+TREX1	236
+Caf1	237
+AF9	238
+vimentin	239
+AF4	240
+SNARE	241
+IGF2	242
+Kiss1r	243
+IGF1	244
+SP-C	245
+Rg1	246
+SP-A	247
+RUNX2	248
+GCK	249
+Yfh1	250
+MEK1/2	251
+JNK1/2	252
+CYP2R1	253
+AFP	254
+TIMP	255
+smoothened	256
+Muc5B	257
+OATP2B1	258
+RKIP	259
+MEF2C	260
+PFN1	261
+Osteopontin	262
+MMP-12	263
+MMP-13	264
+CREB	265
+PROC	266
+LCORL	267
+extracellular signal-regulated kinase 1/2	268
+utrophin	269
+PDGFRB	270
+PDGFRA	271
+TMC1	272
+miR-130a	273
+cathepsin B	274
+PYL1	275
+Rtg1p	276
+Actin	277
+MALAT1	278
+corticotropin-releasing factor	279
+PDGFRa	280
+interleukin (IL)-4	281
+beclin-1	282
+Bcr-Abl	283
+p70S6K	284
+Notch1	285
+TPM1	286
+TNF-a	287
+Co(III)	288
+Flt3 ligand	289
+FBXW7	290
+MMP-1	291
+MMP-2	292
+MMP-3	293
+growth hormone secretagogue receptor	294
+KiSS-1	295
+MMP-7	296
+MMP-8	297
+MMP-9	298
+TRIF	299
+YAP	300
+LC3B	301
+thyrotropin-releasing hormone	302
+p54	303
+p55	304
+Wnt5a	305
+p57	306
+glucagon-like peptide-1	307
+alpha 1-antichymotrypsin	308
+p52	309
+p53	310
+SPAK	311
+cyclooxygenase-2	312
+P-gp	313
+P2X6	314
+tissue factor pathway inhibitor	315
+P2X5	316
+Ca(V)2.1	317
+Anaplastic lymphoma kinase	318
+Ca(V)2.2	319
+SOCS	320
+PPAR	321
+TNFSF4	322
+Cx43	323
+Beclin-1	324
+Cx47	325
+hypoxia-inducible factor-1	326
+hypoxanthine-guanine phosphoribosyltransferase	327
+PRDX3	328
+PRDX2	329
+AGRP	330
+brain derived neurotrophic factor	331
+CASP9	332
+Kiss1	333
+CYP	334
+hMLH1	335
+Syk	336
+THP-1	337
+PON	338
+Akr1b8	339
+TOR1A	340
+ZAP70	341
+Akr1b3	342
+RDH10	343
+Fgf15	344
+Sgs1	345
+FCGR2A	346
+VCP	347
+CYP11A1	348
+RANKL	349
+miR-221	350
+Muc15	351
+ryanodine receptor	352
+miR-224	353
+proinsulin	354
+OATP1B1	355
+pRb	356
+TARC	357
+troponin C	358
+NTPDase3	359
+E1B	360
+Peg3	361
+CD38	362
+CD39	363
+PTGS2	364
+CD30	365
+CD31	366
+brain-derived neurotrophic factor	367
+CD33	368
+CD34	369
+CD36	370
+RNA helicase A	371
+C-reactive protein	372
+JNK1	373
+miR-210	374
+BDCA-3	375
+Bim	376
+H-Ras	377
+DQ2	378
+CALM1	379
+RALDH1	380
+CACNA1A	381
+Bid	382
+DNMT1	383
+Chop	384
+DCX	385
+occludin	386
+mammalian target of rapamycin	387
+FLCN	388
+p150	389
+prostate-specific antigen (PSA)	390
+CD3 epsilon	391
+lipin 1	392
+TRIM21	393
+CD147	394
+BGLAP	395
+Carbonic anhydrase IX	396
+Nox2	397
+SGLT2	398
+HMGCR	399
+BRD4	400
+COII	401
+BRD2	402
+BRD3	403
+bat	404
+IL-36Ra	405
+Cx26	406
+KAT1	407
+bax	408
+Tlr2	409
+CK5	410
+CK7	411
+grp78	412
+Factor H	413
+matriptase-2	414
+CK8	415
+glucose transporter 1	416
+insulin-like growth factor-1	417
+securin	418
+GAPDH	419
+HIF1A	420
+ovalbumin	421
+PS2	422
+Ucp1	423
+PS1	424
+NMDAR	425
+SRSF2	426
+EGR1	427
+HOXA5	428
+HIF1a	429
+Homer 1a	430
+HLA-DQB1	431
+HMG2	432
+AT(2)R	433
+CX3CL1	434
+AlkB	435
+CHEK2	436
+c-jun	437
+INF2	438
+cullin	439
+tNOX	440
+KCNQ3	441
+PAX5	442
+PAX9	443
+PAX8	444
+lipase	445
+Gle1	446
+AE1	447
+dopamine D1 receptor	448
+AE3	449
+PROK2	450
+PSA	451
+DM1	452
+Cdk2	453
+Cdk4	454
+Cdk5	455
+Cdk6	456
+O-GlcNAc transferase	457
+VEGFA	458
+insulin-like growth factor-I	459
+p300	460
+hsp90	461
+G6pc	462
+SH2D1A	463
+GST A3-3	464
+pgr5	465
+thioredoxin reductase 1	466
+DSG2	467
+EpCAM	468
+CD79a	469
+Gal-1	470
+CO	471
+TrkB	472
+TrkA	473
+MDA5	474
+S1P	475
+connexin 43	476
+Apaf-1	477
+Sulf1	478
+P2Y(6)	479
+NGAL	480
+SFRP2	481
+SFRP4	482
+OR 2.5	483
+SOX9	484
+COL1A1	485
+glutathione reductase	486
+p63	487
+p62	488
+p65	489
+p67	490
+Trk	491
+erythropoietin receptor	492
+FCGR3B	493
+FOXO1	494
+NPR-C	495
+phospholipase A(2)	496
+LOX	497
+HLA-DQA1	498
+glutathione-S-transferase	499
+ALDH1A1	500
+c-Jun	501
+GW182	502
+P2Y1	503
+chemokine receptor	504
+RPL27	505
+P2Y2	506
+CK-MM	507
+DICER	508
+PAPP-A	509
+VEGFR-1	510
+ZO-1	511
+NFKBIA	512
+MIP-1beta	513
+t-PA	514
+eIF2B	515
+ATGL	516
+TACI	517
+cytochrome c	518
+cytochrome b	519
+HPL	520
+interleukin (IL)-6	521
+FSH-beta	522
+CD24	523
+PPAR-a	524
+p22phox	525
+CaV2.1	526
+neurotrophin-3	527
+eIF2a	528
+PDK1	529
+cytochrome C	530
+IL-1beta	531
+EBP	532
+erb2	533
+thrombospondin-1	534
+FMRP	535
+thrombospondin-4	536
+ALPL	537
+cyclin D1	538
+miR-214	539
+CCN1	540
+CCN2	541
+OAT3	542
+OCTN1	543
+bpc6	544
+OCTN2	545
+esa1	546
+myocilin	547
+SPG3A	548
+malate dehydrogenase	549
+Hsp70	550
+TNF-alpha	551
+HMG1	552
+FVIII	553
+GluA1	554
+calmodulin	555
+CCR3	556
+ABCB1	557
+NTRK3	558
+PGY 1	559
+mTOR	560
+IL-25	561
+peroxisome proliferator-activated receptor	562
+glutathione S-transferase	563
+BMP7	564
+CD29	565
+CD28	566
+CD23	567
+CD22	568
+CD21	569
+CD20	570
+CD27	571
+KLF4	572
+CD25	573
+plasminogen activator inhibitor-1	574
+apoA-I	575
+Urokinase-type plasminogen activator	576
+Tumor necrosis factor alpha	577
+RXR	578
+KRAS	579
+Oatp1a1	580
+BMP4	581
+BMP2	582
+SOCS3	583
+GATA-3	584
+SOCS2	585
+DR5	586
+DR4	587
+adiponectin	588
+Smc5/6	589
+AtACBP1	590
+CDPX1	591
+AtACBP6	592
+LepR	593
+inducible NO synthase	594
+IL1R2	595
+IL1R1	596
+CCR7	597
+MODY2	598
+SLC40A1	599
+CHD7	600
+PTH	601
+SCF	602
+HDAC	603
+Heph	604
+TfR	605
+PTP	606
+PPARgamma	607
+CDC25C	608
+FosB	609
+HNF4a	610
+Alix	611
+ghrelin receptor	612
+CRH-R1	613
+neuron-specific enolase	614
+TMEM67	615
+ABCG1	616
+ABCG2	617
+Wnt3	618
+MPO	619
+MPI	620
+transforming growth factor b1	621
+VEGFR1	622
+VEGFR2	623
+leptin	624
+SMC2	625
+MCPH5	626
+MCPH4	627
+P-450b	628
+AT1R	629
+osteocalcin	630
+cry1	631
+P-450d	632
+MAPK14	633
+MHF1	634
+SUR	635
+paraoxonase-1	636
+MHF2	637
+Lef1	638
+Tgfb1	639
+Aubergine	640
+Annexin V	641
+RPB2	642
+CYP2B6	643
+UGT2B17	644
+extracellular signal-regulated kinase	645
+NBN	646
+MiR-451	647
+BAFF	648
+Lyzl6	649
+ET-1	650
+ET-2	651
+IL17	652
+Eed	653
+synaptophysin	654
+EDRF	655
+ADK	656
+ADH	657
+ERK5	658
+ADH1	659
+ADH7	660
+ADH5	661
+ADH4	662
+S100A1	663
+GJC2	664
+heat shock protein 90	665
+CTGF	666
+PIAS1	667
+annexin A1	668
+Snrpn	669
+S100A2	670
+Sonic hedgehog	671
+Kindlin-1	672
+Bcrp1	673
+Endoglin	674
+GNMT	675
+Cyclin A	676
+CgA	677
+ZmMRP1	678
+TCRB	679
+hepatocyte growth factor	680
+TFF1	681
+TCRG	682
+Id1	683
+SIN-1	684
+interleukin 2 receptor	685
+Ad3	686
+Phox2b	687
+KCNK9	688
+Neuropeptide Y	689
+dihydrofolate reductase	690
+MLH3	691
+CRY1	692
+MLH1	693
+KCNK3	694
+connective tissue growth factor	695
+vinculin	696
+MSX1	697
+TRAF1	698
+TRAF2	699
+p75	700
+p73	701
+p70	702
+colony-stimulating factor 1	703
+TMPRSS2	704
+TMPRSS3	705
+interleukin 1 (IL-1	706
+TMPRSS6	707
+vascular cell adhesion molecule-1	708
+PARP1	709
+CXCL13	710
+desmoglein-3	711
+Ptch1	712
+cytokeratin 7	713
+LRRK2	714
+fos	715
+estrogen receptor a	716
+PIF3	717
+Aurora-A	718
+leukotriene A4 hydrolase	719
+ATF4	720
+intrinsic factor	721
+ATF6	722
+SDHD	723
+ATF3	724
+DNase I	725
+TMCO1	726
+Granzyme B	727
+bHLH100	728
+GLYT2	729
+GLYT1	730
+miR-20a	731
+pantothenate kinase-associated neurodegeneration	732
+microRNA-451	733
+KIAA0319	734
+SMG6	735
+Heme oxygenase-1	736
+Myosin	737
+WEE1	738
+PlGF	739
+SLC2A1	740
+DAZL	741
+fractalkine	742
+miR-203	743
+IGF1R	744
+tissue inhibitor of metalloproteinase-1	745
+miR-206	746
+dopamine b-hydroxylase	747
+miR-205	748
+IFNG	749
+farnesoid X receptor	750
+HAN11	751
+Col1a1	752
+CXCL11	753
+CXCL10	754
+C1-INH	755
+CYP3A5	756
+CXCL16	757
+H2AX	758
+Sororin	759
+ApoCIII	760
+Tax	761
+IFNa	762
+microRNA-195	763
+DRB1	764
+SLC30A8	765
+chemokine (C-C motif) ligand 2	766
+JAK3	767
+ENOX2	768
+aspartate aminotransferase	769
+Akt1	770
+FoxP3	771
+gonadotropin-releasing hormone	772
+SHMT2	773
+Pten	774
+HOXA	775
+dentin sialoprotein	776
+Mtr2	777
+COL3A1	778
+miR-375	779
+Actb	780
+MC4R	781
+SIRT6	782
+Cyclin D1	783
+miR-31	784
+thyroglobulin	785
+CD1a	786
+PEPC	787
+E-cadherin	788
+P12	789
+JAK2	790
+P15	791
+JAK1	792
+P18	793
+RelB	794
+RelA	795
+CCL22	796
+tissue-type plasminogen activator	797
+IL-1 receptor antagonist	798
+SENP1	799
+FEI1	800
+bZIP	801
+Bcl-XL	802
+complement C3	803
+aFGF	804
+TNFR	805
+DCDC2	806
+NKp46	807
+apolipoprotein B	808
+apolipoprotein E	809
+fatty acid synthase	810
+GluA2	811
+Grx2	812
+GAD67	813
+PC3	814
+PC1	815
+GzmB	816
+CHK1	817
+DPP-IV	818
+PPARy	819
+CD16	820
+CD14	821
+CD15	822
+INH	823
+CD13	824
+CD10	825
+PPARa	826
+C3aR	827
+CD18	828
+CD19	829
+FH I	830
+AKT	831
+b(2)-AR	832
+HD-5	833
+myocardin	834
+neurofibromatosis type 1	835
+stem cell factor	836
+PTX3	837
+Mfn1	838
+ACAT1	839
+ACAT2	840
+Cytochrome b	841
+RIFL	842
+kappa opioid receptor	843
+IL-1R1	844
+bHLH101	845
+PI3K	846
+defensin 5	847
+MECP2	848
+S100	849
+SS18	850
+LDLR	851
+endothelial lipase	852
+CYP2C9	853
+CYP2C8	854
+SBP	855
+cyclin A	856
+LMO2	857
+per2	858
+p38 mitogen-activated protein kinase	859
+Wnt2	860
+aryl hydrocarbon receptor	861
+DHFR	862
+p100	863
+BAX	864
+Fxr	865
+BAF	866
+ERG	867
+HAND1	868
+KOR	869
+IL-2 receptor	870
+Cyclooxygenase-2	871
+MYOD1	872
+LPIN1	873
+L-2	874
+IRS-1	875
+L-4	876
+L-5	877
+GJB6	878
+CMT2B2	879
+ST5	880
+glial fibrillary acidic protein	881
+CMT2B1	882
+ERa	883
+a-SMA	884
+Cdc25B	885
+Mmp2	886
+SHMT	887
+Urocortin	888
+sp2	889
+MDC1	890
+Aro80	891
+CD40L	892
+PgR	893
+5-HT1A	894
+SHN1	895
+FGF-2	896
+TET2	897
+Chk2	898
+Gli2	899
+CA 15-3	900
+carbonic anhydrase IX	901
+Gli1	902
+SCN1B	903
+SLC1A5	904
+CYP11B1	905
+NCC	906
+INK4A	907
+presenilin 1	908
+LIF	909
+Dnmt3a	910
+RSPH4A	911
+Angiopoietin-2	912
+scFv	913
+ALR2	914
+activation-induced cytidine deaminase	915
+NCF1	916
+interleukin 1 beta	917
+CK5/6	918
+SOST	919
+placental growth factor	920
+IL-1B	921
+PKAN	922
+CXCR3	923
+ApoE	924
+PKC-alpha	925
+CXCR2	926
+apex	927
+Tbp	928
+glycogen synthase kinase-3beta	929
+sec14	930
+ROR2	931
+ced-3	932
+ced-4	933
+CXCR7	934
+IL-1b	935
+LAP3	936
+IL-1a	937
+CDKN2B	938
+WT1	939
+CDKN2A	940
+BARD1	941
+CD62L	942
+IMPA1	943
+IMPA2	944
+IRE1	945
+Shh	946
+IFN gamma	947
+MUTYH	948
+trnK	949
+EIN3/EIL1	950
+trnM	951
+IL-18	952
+FMLP	953
+IL-17	954
+trnC	955
+IL-13	956
+IL-10	957
+IL-11	958
+TRAIL	959
+Fibronectin	960
+Toll like receptor 4	961
+RHA	962
+trnQ	963
+PDE5	964
+PLAGL1	965
+CLV3	966
+CCL2	967
+ChAc	968
+Cyt b	969
+CCL7	970
+CCL4	971
+CCL5	972
+CCL8	973
+heat shock protein 27	974
+Hsp60	975
+APRIL	976
+ghrelin	977
+Enam	978
+Oskar	979
+myogenin	980
+Hsp40	981
+Langerin	982
+Annexin-V	983
+miR-23b	984
+monocyte chemotactic protein (MCP)-1	985
+miR-23a	986
+UGT	987
+DbH	988
+Wnt7a	989
+c-Kit	990
+HIF-2a	991
+ENL	992
+neurotrophin	993
+Insc	994
+F12	995
+TEL	996
+Cyp7a1	997
+miR-21	998
+EPAS1	999
+miR-22	1000
+TNRC9	1001
+Aly1	1002
+Aly2	1003
+rIL-1 alpha	1004
+CHT1	1005
+Lpl	1006
+P21	1007
+P20	1008
+phosphatidylinositol 3-kinase	1009
+plasminogen	1010
+ALKBH3	1011
+CREBBP	1012
+PEO1	1013
+agouti-related protein	1014
+Thrombin	1015
+ATM	1016
+CDKN2B-AS1	1017
+STXBP1	1018
+prostate specific antigen	1019
+BRIP1	1020
+Kisspeptin	1021
+FLT3	1022
+sororin	1023
+TrxR	1024
+CYP1B1	1025
+Y(1)	1026
+Lgl	1027
+S1PR3	1028
+S1PR2	1029
+S1PR1	1030
+fibrinogen	1031
+VKORC1	1032
+Abd-B	1033
+transglutaminase	1034
+Neurofibromatosis type 1	1035
+IFI16	1036
+A2 and B2	1037
+FANCM	1038
+SGLT1	1039
+CL1	1040
+CL2	1041
+ND1	1042
+Trx1	1043
+HER-2/neu	1044
+p0071	1045
+miR-17~92	1046
+IL6R	1047
+Pax4	1048
+Pax7	1049
+insulin-like growth factor 1	1050
+Pax2	1051
+glucose transporter-4	1052
+IL 1	1053
+tumor necrosis factor	1054
+CLP	1055
+IL 6	1056
+CLR	1057
+TGFb1	1058
+TGase	1059
+U-II	1060
+CDK1	1061
+CDK2	1062
+CDK4	1063
+CDK6	1064
+AT1	1065
+p21	1066
+LPAR6	1067
+Cul1	1068
+p20	1069
+cPLA2	1070
+CIN	1071
+MSH2	1072
+SF3B1	1073
+CYP17A1	1074
+NTPDase6	1075
+Cry2	1076
+Naa60	1077
+S1P3	1078
+tumor necrosis factor-alpha	1079
+5-HT2A receptor	1080
+insulin receptor substrate-1	1081
+ATG16L1	1082
+erb1	1083
+apoptosis inducing factor	1084
+c-Jun N-terminal kinase	1085
+sPLA(2)	1086
+Lyzl1	1087
+Transmembrane protein 132A	1088
+COP9	1089
+PNMT	1090
+MLC	1091
+catalase	1092
+activating transcription factor 4	1093
+Angiotensin II	1094
+Sca-1	1095
+KRIT1	1096
+UCP1	1097
+UCP2	1098
+inositol-requiring enzyme 1	1099
+CSN2	1100
+cyb-3	1101
+TPMT	1102
+NGN3	1103
+COX-1	1104
+COX-2	1105
+RAPSN	1106
+TYMS	1107
+GSTP1	1108
+cochlin	1109
+mdf-1	1110
+Smad-3	1111
+Ucn	1112
+Shu1	1113
+ACC1	1114
+LpPLA2	1115
+C-type natriuretic peptide	1116
+LepRb	1117
+TBX21	1118
+placental lactogen	1119
+PIDD	1120
+amyloid precursor protein	1121
+IGFBP-1	1122
+IGFBP-2	1123
+CA 125	1124
+GST A2-2	1125
+merlin	1126
+DNA-PK	1127
+programmed cell death 4	1128
+ectodermal dysplasia	1129
+HSL	1130
+PROX1	1131
+HSP	1132
+TRPV5	1133
+mDia2	1134
+TRPV2	1135
+ERBB2	1136
+aadA1	1137
+TPM2	1138
+C5a receptor	1139
+Bub1	1140
+Bub3	1141
+IDH2	1142
+IDH1	1143
+BNP	1144
+angiotensin-II	1145
+MRTF-A	1146
+Transforming growth factor-b	1147
+MIF	1148
+FGFR2	1149
+FGFR3	1150
+FGFR1	1151
+CXCL1	1152
+CXCL2	1153
+LXR	1154
+CXCL9	1155
+CXCL8	1156
+FREM2	1157
+macrophage-derived chemokine	1158
+PKD2	1159
+Dsg3	1160
+Dsg1	1161
+pregnancy-associated plasma protein-A	1162
+nAChR	1163
+Nedd8	1164
+Oat1	1165
+Casp3	1166
+DUOX2	1167
+Gli3	1168
+estrogen receptor	1169
+cardiac troponin C	1170
+DAF-16	1171
+IL-23	1172
+IL-22	1173
+IL-21	1174
+PKC-beta	1175
+Smad-7	1176
+PDPN	1177
+estrogen receptor-alpha	1178
+Glucokinase	1179
+mDia1	1180
+protein kinase C	1181
+protein kinase D	1182
+D1-like (D1, D5	1183
+N-cadherin	1184
+Ncf1	1185
+Cip1	1186
+FOS	1187
+IL-2R	1188
+GCKR	1189
+Sec62	1190
+Sec63	1191
+mannan-binding lectin	1192
+HDL-2	1193
+HDL-3	1194
+gal-1	1195
+TP53	1196
+c-kit	1197
+BAFF receptor	1198
+PALB2	1199
+Autotaxin	1200
+Familial hypercholesterolemia	1201
+XPG	1202
+angiotensin II	1203
+Hageman factor	1204
+A1 and B1	1205
+ILK	1206
+HDAC1/2	1207
+UPF3	1208
+UPF2	1209
+COI	1210
+IL1B	1211
+progesterone receptor	1212
+heme oxygenase 1	1213
+KRT81	1214
+miR-16	1215
+PROKR2	1216
+KRT86	1217
+KRT6B	1218
+Noxa	1219
+IL1a	1220
+P30	1221
+ALOX12B	1222
+thyrotropin receptor	1223
+COMT	1224
+Id3	1225
+Ang-2	1226
+epidermal growth factor receptor 2	1227
+Ang-1	1228
+TFF2	1229
+HOX-5	1230
+ER alpha	1231
+CYP1A2	1232
+VHL	1233
+IL10	1234
+GSTM1	1235
+IL13	1236
+bone morphogenetic protein 15	1237
+DFNA9	1238
+IL6	1239
+IL4	1240
+IL2	1241
+IL8	1242
+emerin	1243
+RECK	1244
+Il10	1245
+angiotensinogen	1246
+JARID2	1247
+Bat	1248
+IFN-y	1249
+TTF1	1250
+IFN-b	1251
+IFN-a	1252
+haptocorrin	1253
+AID	1254
+C10	1255
+GDF9	1256
+AdipoR2	1257
+VIP1	1258
+Ubx	1259
+NSE	1260
+NSF	1261
+Nup153	1262
+forkhead box P3	1263
+C3d	1264
+ND4L	1265
+cytidine deaminase	1266
+PCNA	1267
+SCD1	1268
+NSP1	1269
+Slo1	1270
+NSP3	1271
+IP	1272
+IR	1273
+Incontinentia pigmenti	1274
+MEST	1275
+sus3	1276
+sus2	1277
+sus4	1278
+C1s	1279
+C1r	1280
+C1q	1281
+RAMP2	1282
+Chd1	1283
+SQSTM1	1284
+HIF-1	1285
+SAMHD1	1286
+pregnane X receptor	1287
+poly(ADP-ribose) polymerase	1288
+p38MAPK	1289
+thyroid transcription factor 1	1290
+miR-19a	1291
+CRIM1	1292
+SDH	1293
+HDL2	1294
+Cdc42	1295
+NAC	1296
+Pim-3	1297
+Tal1	1298
+NAG	1299
+TIMP1	1300
+SSX1	1301
+ISL1	1302
+superoxide dismutase	1303
+TRBP	1304
+HBB	1305
+TGF-beta 1	1306
+Tbx1	1307
+PARP	1308
+c-MET	1309
+MUM1	1310
+RXFP1	1311
+tissue plasminogen activator	1312
+RXFP2	1313
+tumour necrosis factor	1314
+histone deacetylase	1315
+Erk	1316
+SOD2	1317
+SOD3	1318
+SOD1	1319
+miR-29b	1320
+PRF1	1321
+MGMT	1322
+Epidermal growth factor receptor	1323
+PMS2	1324
+DOHH	1325
+FIP200	1326
+XBP-1	1327
+She2p	1328
+CCR1	1329
+WAF1	1330
+EP2	1331
+TLR2	1332
+TLR3	1333
+CENP-A	1334
+TLR1	1335
+TLR6	1336
+paraoxonase 1	1337
+TLR4	1338
+TLR5	1339
+Lyt-1	1340
+Myc	1341
+TLR9	1342
+SCN3B	1343
+CCR5	1344
+CD2	1345
+HLA-C	1346
+HLA-B	1347
+HLA-A	1348
+Fibrinogen	1349
+HLA-G	1350
+INO80	1351
+rIL-2	1352
+NOX1	1353
+Fractalkine	1354
+Dspp	1355
+NOX5	1356
+beta-catenin	1357
+FLG	1358
+MUC6	1359
+TGF-b3	1360
+TRAF6	1361
+P2Y(2)	1362
+POFUT2	1363
+acidic fibroblast growth factor	1364
+fei1	1365
+TRXR-1	1366
+SPECT-MPI	1367
+TFE3	1368
+DQA1	1369
+A-1	1370
+epidermal growth factor receptor	1371
+A-2	1372
+lysosomal acid lipase	1373
+TRH	1374
+neurotensin	1375
+BMP-7	1376
+BMP-4	1377
+ASIC1	1378
+BMP-2	1379
+apoB-100	1380
+ASIC2	1381
+FGF8	1382
+SIK1	1383
+hypoxia-inducible factor 1	1384
+FGF2	1385
+MAVS	1386
+protein tyrosine phosphatase	1387
+Atg16L1	1388
+methyl-CpG-binding protein 2	1389
+miR-17-92	1390
+SHBG	1391
+CD81	1392
+AR	1393
+ELOVL1	1394
+Insig2	1395
+Atrial natriuretic peptide	1396
+CD83	1397
+aquaporin-1	1398
+erythropoietin	1399
+aquaporin-4	1400
+aquaporin-5	1401
+JAZF1	1402
+familial hypercholesterolemia	1403
+transforming growth factor-b	1404
+Vegfa	1405
+inducible nitric oxide synthase	1406
+Smad3	1407
+LH-beta	1408
+nerve growth factor receptor	1409
+5-HT(1A	1410
+NANOG	1411
+SGCE	1412
+CYP2A6	1413
+PTC 3	1414
+Beclin 1	1415
+MAPK1	1416
+Nbs1	1417
+Suz12	1418
+miR-145	1419
+miR-141	1420
+miR-143	1421
+Dcp2	1422
+ICOS	1423
+Ad5	1424
+Ad2	1425
+Ang-II	1426
+NK-1R	1427
+PROS1	1428
+jun	1429
+HMGB-1	1430
+M-CSF	1431
+STAT5a	1432
+BCOR	1433
+IL1b	1434
+desmoglein-1	1435
+CCL11	1436
+CCL17	1437
+interleukin-1 beta	1438
+CCL19	1439
+Test 1	1440
+endothelial nitric oxide synthase	1441
+CED-10	1442
+TnC	1443
+CSN1S1	1444
+GLP-1	1445
+GLP-2	1446
+PP13	1447
+Ro52	1448
+ADAM10	1449
+cFos	1450
+EF-2	1451
+GPR54	1452
+cyclin-dependent kinase 2	1453
+cyclin-dependent kinase 4	1454
+Hox	1455
+Caf1a	1456
+Y(3)	1457
+uPA receptor	1458
+Blimp-1	1459
+NRAS	1460
+PIF1	1461
+CONSTANS	1462
+Darc	1463
+DNMT3B	1464
+DNMT3A	1465
+PACAP	1466
+RAD21	1467
+Cyclin	1468
+UMOD	1469
+DNMT3L	1470
+SHANK3	1471
+DNMT3b	1472
+SDHB	1473
+IgG2a	1474
+PD-1	1475
+SALL4	1476
+CCN3	1477
+High mobility group box-1	1478
+4-1BB	1479
+gastrin	1480
+bpc4	1481
+Jak2	1482
+BRAF	1483
+Atg5	1484
+NPAS2	1485
+Grm2	1486
+PCA3	1487
+c-Met	1488
+NTH1	1489
+sirtuin-1	1490
+PCSK1	1491
+3 alpha-HSD	1492
+b-catenin	1493
+L(1)	1494
+Ang2	1495
+vWF	1496
+P-selectin	1497
+MxA	1498
+IL-36b	1499
+She3p	1500
+NCAM	1501
+TIMP-2	1502
+TIMP-1	1503
+Chk1	1504
+TAZ	1505
+Klf4	1506
+HP1a	1507
+monoamine oxidase	1508
+Wnt4	1509
+ATP8	1510
+MDR1	1511
+MDR3	1512
+GIP	1513
+ALOXE3	1514
+Hox-5.3	1515
+ATP6	1516
+HER2/neu	1517
+myeloperoxidase	1518
+BRCA1/2	1519
+Nup62	1520
+NPM	1521
+RuvBL1	1522
+RuvBL2	1523
+PLP	1524
+osk	1525
+adiponectin receptor 1	1526
+PTEN	1527
+PHD2	1528
+NPY	1529
+TLR2/6	1530
+GPR119	1531
+ACE2	1532
+CTCF	1533
+histone deacetylase 4	1534
+miRNA-146a	1535
+CDKN1B	1536
+CDKN1A	1537
+5-HT(1A) receptor	1538
+Smo	1539
+MLL2	1540
+MLL1	1541
+ira2	1542
+ira1	1543
+APOE	1544
+APOB	1545
+TCF3	1546
+EpoR	1547
+neuropilin-1	1548
+Erk1/2	1549
+NF2	1550
+NF1	1551
+miRNA-155	1552
+TECTA	1553
+BCRP	1554
+FRAS1	1555
+neu3b	1556
+LOX-1	1557
+VEGFR	1558
+intercellular adhesion molecule (ICAM)-1	1559
+ARO9	1560
+HO-1	1561
+KCNQ1	1562
+EphrinB2	1563
+adenosine kinase	1564
+VCAM-1	1565
+PGR5	1566
+VEGFC	1567
+cytochrome P450c	1568
+BNIP3	1569
+PCSK9	1570
+melanocortin 1 receptor	1571
+PREPL	1572
+IL-1 alpha	1573
+desmin	1574
+BLp	1575
+KIR2DL3	1576
+KIR2DL2	1577
+OR 3.2	1578
+VWF	1579
+ATXN2	1580
+gun1	1581
+DFF40	1582
+glucose-dependent insulinotropic polypeptide	1583
+interleukin-18	1584
+RET	1585
+PTHrP	1586
+HIF-1b	1587
+Ctgf	1588
+Mcl-1	1589
+Tob	1590
+LOXL-4	1591
+ALDP	1592
+TSC2	1593
+LOXL-3	1594
+Bcl-w	1595
+GUN1	1596
+HMBS	1597
+NEDD9	1598
+PCA-1	1599
+SMC3	1600
+miR-15a	1601
+SMC4	1602
+Hif1a	1603
+desmoglein 3	1604
+S100A9	1605
+cholesteryl ester transfer protein	1606
+S100A4	1607
+ER	1608
+LDL receptor	1609
+Ago2	1610
+PI3K delta	1611
+PGK1	1612
+osteoprotegerin	1613
+SLA-1	1614
+SLA-3	1615
+Casp8	1616
+Rad1	1617
+FMF	1618
+deoxyribonuclease I	1619
+erbB-2	1620
+Bcl-2	1621
+MIP-2	1622
+MAP2	1623
+ARID5B	1624
+SIRT-1	1625
+matrix metalloproteinase (MMP)-2	1626
+cystatin C	1627
+T-bet	1628
+iFABP	1629
+nicotinamide phosphoribosyltransferase	1630
+miR-150	1631
+miR-155	1632
+nuclear factor erythroid 2-related factor 2	1633
+ALK5	1634
+Calmodulin	1635
+CAS	1636
+CAR	1637
+GC-B	1638
+EGFR	1639
+NPR2	1640
+CAT	1641
+LTA4H	1642
+ALOX5AP	1643
+proteinase 3	1644
+TGR5	1645
+Oatp1b2	1646
+PGF	1647
+CYP27A1	1648
+PGC-1a	1649
+Skp2	1650
+Snail	1651
+Skp1	1652
+TWIST1	1653
+CHOP	1654
+SUMO1-activating enzyme subunit 1	1655
+CXCR1	1656
+PGR	1657
+CXCR6	1658
+CXCR5	1659
+CXCR4	1660
+OGG1	1661
+interleukin 10	1662
+caspase 9	1663
+P53	1664
+E-selectin	1665
+caspase 8	1666
+BMI1	1667
+Akt	1668
+CRYBB3	1669
+Artemin	1670
+miR-429	1671
+NRP2	1672
+hicB	1673
+ARSE	1674
+CA8	1675
+ARSB	1676
+RSK	1677
+CA3	1678
+CA2	1679
+CA1	1680
+KIT	1681
+S1P2	1682
+CA4	1683
+TSP-1	1684
+FUT3	1685
+FUT2	1686
+CHRNE	1687
+IL-17B	1688
+IL-17C	1689
+IL-17A	1690
+IL-8	1691
+IL-9	1692
+IL-17D	1693
+IL-17E	1694
+IL-4	1695
+IL-5	1696
+IL-6	1697
+IL-7	1698
+IL-1	1699
+IL-2	1700
+IL-3	1701
+IL-17R	1702
+Vascular endothelial growth factor	1703
+IL-1RN	1704
+tumor necrosis factor alpha	1705
+epidermal growth factor	1706
+CYP3A4	1707
+Ntcp	1708
+mevalonate kinase	1709
+MyD88	1710
+WNT10A	1711
+NIPBL	1712
+interleukin-1	1713
+interleukin-2	1714
+interleukin-3	1715
+interleukin-4	1716
+interleukin-5	1717
+interleukin-6	1718
+interleukin-7	1719
+interleukin-8	1720
+Atf4	1721
+antithrombin	1722
+Atf3	1723
+LIPA	1724
+LIPC	1725
+Nod2	1726
+von Willebrand factor	1727
+LIPH	1728
+b2-microglobulin	1729
+Bax	1730
+C3b	1731
+Bad	1732
+TrxR1	1733
+Bak	1734
+PAFAH1B3	1735
+PAFAH1B2	1736
+Raf	1737
+PYY	1738
+GH1	1739
+CK20	1740
+MASP-3	1741
+SCARB1	1742
+MASP-1	1743
+Ngn3	1744
+KAL1	1745
+TNFR2	1746
+PYL2	1747
+ACTB	1748
+YKL-40	1749
+TGF-alpha	1750
+Caspase-2	1751
+Caspase-3	1752
+vascular endothelial growth factor receptor	1753
+Caspase-8	1754
+Caspase-9	1755
+abd-A	1756
+GRP94	1757
+cytokeratin 18	1758
+cytokeratin 19	1759
+ADAR	1760
+Bnr1	1761
+L(2)	1762
+Int-1	1763
+COL18A1	1764
+BMP	1765
+Int-2	1766
+MTP	1767
+SHP	1768
+EL	1769
+Filaggrin	1770
+BUB1	1771
+HSP27	1772
+progranulin	1773
+Hdac2	1774
+HicB	1775
+arylalkylamine N-acetyltransferase	1776
+c-IAP1	1777
+c-IAP2	1778
+Gtl2	1779
+MyoD	1780
+Wt1	1781
+Sirt1	1782
+HER-2	1783
+Sox10	1784
+Drp1	1785
+AQP-5	1786
+BBS10	1787
+MYBPC3	1788
+NG2	1789
+TBG	1790
+BAM3	1791
+IL 2R	1792
+Apo B	1793
+AP-1	1794
+Elastin	1795
+LAG3	1796
+TRPC3	1797
+DPP-4	1798
+TRPC1	1799
+TRPC6	1800
+Notch2	1801
+SPHK	1802
+Il1b	1803
+5-HT1A receptor	1804
+dentin sialophosphoprotein	1805
+CCl4	1806
+CDKL5	1807
+b-Catenin	1808
+miR-106b	1809
+Polo-like kinase	1810
+SREBP-1	1811
+GTG	1812
+AIM2	1813
+GCN2	1814
+PAI-1	1815
+Dbp5	1816
+apo B	1817
+Leptin	1818
+OCT4	1819
+RASSF1A	1820
+nia1	1821
+nia2	1822
+MEP50	1823
+Ghrelin	1824
+Ki67	1825
+CYP3A	1826
+miR-18a	1827
+TGFB1	1828
+Inscuteable	1829
+p30	1830
+PON1	1831
+Hsp90	1832
+TGFBR1	1833
+Th1	1834
+EZH2	1835
+Toll-like receptor 4	1836
+FKRP	1837
+YWHAZ	1838
+Glut-4	1839
+Scn8a	1840
+RB1	1841
+glucocorticoid receptor	1842
+ETS2	1843
+ETS1	1844
+PEG10	1845
+galB	1846
+AQP11	1847
+YWHAE	1848
+BCMA	1849
+Janus kinase 2	1850
+NR4A2	1851
+PPARG	1852
+NR4A1	1853
+MIP-1alpha	1854
+miR-182	1855
+Cx32	1856
+AKAP	1857
+RagB	1858
+MLC1A	1859
+P63	1860
+RagA	1861
+AtSUN2	1862
+miR-221/222	1863
+ABI2	1864
+ABI3	1865
+ABI1	1866
+ABI4	1867
+HTR1A	1868
+cyclin B1	1869
+artemin	1870
+CYP2C19	1871
+HTR1B	1872
+RSPO	1873
+MMP9	1874
+prion protein	1875
+FOXL2	1876
+OTR	1877
+HDL3	1878
+MMP2	1879
+MMP3	1880
+ark2	1881
+MMP1	1882
+NKp44	1883
+insulin receptor	1884
+AtPUB9	1885
+BMH2	1886
+BMH1	1887
+CDC-42	1888
+IL23	1889
+IL22	1890
+hephaestin	1891
+Vimentin	1892
+Mps1	1893
+TIMP3	1894
+CAV1	1895
+p50	1896
+TLR2/1	1897
+UHRF1	1898
+P2Y12	1899
+CLN3	1900
+CLN1	1901
+toll-like receptor 4	1902
+IA2	1903
+BRCA1	1904
+MC1R	1905
+AQP4	1906
+BRCA2	1907
+HVEM	1908
+bradykinin	1909
+AQP1	1910
+osteopontin	1911
+Msi1	1912
+WNK1	1913
+AQP8	1914
+GLP-1 receptor	1915
+Sox9	1916
+CCL20	1917
+Sox2	1918
+Tumor necrosis factor-a	1919
+PDGFR-b	1920
+Sox4	1921
+oxytocin receptor	1922
+miR-200c	1923
+miR-200a	1924
+growth hormone	1925
+amylin	1926
+uncoupling protein 1	1927
+alpha smooth muscle actin	1928
+Otx2	1929
+survivin	1930
+KCa1.1	1931
+RUNX1	1932
+BMPR2	1933
+BRCA	1934
+cyclin	1935
+monocyte chemoattractant protein-1	1936
+beta-endorphin	1937
+ST 4	1938
+ST 7	1939
+Fos	1940
+OCT2	1941
+HRAS	1942
+B cell-activating factor	1943
+gp120	1944
+PP1	1945
+ERalpha	1946
+Yet3p	1947
+XRCC1	1948
+interleukin 2	1949
+interleukin 1	1950
+XRCC5	1951
+interleukin 6	1952
+Furin	1953
+Smac	1954
+GLI2	1955
+PD-L1	1956
+TCR	1957
+Plg	1958
+GEF	1959
+FSHbeta	1960
+interferon-gamma	1961
+Plk	1962
+Ccl2	1963
+CTLA4	1964
+TFR2	1965
+EPO-R	1966
+arrestin-2	1967
+FPR2	1968
+SEC14	1969
+breast cancer resistance protein	1970
+miR-146a	1971
+ESR2	1972
+GSTT1	1973
+ESR1	1974
+CD274	1975
+Exo1	1976
+IgG1	1977
+enkephalin	1978
+IgG3	1979
+GPR179	1980
+Par6	1981
+Par3	1982
+FGF23	1983
+FGF21	1984
+hypoxia-inducible factor-1a	1985
+YY1	1986
+Hsc70	1987
+IGF-II	1988
+c-MYC	1989
+Ly-6G	1990
+PPARA	1991
+NAMPT	1992
+Ly-6C	1993
+STK11	1994
+BMP-15	1995
+Ku70	1996
+TBX5	1997
+Mdm2	1998
+X-box-binding protein 1	1999
+IGF-I	2000
+CD49f	2001
+alanine aminotransferase	2002
+LMP7	2003
+LMP1	2004
+LMP2	2005
+Carb	2006
+ND2	2007
+ND5	2008
+KDR	2009
+ND6	2010
+RPS27	2011
+NDK	2012
+TAL1	2013
+MT1-MMP	2014
+Th2	2015
+Ang II	2016
+NDP	2017
+RAD51C	2018
+CBG	2019
+A20	2020
+IFN-lambda3	2021
+IGF-1	2022
+nidogen-2	2023
+TRAM	2024
+alpha-melanocyte stimulating hormone	2025
+ATL1	2026
+Rag1	2027
+ERbeta	2028
+Rab11	2029
+b(1)-AR	2030
+apelin	2031
+hepatic lipase	2032
+AIMP2	2033
+AIMP1	2034
+Il6	2035
+neuronal nitric oxide synthase	2036
+dcl3	2037
+PC4	2038
+FGF-21	2039
+MnSOD	2040
+SR-BI	2041
+Snf2	2042
+endonuclease G	2043
+Acetyl-L-carnitine	2044
+transforming growth factor-beta	2045
+Waf1	2046
+CBP	2047
+ZmGT1	2048
+prothrombin	2049
+FAK	2050
+csp-2	2051
+csp-3	2052
+ULK1	2053
+arrestin-3	2054
+FAB	2055
+TRAIL-R2	2056
+TERT	2057
+PRDM1	2058
+EAAT2	2059
+EAAT3	2060
+VEGF-B	2061
+CASP7	2062
+CASP3	2063
+transforming growth factor b	2064
+DRD4	2065
+CASP8	2066
+DRD1	2067
+DYT1	2068
+osteoactivin	2069
+BCL6	2070
+steroidogenic acute regulatory protein	2071
+IL-6R	2072
+PICALM	2073
+BCL2	2074
+ApoE4	2075
+c-fos	2076
+hCAR	2077
+LYPLA1	2078
+LYPLA2	2079
+CDX2	2080
+MC2R	2081
+AKT1	2082
+AKT2	2083
+AKT3	2084
+CCK	2085
+PMS1	2086
+polo-like kinase 1	2087
+microsomal prostaglandin E synthase-1	2088
+apoB-48	2089
+GRK6	2090
+GRK5	2091
+GRK2	2092
+AgRP	2093
+p27Kip1	2094
+OAS3	2095
+OAS2	2096
+MYC	2097
+galA	2098
+Abcg5	2099
+Pemt	2100
+profilin	2101
+Abcg8	2102
+Mre11	2103
+FLI1	2104
+GSK3b	2105
+Mapk3	2106
+Mapk1	2107
+KLHL3	2108
+Erba	2109
+nNOS	2110
+Pdi1p	2111
+alpha 1-AT	2112
+CX3CR1	2113
+HYAL2	2114
+HYAL1	2115
+acetylcholinesterase	2116
+SLC4A7	2117
+OA	2118
+Hsp104	2119
+p38 MAPK	2120
+Heparanase	2121
+Hand2	2122
+UBC	2123
+transferrin receptor 2	2124
+toll-like receptor-4	2125
+FH	2126
+DCL3	2127
+RSK1	2128
+AANAT	2129
+Hey2	2130
+intestinal fatty acid binding protein	2131
+AMH	2132
+matrix metalloproteinase-9	2133
+RNase III	2134
+ASXL1	2135
+elongation factor 2	2136
+PAR4	2137
+TRESK	2138
+SMA	2139
+HTR2C	2140
+intercellular adhesion molecule 1	2141
+C/EBP homologous protein	2142
+PAR2	2143
+SIRT1	2144
+waf1	2145
+PAR1	2146
+pepr1	2147
+pepr2	2148
+TGF-beta1	2149
+Epo	2150
+Grx1	2151
+CARD15	2152
+C5a	2153
+eil1	2154
+TLR8	2155
+PEX1	2156
+HADH	2157
+CD127	2158
+TNF)-alpha	2159
+CD123	2160
+PEX6	2161
+mDC2	2162
+apolipoprotein A1	2163
+HIF-1alpha	2164
+Gcn2	2165
+MiR-221	2166
+Lp(a)	2167
+PKM2	2168
+leukemia inhibitory factor	2169
+ACE	2170
+Lipoprotein-associated phospholipase A2	2171
+mTORC2	2172
+mTORC1	2173
+STIM1	2174
+TGFb	2175
+Cdc25A	2176
+GRP78	2177
+factor H	2178
+miR-222	2179
+DYRK1A/1B	2180
+sulfonylurea receptor	2181
+lgl	2182
+TBK1	2183
+SERPING1	2184
+STIM2	2185
+KDM6A	2186
+thrombomodulin	2187
+thymic stromal lymphopoietin	2188
+FGF10	2189
+FGF15	2190
+NTPDase5	2191
+SLC7A5	2192
+Phospholipase A2	2193
+NTPDase2	2194
+MTHFR	2195
+LCAT	2196
+PDSS2	2197
+CC2D2A	2198
+tumor necrosis factor-a	2199
+VCAM1	2200
+L-FABP	2201
+POMC	2202
+Zac1	2203
+alkaline phosphatase	2204
+MEK	2205
+SLC16A1	2206
+Phosphomannomutase2	2207
+liver X receptor	2208
+RANTES	2209
+LFA-1	2210
+T-cell receptor	2211
+TAK1	2212
+Apex	2213
+MLCK	2214
+FOXG1	2215
+BCL11A	2216
+RIPK1	2217
+NK1	2218
+GSH-Px	2219
+miR-17-5p	2220
+HSD2	2221
+Pofut2	2222
+Ero1p	2223
+BCR/ABL	2224
+IFN-alpha	2225
+UBQLN2	2226
+Pim-1	2227
+HIF-1a	2228
+ARVCF	2229
+Smc5	2230
+53BP1	2231
+ste14	2232
+BMPR-1B	2233
+eIF4G	2234
+P17	2235
+nectin-1	2236
+SREBP-1c	2237
+MLC1V	2238
+HB-EGF	2239
+BMPR-1A	2240
+TNF	2241
+Yet1p	2242
+TNC	2243
+Insig1	2244
+Bsep	2245
+NKA	2246
+CPL3	2247
+bcl-2	2248
+c-Fos	2249
+desmoglein-2	2250
+ACTN4	2251
+immunoglobulin heavy chain	2252
+aprataxin	2253
+transforming growth factor beta 1	2254
+parathyroid hormone	2255
+uPA	2256
+AT2 receptor	2257
+chemerin	2258
+KGF	2259
+LDL-C	2260
+Selm	2261
+neuregulin-1	2262
+Selh	2263
+PSD95	2264
+LPA(1)	2265
+IFNAR1	2266
+parvalbumin	2267
+GHRHR	2268
+gamma-glutamyl transpeptidase	2269
+CSF-1 receptor	2270
+p75(NTR)	2271
+IRE1a	2272
+Sp1	2273
+NADPH oxidase 2	2274
+miR-29a	2275
+GABARAP	2276
+tissue plasminogen activator (t-PA	2277
+DMPK	2278
+ALDH	2279
+fibroblast growth factor 23	2280
+LHbeta	2281
+fibroblast growth factor 21	2282
+IDH1/2	2283
+S-SCAM	2284
+caspase 3	2285
+WDR5	2286
+DYSF	2287
+tenascin-C	2288
+Isl1	2289
+MuRF1	2290
+BD2	2291
+DMP1	2292
+HGPRT	2293
+SDF-1	2294
+GATA4	2295
+CTLA-4	2296
+constitutive androstane receptor	2297
+GATA3	2298
+GATA1	2299
+MYD88	2300
+cPLA(2)	2301
+CCND1	2302
+Semaphorin 3E	2303
+granulocyte-macrophage colony-stimulating factor	2304
+EndoG	2305
+hCE2	2306
+TRAAK	2307
+CEP290	2308
+IGF-1R	2309
+Gtr2p	2310
+coagulation factor XII	2311
+LPA(3)	2312
+sclerostin	2313
+UROS	2314
+CB1	2315
+p38-MAPK	2316
+MRP3	2317
+MRP2	2318
+IFIT3	2319
+IFIT2	2320
+IFIT1	2321
+CRYBA4	2322
+O-GlcNAc	2323
+TNNT2	2324
+SOX10	2325
+Brain-derived neurotrophic factor	2326
+SOX17	2327
+FasL	2328
+collagen XVIII	2329
+Stat3	2330
+miR-27b	2331
+miR-27a	2332
+semaphorin 3E	2333
+HTR3A	2334
+vitamin D receptor	2335
+AhR	2336
+FLNa	2337
+IRGM	2338
+IGH	2339
+Crim1	2340
+Mnk1	2341
+Mnk2	2342
+eGFR	2343
+CBL	2344
+GPX1	2345
+KRT16	2346
+GPX3	2347
+KRT14	2348
+insulin	2349
+SLC22A2	2350
+P450c	2351
+neurokinin-1 receptor	2352
+CYP2J2	2353
+Prolactin	2354
+ORF1	2355
+ORF2	2356
+NT3	2357
+IL-33	2358
+NT4	2359
+POLG	2360
+XIAP	2361
+IgAN	2362
+phosphomannomutase2	2363
+CK19	2364
+CK18	2365
+CDC2	2366
+FL	2367
+Filamin A	2368
+FN	2369
+Cdc12	2370
+MDK	2371
+Cdc10	2372
+CD133	2373
+MDC	2374
+CD138	2375
+Opg	2376
+macrophage inflammatory protein-1a	2377
+TFPI	2378
+IL17F	2379
+IL17A	2380
+AML1	2381
+GADD153	2382
+vesicular monoamine transporter 2	2383
+intercellular adhesion molecule-1	2384
+OPRM1	2385
+IkBa	2386
+LGMD2B	2387
+MVK	2388
+TNFAIP3	2389
+ALK	2390
+NTR	2391
+RXRa	2392
+SSTR3	2393
+SSTR2	2394
+HTR3B	2395
+VIII	2396
+ABCA1	2397
+myosin light chain kinase	2398
+ALT	2399
+CLN8	2400
+fibronectin 1	2401
+ALP	2402
+dopamine transporter	2403
+AQP6	2404
+rGM-CSF	2405
+annexin V	2406
+AQP7	2407
+PC7	2408
+C-C chemokine receptor (CCR) 2	2409
+CTNNB1	2410
+Oct-1	2411
+Oct-2	2412
+AQP5	2413
+NGFR	2414
+CP29	2415
+HSP70	2416
+MYOC	2417
+CP26	2418
+PRC1	2419
+CP24	2420
+MYOG	2421
+AQP3	2422
+MicroRNA-195	2423
+nucleophosmin	2424
+interleukin 3	2425
+OPD1	2426
+GluN2A	2427
+IL-15Ra	2428
+OPD2	2429
+CNOT8	2430
+WIN1	2431
+HOTAIR	2432
+ERK	2433
+LRRC6	2434
+beta-2-microglobulin	2435
+calcitonin receptor-like receptor	2436
+XOR	2437
+IGHV	2438
+EC-SOD	2439
+heme oxygenase-1	2440
+SCN8A	2441
+superoxide dismutase 1	2442
+HCN2	2443
+AT1 receptor	2444
+HGF	2445
+aim 2	2446
+aim 1	2447
+vitronectin	2448
+low density lipoprotein receptor	2449
+Oct4	2450
+MBD4	2451
+MBD1	2452
+MBD3	2453
+MBD2	2454
+CA125	2455
+androgen receptor	2456
+COL11A2	2457
+Ca2	2458
+TIMP2	2459
+TGF beta 1	2460
+TGF beta 2	2461
+PI3K gamma	2462
+EGF	2463
+RAF	2464
+glycine N-methyltransferase	2465
+tumor necrosis factor a	2466
+interleukin-17A	2467
+p75NTR	2468
+MCP-1	2469
+BuChE	2470
+Gtr1p	2471
+RAR	2472
+KLF2	2473
+ERb	2474
+IFN-beta	2475
+cTnC	2476
+p10	2477
+p12	2478
+LPL	2479
+p15	2480
+p16	2481
+chromogranin A	2482
+p19	2483
+corticotropin-releasing hormone	2484
+Zeb1	2485
+Zeb2	2486
+HPSE	2487
+cyclooxygenase (COX)-2	2488
+GSK-3b	2489
+ST8	2490
+calcitonin gene-related peptide	2491
+MIP-1b	2492
+C1QB	2493
+C1QA	2494
+MIP-1a	2495
+CaM	2496
+Homer 1	2497
+Ereg	2498
+Kv4.2	2499
+c-Cbl	2500
+miR-26a	2501
+OCN	2502
+sphingosine kinase	2503
+c-fms	2504
+CaMKII	2505
+ABL1	2506
+uPAR	2507
+NOS3	2508
+Dll4	2509
+SNAP-25	2510
+IFN	2511
+PKR	2512
+Dmrt1	2513
+MITF	2514
+Bcrp	2515
+familial Mediterranean fever	2516
+CEA	2517
+RAGE	2518
+pro-opiomelanocortin	2519
+CCNE1	2520
+vascular endothelial growth factor	2521
+CAIX	2522
+glycerol-3-phosphate dehydrogenase	2523
+PKC	2524
+ASMA	2525
+MATE2-K	2526
+PKD	2527
+p38-mitogen-activated protein kinase	2528
+ERK1/2	2529
+Corticotropin-releasing hormone	2530
+Semaphorin3A	2531
+sp3	2532
+Rpn5	2533
+Rpn7	2534
+RAG2	2535
+RAG1	2536
+VILLIN2	2537
+catechol-O-methyltransferase	2538
+IL-1ra	2539
+NF-YC4	2540
+IRF3	2541
+IRF7	2542
+IRF5	2543
+IRF4	2544
+CD95	2545
+Vasopressin	2546
+CD90	2547
+TEF1	2548
+peptide YY	2549
+PDX1	2550
+dopamine receptor D4	2551
+K-RAS	2552
+HDAC1	2553
+HDAC3	2554
+cyclophilin D	2555
+HDAC5	2556
+HDAC4	2557
+CD73	2558
+task 1	2559
+HDAC8	2560
+task 3	2561
+Ino80	2562
+FABP4	2563
+TNFa	2564
+FANCD2	2565
+GLUT2	2566
+GLUT1	2567
+sbno1	2568
+IGFBP3	2569
+NLRP3	2570
+AST	2571
+PSEN2	2572
+anaplastic lymphoma kinase	2573
+VEGF-A	2574
+VEGF-C	2575
+PTC 1	2576
+TNFA	2577
+Sulf2	2578
+miR-93	2579
+HER2	2580
+HER4	2581
+Sp7	2582
+NAGLU	2583
+PARP-1	2584
+COL5A1	2585
+MTOR	2586
+NF-kappaB	2587
+SMAD1/5	2588
+MUC5AC	2589
+EP300	2590
+ALDH1	2591
+endothelin-3	2592
+endothelin-1	2593
+Cln3	2594
+RAD51	2595
+RAD50	2596
+Tie2	2597
+NRF2	2598
+CXCL12	2599
+Pap	2600
+Tcf4	2601
+RIG-I	2602
+ERCC1	2603
+ARMS2	2604
+USP7	2605
+angiotensin II type 2 receptor	2606
+Atg12	2607
+Atg13	2608
+SOX2	2609
+T-cadherin	2610
+XRCC3	2611
+SOX4	2612
+polyphenol oxidase	2613
+PALp	2614
+CEBPA	2615
+GABARAPL1	2616
+CEBPE	2617
+CYP1A1	2618
+K2P	2619
+RIP1	2620
+XRCC4	2621
+MEK1	2622
+DVL1	2623
+trxr-1	2624
+CIMT	2625
+interleukin 4	2626
+bile salt export pump	2627
+Mac-1	2628
+death receptor 5	2629
+C-C chemokine ligand (CCL) 2	2630
+CYP11B2	2631
+Adiponectin	2632
+focal adhesion kinase	2633
+Musashi-1	2634
+interleukin 1b	2635
+Vps34	2636
+Hsp27	2637
+Vps39	2638
+NOTCH1	2639
+NOTCH2	2640
+NOTCH3	2641
+S-100	2642
+keratinocyte growth factor	2643
+CGRP	2644
+Rad10	2645
+MCP	2646
+HSF1	2647
+PGY3	2648
+PGY4	2649
+Rtg3p	2650
+JUN	2651
+IKKa	2652
+interleukin (IL)-1b	2653
+IKKb	2654
+RhoA	2655
+Mid2	2656
+TSP-4	2657
+Cpt1a	2658
+Substance P	2659
+Cpt1b	2660
+TNSALP	2661
+Aurora B	2662
+EML4	2663
+TLR-4	2664
+dystrophin	2665
+TLR-7	2666
+TLR-2	2667
+4E-BP1	2668
+miR-241	2669
+cytokeratin 8	2670
+TLR-9	2671
+GUSB	2672
+UGT2B7	2673
+3 alpha-hydroxysteroid dehydrogenase	2674
+CETP	2675
+Calcitonin gene-related peptide	2676
+platelet-derived growth factor receptor	2677
+COQ2	2678
+MafA	2679
+MDM2	2680
+NCX1	2681
+chorein	2682
+ROR1	2683
+CALM2	2684
+RSPO2	2685
+SLAC1	2686
+HJV	2687
+BCR-ABL	2688
+iNOS	2689
+KIR	2690
+Slc25a5	2691
+Slc25a4	2692
+FOXA1	2693
+FOXA2	2694
+GATA-4	2695
+apoA1	2696
+neurogenin 3	2697
+ErbB2	2698
+Areg	2699
+CRP	2700
+apoE	2701
+LC3	2702
+ErbB4	2703
+Rac1	2704
+p27	2705
+CRTC2	2706
+CRF	2707
+Mash1	2708
+p22	2709
+TSHR	2710
+CRH	2711
+CRN	2712
+CRL	2713
+TdT	2714
+PR	2715
+KCa3.1	2716
+PV	2717
+phospholipase D	2718
+NKp30	2719
+TTF-1	2720
+urokinase-type plasminogen activator	2721
+dipeptidyl peptidase IV	2722
+TRPM4	2723
+Gata4	2724
+TRPM7	2725
+TRPM2	2726
+Gata1	2727
+Src	2728
+BECN1	2729
+GM-CSF	2730
+NKX2.5	2731
+IL-1 beta	2732
+cardiac troponin I	2733
+cardiac troponin T	2734
+RARB	2735
+FoxO3a	2736
+APTX	2737
+CR2	2738
+CR1	2739
+eotaxin	2740
+CYP19A1	2741
+Nfs1	2742
+OPG	2743
+peroxisome proliferator-activated receptor gamma	2744
+OPN	2745
+Epidermal growth factor	2746
+VCP/p97	2747
+NTCP	2748
+DVL	2749
+BubR1	2750
+trnS1	2751
+GATA-1	2752
+CD4	2753
+CD5	2754
+CCR2	2755
+CD7	2756
+CCR4	2757
+CD1	2758
+CCR6	2759
+CD3	2760
+TGF-b1	2761
+NKG2D	2762
+CD8	2763
+CD9	2764
+NKG2A	2765
+STAT6	2766
+STAT5	2767
+NeuroD1	2768
+STAT3	2769
+STAT1	2770
+ADIPOR1	2771
+Smad4	2772
+CD80	2773
+HPRT1	2774
+Smad7	2775
+Jun	2776
+Smad1	2777
+Smad2	2778
+CD86	2779
+RPL13A	2780
+ICAM1	2781
+AngII	2782
+Spp1	2783
+Zif268	2784
+acetyl-L-carnitine	2785
+SphK2	2786
+SphK1	2787
+CD64	2788
+CD63	2789
+Patched1	2790
+signal transducer and activator of transcription 3	2791
+CD69	2792
+CD68	2793
+miR-17   92	2794
+Ang	2795
+LRP6	2796
+SK3	2797
+LRP5	2798
+SK2	2799
+histone deacetylase 3	2800
+histone deacetylase 1	2801
+RUNX3	2802
+PLD	2803
+neu3a	2804
+PU.1	2805
+miR-84	2806
+PLN	2807
+test 1	2808
+PEG3	2809
+T-1	2810
+CDH13	2811
+T-3	2812
+DFF45	2813
+IL-4Ra	2814
+Smoothened	2815
+nidogen-1	2816
+interleukin-10	2817
+ADAM17	2818
+interleukin-17	2819
+SUMO2	2820
+interleukin-15	2821
+MAP2K3	2822
+GPD1	2823
+MAP2K6	2824
+Nrf2	2825
+transmembrane protein 132A	2826
+ANT	2827
+SOD	2828
+Stra8	2829
+COX2	2830
+CD117	2831
+PPO	2832
+LDHA	2833
+transforming growth factor-b1	2834
+EGF receptor	2835
+PPT	2836
+NRG1	2837
+aldehyde reductase	2838
+MBP	2839
+factor XI	2840
+KMT2D	2841
+c-Myc	2842
+Esa1	2843
+renin	2844
+PP2	2845
+TNFR1	2846
+alkB	2847
+interleukin-1b	2848
+miR-1	2849
+Uromodulin	2850
+ARX	2851
+GluR1	2852
+GluR2	2853
+ABCC8	2854
+MAPT	2855
+ABCC4	2856
+keratin 14	2857
+SCA5	2858
+ABCC1	2859
+CD11b	2860
+CD11c	2861
+KCNE2	2862
+Npr2	2863
+KCNE1	2864
+GST	2865
+high mobility group box-1	2866
+DHCR7	2867
+CASP10	2868
+p18	2869
+BDNF	2870
+mPGES-1	2871
+kindlin-1	2872
+mGluR5	2873
+cTnT	2874
+extracellular superoxide dismutase	2875
+neuropeptide Y	2876
+Tsg101	2877
+LIG4	2878
+bFGF	2879
+TGF-a	2880
+TGF-b	2881
+CK-M	2882
+ENPP2	2883
+ATH1	2884
+SGSH	2885
+Pdx-1	2886
+SHP-2	2887
+MTCH2	2888
+FN1	2889
+apolipoprotein A-I	2890
+MSRA	2891
+MEFV	2892
+MAGI-2	2893
+BSEP	2894
+arylsulfatase B	2895
+SERCA2	2896
+IL-15	2897
+P-glycoprotein	2898
+AKAP79	2899
+Runx2	2900
+L-selectin	2901
+Runx1	2902
+trnF	2903
+EED	2904
+lipoprotein lipase	2905
+P450	2906
+Foxp3	2907
+Rap1	2908
+CSF-1	2909
+interleukin-1a	2910
+cytochrome P450	2911
+BD1	2912
+NF-kB	2913
+thioredoxin reductase	2914
+serotonin transporter	2915
+p38	2916
+p32	2917
+SREBP2	2918
+SKN-1	2919
+p36	2920
+ETV6	2921
+Gadd45a	2922
+Gadd45b	2923
+G6PD	2924
+sae1	2925
+DNMT	2926
+endostatin	2927
+POMT1	2928
+ALAD	2929
+CCL3	2930
+Mtl1	2931
+CCL1	2932
+IDH	2933
+Rnr2	2934
+Mrp2	2935
+IKZF1	2936
+Mrp4	2937
+Rnr4	2938
+FUS	2939
+cyclin E1	2940
+DROSHA	2941
+myosin heavy chain	2942
+NPM1	2943
+Lmo2	2944
+elastin	2945
+Clock	2946
+TLR7	2947
+NT-3	2948
+FASN	2949
+SOS1	2950
+cavin-1	2951
+PDCD4	2952
+merC	2953
+Gck	2954
+PDCD1	2955
+Galectin-1	2956
+CHRNA5	2957
+CHRNA7	2958
+CHRNA3	2959
+GHSR	2960
+Alpl	2961
+FAAH	2962
+IgG2b	2963
+RGS11	2964
+hCE1	2965
+ID4	2966
+fibronectin	2967
+ID1	2968
+Fabp4	2969
+Foxl2	2970
+L2-3	2971
+alpha-fetoprotein	2972
+CIPK23	2973
+agb1	2974
+CD52	2975
+MS4	2976
+CD56	2977
+CD55	2978
+Valosin-containing protein	2979
+IL12B	2980
+apolipoprotein CIII	2981
+UGT1A9	2982
+MSI	2983
+MSH	2984
+hemojuvelin	2985
+UGT1A6	2986
+UGT1A7	2987
+ELF5	2988
+UGT1A1	2989
+basic fibroblast growth factor	2990
+AGB1	2991
+caspase-1	2992
+caspase-3	2993
+caspase-7	2994
+caspase-8	2995
+caspase-9	2996
+interferon-y	2997
+DAT	2998
+GLI1	2999
+interferon-a	3000
+Oxytocin	3001
+RyR	3002
+NatF	3003
+Atg7	3004
+NEMO	3005
+angiotensin-converting enzyme	3006
+Protein C	3007
+PDGFR	3008
+MCL-1	3009
+NGF	3010
+Hfe	3011
+SLC3A1	3012
+Amelx	3013
+Bmp4	3014
+Rpb1	3015
+c-myc	3016
+PNPase	3017
+CD163	3018
+BBS2	3019
+MS3	3020
+BBS6	3021
+grp94	3022
+GDNF	3023
+PTRF	3024
+apolipoprotein E4	3025
+Grm3	3026

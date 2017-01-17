@@ -1,4 +1,4 @@
-GeneA	GeneA#	GeneB	GeneB#	GeneAB	GeneAB#	p-value
+GeneA	GeneA#	GeneB	GeneB#	GeneAB	GeneAB#	p_value
 Dickkopf-1	528	Dlk1	534	Dickkopf-1_Dlk1	1	1.0
 CRK	142	HIPK3	45	CRK_HIPK3	1	1.0
 ACK1	230	Cortactin	216	ACK1_Cortactin	1	1.0
