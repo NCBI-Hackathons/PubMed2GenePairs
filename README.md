@@ -19,6 +19,6 @@ Running GenRank
 
 #The probability distribution of Y is shown as follows:
 
-##![alt tag](https://github.com/NCBI-Hackathons/PubMed2GenePairs/blob/master/figures/P_y.png =50x)
+#![alt tag](https://github.com/NCBI-Hackathons/PubMed2GenePairs/blob/master/figures/P_y.png =50x)
 
-##![alt tag](https://github.com/NCBI-Hackathons/PubMed2GenePairs/blob/master/figures/p_value.png = 50X)
+#![alt tag](https://github.com/NCBI-Hackathons/PubMed2GenePairs/blob/master/figures/p_value.png = 50X)
