@@ -11,10 +11,13 @@ The discovery of biological relationships between genes is one of the keys to un
 Schematics representation of GenRank pipeline. Counts of individual genes and gene pairs are obtained for all the data pubmed id based data provided. Individual and paired occurrence information is used to calculate the cdf based p-value using hypergeometric test.
 
 
+
+Our algorithm, which we refer to as GenRank (Fig. 1), provides a list of ranked genes given a target gene. We use the hypergeometric distribution to identify gene pairs that co-occur significantly in the subset of PubMed articles as follows. Let Nt be the number of documents in Medline that contain the target gene, Ns be the size of the document set that contain a candidate related gene, N be the size of Medline, and Nst be the number of documents that contain both genes. The random variable Y representing a number of documents containing both genes is a hypergeometric random variable with parameters Ns, Nt and N (Larson 1982). 
+
 Running GenRank
 ================================================
 
-Our algorithm, which we refer to as GenRank (Fig. 1), provides a list of ranked genes given a target gene. We use the hypergeometric distribution to identify gene pairs that co-occur significantly in the subset of PubMed articles as follows. Let Nt be the number of documents in Medline that contain the target gene, Ns be the size of the document set that contain a candidate related gene, N be the size of Medline, and Nst be the number of documents that contain both genes. The random variable Y representing a number of documents containing both genes is a hypergeometric random variable with parameters Ns, Nt and N (Larson 1982). The probability distribution of Y is shown as follows:
+#The probability distribution of Y is shown as follows:
 
 #![alt tag](https://github.com/NCBI-Hackathons/PubMed2GenePairs/blob/master/figures/P_y.png =50x)
 
